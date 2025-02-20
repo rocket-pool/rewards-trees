@@ -1,0 +1,2736 @@
+{
+  "rewardsFileVersion": 3,
+  "rulesetVersion": 10,
+  "network": "holesky",
+  "index": 318,
+  "startTime": "2025-02-18T03:34:24Z",
+  "endTime": "2025-02-20T03:34:12Z",
+  "consensusStartBlock": 3662272,
+  "consensusEndBlock": 3676671,
+  "executionStartBlock": 3375049,
+  "executionEndBlock": 3388487,
+  "intervalsPassed": 1,
+  "merkleRoot": "0x04e344a0bc4a2cd09eb4c7672a9270cdd668cead88a46a521806739882447bde",
+  "totalRewards": {
+    "protocolDaoRpl": "1410051655168975362430",
+    "totalCollateralRpl": "3602321746782053845371",
+    "totalOracleDaoRpl": "133800522023333428542",
+    "totalSmoothingPoolEth": "129712981941846476",
+    "poolStakerSmoothingPoolEth": "12",
+    "nodeOperatorSmoothingPoolEth": "129712981941846464",
+    "totalNodeWeight": "372646173138935402095332"
+  },
+  "networkRewards": {
+    "0": {
+      "collateralRpl": "3602321746782053845371",
+      "oracleDaoRpl": "133800522023333428542",
+      "smoothingPoolEth": "129712981941846464"
+    }
+  },
+  "nodeRewards": {
+    "0x009b1f2941c71ab48a0dc05941cb8ea9af21aa9a": {
+      "rewardNetwork": 0,
+      "collateralRpl": "3315792020235338737",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "0",
+      "merkleProof": [
+        "0x34034ea13057d447b14433204285a49eeec5c5da9a84374007df60de290493bf",
+        "0xbed4ea30549a3b8e98cf4a5ea73119b015d8f7be9bafd9d263117c1ce6d057f6",
+        "0x609a2e77235439766685d60ecea0ce71aa082fd4e9f88b8d1921232f81436553",
+        "0xce7e683ee2f24373c9958bb84340e07b40426437956ff85d3632095b2aadf898",
+        "0x448dbf81ba87f4a54d198064f8c89f7f0ecc08c550c7d9d0dfa2198934867291",
+        "0xf25d14e224551306655fa44c1cb1dbea818bf7c7754fc772f2b5185dddfb8685",
+        "0x25dee15aa950d4bc956c30260bd6723ce2996507e4ec9c147ca69b3c3f562055",
+        "0x2e7ba1ed1654174d200f2d508e4a4669d8d35a07e52e87e9f5562e204ed8f462"
+      ]
+    },
+    "0x02dcd2d20ec1144d59d30266e9b14db8d709b917": {
+      "rewardNetwork": 0,
+      "collateralRpl": "5117012062688259525",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "110150418692370",
+      "merkleProof": [
+        "0x6ddfbab0d5f48ade382227f585404e114eab73754f225d1b15cddfc70c14bd79",
+        "0xa9bdd38439853ba2b12deb4d74393bceac70b7bee31fdc81738929331cc30915",
+        "0x7ff8a2589d1d687421a9a63e181d83d3e51e07e2aa9cf92b8bd4bc455297ac03",
+        "0x2e0365e929851557b4a522fca5bf8c2eb5f40cf4666c540cd0b1b006b212887c",
+        "0x4f04114514d08c99c207e0c15e0ba29ac496946b6ae484aea008c86fe9cff4ad",
+        "0x3b94b2ea6c41f120c5393833b13fa3ea774a6801503c36c8e9338e5ebc60ad08",
+        "0x9dd3bc641717f32bb0dbc529f728579ea73848f2b77ebd9f878d77b7442fc276",
+        "0x2e7ba1ed1654174d200f2d508e4a4669d8d35a07e52e87e9f5562e204ed8f462"
+      ]
+    },
+    "0x03178884f9ac9745abd7fe02d9f0ff55170c8508": {
+      "rewardNetwork": 0,
+      "collateralRpl": "20352475296208922442",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "636395554403812",
+      "merkleProof": [
+        "0x44dbba68c4bf696caaa197335d22c60a508856526904b52cfad83616f7d3c39f",
+        "0x0b6cbf3fd3a396ac35b04d7c81d658f1d74ba6f4901f4d03bc89f316eddabdcb",
+        "0xffdcb1930042b96205076118b54219aeea8d9782c042730a09d0a386012fc291",
+        "0x2e88c436a4f82c6c5434ce743b524924016a271edea17c99aa9e5e147f887469",
+        "0x448dbf81ba87f4a54d198064f8c89f7f0ecc08c550c7d9d0dfa2198934867291",
+        "0xf25d14e224551306655fa44c1cb1dbea818bf7c7754fc772f2b5185dddfb8685",
+        "0x25dee15aa950d4bc956c30260bd6723ce2996507e4ec9c147ca69b3c3f562055",
+        "0x2e7ba1ed1654174d200f2d508e4a4669d8d35a07e52e87e9f5562e204ed8f462"
+      ]
+    },
+    "0x0413a467a2bd975eae50a648ec0b9b9123ecf2f8": {
+      "rewardNetwork": 0,
+      "collateralRpl": "1413570487999955772",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "0",
+      "merkleProof": [
+        "0xdb2186b9668aa326598662f160a7a96c255f484b9973fd64a698d706621c744c",
+        "0xd9e5024fd2a206f8314b426cf562282e882e34ca5326012bc7d96b71a79e48b7",
+        "0xa769f5f2da9167f14d819b43e4f3668fa97f8a3c1a7f226a1e4384d7c5fd3a9e",
+        "0x985ac110d815ce75b3ec5d0b2ff48897d5d7e5e8960372a51ba64c86b56618f9",
+        "0x600c9e63285ca4ccc31b71657b0c0222aefd0a7411ee55facbaa1a48ee018ff9",
+        "0x1416882ddc4de7e911b49598602dc577af88dd8f1fd8a08f64b3619a700c1c95",
+        "0x887c22bd8750d34016ac3c66b5ff102dacdd73f6b014e710b51e8022af9a1968",
+        "0xbbf10945978758dabe08af9f827001c581c7bdce631de23ddf283af70a7e370b"
+      ]
+    },
+    "0x0478225f05a470def8d7e0f51679d3fc24b140a2": {
+      "rewardNetwork": 0,
+      "collateralRpl": "1025139761427882542",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "0",
+      "merkleProof": [
+        "0x28845b1a11b15e13497e44d5779f7070a88dfcc729ed3a5d2dd634bc8251f302",
+        "0x3b94dd0269043a9ad0ded1d375158088c9554c66f497ca7d545b8e5e2676fb3b",
+        "0x108df52407b68e5d16ffecfb15b6aeaf1ea89df8f7f3e1a0f77391fc9d76df37",
+        "0xa112473f8f9208e67f940dcd9a87b6aaa0e6c58682929eae5c025858bf5fd44a",
+        "0x19fd6b432049b25e08f235bcb5d149cbbd1820867ce21d9e7094398f47a9ec8b",
+        "0xc0719256ee0195bed64a7a06092dd1b8ae9e663555cc5c410ea2c0626edec74a",
+        "0x25dee15aa950d4bc956c30260bd6723ce2996507e4ec9c147ca69b3c3f562055",
+        "0x2e7ba1ed1654174d200f2d508e4a4669d8d35a07e52e87e9f5562e204ed8f462"
+      ]
+    },
+    "0x0550c802da670111879334c2ac21393f2b9d4de2": {
+      "rewardNetwork": 0,
+      "collateralRpl": "828564660579976136",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "0",
+      "merkleProof": [
+        "0x5b7589290b6f767bece930a97a37a126d6235eebbff32f4b5bcf874205debe39",
+        "0x6df61877429ff1b1a18207efdbabe50e5243ededd1cc580e305cca41b5895c07",
+        "0xeb98c743775f55759f152dce089863664e7bec4a25d61bb6bd273e5d57902e55",
+        "0xc1c0d71d60a5981979b1a2d70cd4571a9ec81a65057286784bb412a7efdea68c",
+        "0xd07bdc3759cc3ef78628ba3d208a0a21deee0f25f93b78d45699e8b3a9cebe66",
+        "0xf25d14e224551306655fa44c1cb1dbea818bf7c7754fc772f2b5185dddfb8685",
+        "0x25dee15aa950d4bc956c30260bd6723ce2996507e4ec9c147ca69b3c3f562055",
+        "0x2e7ba1ed1654174d200f2d508e4a4669d8d35a07e52e87e9f5562e204ed8f462"
+      ]
+    },
+    "0x056c5dc909d7c1443233e5fe59119885e60c65aa": {
+      "rewardNetwork": 0,
+      "collateralRpl": "845745366664328663",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "0",
+      "merkleProof": [
+        "0x31862b7e8654147fe0efab2b96ec722a46041aaead5e6fafc787470e5da99934",
+        "0x0d6393e9cfb772893e46535037fcbbc49f0898457dc00ee398eb49fad61b8776",
+        "0x8f89f6f69c49c0efc5d155b4112abd947879a35186d9977f4356a9ec1b4515dc",
+        "0xce7e683ee2f24373c9958bb84340e07b40426437956ff85d3632095b2aadf898",
+        "0x448dbf81ba87f4a54d198064f8c89f7f0ecc08c550c7d9d0dfa2198934867291",
+        "0xf25d14e224551306655fa44c1cb1dbea818bf7c7754fc772f2b5185dddfb8685",
+        "0x25dee15aa950d4bc956c30260bd6723ce2996507e4ec9c147ca69b3c3f562055",
+        "0x2e7ba1ed1654174d200f2d508e4a4669d8d35a07e52e87e9f5562e204ed8f462"
+      ]
+    },
+    "0x06c11c32f7833e0dae04ce58977344d8173c8a91": {
+      "rewardNetwork": 0,
+      "collateralRpl": "1905030251294932846",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "0",
+      "merkleProof": [
+        "0x6e0de30f7e9b47c2d35e808eba40e94c4d5fb17f87868aac7ba72b2140989c85",
+        "0x4d1099e8be57824c2874eb8635b365977eeb8fd81547f145e2510595208e6d8b",
+        "0x7ff8a2589d1d687421a9a63e181d83d3e51e07e2aa9cf92b8bd4bc455297ac03",
+        "0x2e0365e929851557b4a522fca5bf8c2eb5f40cf4666c540cd0b1b006b212887c",
+        "0x4f04114514d08c99c207e0c15e0ba29ac496946b6ae484aea008c86fe9cff4ad",
+        "0x3b94b2ea6c41f120c5393833b13fa3ea774a6801503c36c8e9338e5ebc60ad08",
+        "0x9dd3bc641717f32bb0dbc529f728579ea73848f2b77ebd9f878d77b7442fc276",
+        "0x2e7ba1ed1654174d200f2d508e4a4669d8d35a07e52e87e9f5562e204ed8f462"
+      ]
+    },
+    "0x07ab6e3d3811766f846aa4ae34784f17d6c2383d": {
+      "rewardNetwork": 0,
+      "collateralRpl": "0",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "83022683019844",
+      "merkleProof": [
+        "0x8567efeb4b827d5921ed1b14299eedf657b4d8e2a2bd96dbfa33edcdd8694e3a",
+        "0xec3110a1e53694c46730ef7729e3eb93cb5108974a9e19e5a373faf167cd07dd",
+        "0x4608521c9cdd1548d0fec89c614f63c7e8a698125ea8c57d8172d2c354613984",
+        "0xae4cfb1af4646f38b5bfecabfe2b3db43392bd3eba27614658172014617dc0eb",
+        "0xd52cdc9e03999d8c6ce42bf05145e7127be774c0ad1bc9d28645b8218352da3c",
+        "0x289501ce40609cea14a3122692233813d5f7f884fba18f7f1a6edd2d0067bad7",
+        "0x9dd3bc641717f32bb0dbc529f728579ea73848f2b77ebd9f878d77b7442fc276",
+        "0x2e7ba1ed1654174d200f2d508e4a4669d8d35a07e52e87e9f5562e204ed8f462"
+      ]
+    },
+    "0x086d02082a728aea71adc7283fed35a557d48853": {
+      "rewardNetwork": 0,
+      "collateralRpl": "828564660579976136",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "0",
+      "merkleProof": [
+        "0x3d5de1b800b08e83fa647648005373c0a0a387a015b12f9d331cd212d152b922",
+        "0xd647511326651b7d2c98f49c0b08edd56ed3cbccf26b4719383fdc2e980b5cf0",
+        "0x8f5f26c771d4ebae9383f710efc682c2f94bf9b06eab9b43332fd98b9664bb62",
+        "0x2e88c436a4f82c6c5434ce743b524924016a271edea17c99aa9e5e147f887469",
+        "0x448dbf81ba87f4a54d198064f8c89f7f0ecc08c550c7d9d0dfa2198934867291",
+        "0xf25d14e224551306655fa44c1cb1dbea818bf7c7754fc772f2b5185dddfb8685",
+        "0x25dee15aa950d4bc956c30260bd6723ce2996507e4ec9c147ca69b3c3f562055",
+        "0x2e7ba1ed1654174d200f2d508e4a4669d8d35a07e52e87e9f5562e204ed8f462"
+      ]
+    },
+    "0x0a26015f3a2711464fb2a578d456e646bcb5a7df": {
+      "rewardNetwork": 0,
+      "collateralRpl": "1691490733328657327",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "0",
+      "merkleProof": [
+        "0x7184b6eaf2e12b1c75f73b9d5a44d7cad4b665e468953f75b1b00e48b0128def",
+        "0x82e2c4d5bd87c85f754f8ebb01755e0fb1f5cb1a85555b4460b7b161f3f609da",
+        "0x913a08728e4c80a908ea73f385e7aeaf1c4bf7bdad0d40ce405b941d5f718d8b",
+        "0x8fbe1c6dcf2147130398b6a7ff6124d23942721e802e9b2ee0799f17aefa482b",
+        "0x73aafd5f3cd113010a21744e726d4d818bfa11fbf14682e00cee12954a5d767f",
+        "0x3b94b2ea6c41f120c5393833b13fa3ea774a6801503c36c8e9338e5ebc60ad08",
+        "0x9dd3bc641717f32bb0dbc529f728579ea73848f2b77ebd9f878d77b7442fc276",
+        "0x2e7ba1ed1654174d200f2d508e4a4669d8d35a07e52e87e9f5562e204ed8f462"
+      ]
+    },
+    "0x0b4ead9adb79457816d446deb57d7a22f88c644c": {
+      "rewardNetwork": 0,
+      "collateralRpl": "1420852215996072154",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "36062609237814",
+      "merkleProof": [
+        "0x5d998ab494f5b1f67ee849a226a0fdf2dbfdc4766d2b4444b48e12af22556fdc",
+        "0x59b1382fb36707b15cb3871a7d21f627610550482229ec9cb001df427c8e0587",
+        "0xa85955f72c5c3fc1404895c255252750b226fad9a0c860a7d2719bb432cbeb6f",
+        "0xc1c0d71d60a5981979b1a2d70cd4571a9ec81a65057286784bb412a7efdea68c",
+        "0xd07bdc3759cc3ef78628ba3d208a0a21deee0f25f93b78d45699e8b3a9cebe66",
+        "0xf25d14e224551306655fa44c1cb1dbea818bf7c7754fc772f2b5185dddfb8685",
+        "0x25dee15aa950d4bc956c30260bd6723ce2996507e4ec9c147ca69b3c3f562055",
+        "0x2e7ba1ed1654174d200f2d508e4a4669d8d35a07e52e87e9f5562e204ed8f462"
+      ]
+    },
+    "0x0d3affddf629d5ef0d26ffd5371db9d47d72a2b2": {
+      "rewardNetwork": 0,
+      "collateralRpl": "12126415875377463828",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "0",
+      "merkleProof": [
+        "0x6f6f232131aa5e5f1dff8ed8ad92d855290f811e7fc9b1f0c76b0c1cceddb181",
+        "0x4d1099e8be57824c2874eb8635b365977eeb8fd81547f145e2510595208e6d8b",
+        "0x7ff8a2589d1d687421a9a63e181d83d3e51e07e2aa9cf92b8bd4bc455297ac03",
+        "0x2e0365e929851557b4a522fca5bf8c2eb5f40cf4666c540cd0b1b006b212887c",
+        "0x4f04114514d08c99c207e0c15e0ba29ac496946b6ae484aea008c86fe9cff4ad",
+        "0x3b94b2ea6c41f120c5393833b13fa3ea774a6801503c36c8e9338e5ebc60ad08",
+        "0x9dd3bc641717f32bb0dbc529f728579ea73848f2b77ebd9f878d77b7442fc276",
+        "0x2e7ba1ed1654174d200f2d508e4a4669d8d35a07e52e87e9f5562e204ed8f462"
+      ]
+    },
+    "0x125327299a92018780ef798096d3b7b6c85fa7bf": {
+      "rewardNetwork": 0,
+      "collateralRpl": "5600110601038109714",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "314695243992754",
+      "merkleProof": [
+        "0x732d0f8b088061a4e021a4f773a87a104d40ddd3f0e1b7d2224ddf17071f9c90",
+        "0x43025a420ddae798796e050677121e6de1035196accf1e848628931080a7198a",
+        "0x913a08728e4c80a908ea73f385e7aeaf1c4bf7bdad0d40ce405b941d5f718d8b",
+        "0x8fbe1c6dcf2147130398b6a7ff6124d23942721e802e9b2ee0799f17aefa482b",
+        "0x73aafd5f3cd113010a21744e726d4d818bfa11fbf14682e00cee12954a5d767f",
+        "0x3b94b2ea6c41f120c5393833b13fa3ea774a6801503c36c8e9338e5ebc60ad08",
+        "0x9dd3bc641717f32bb0dbc529f728579ea73848f2b77ebd9f878d77b7442fc276",
+        "0x2e7ba1ed1654174d200f2d508e4a4669d8d35a07e52e87e9f5562e204ed8f462"
+      ]
+    },
+    "0x12eb0885ea7007b7d6ed0bdc2fbfc6285a4c009f": {
+      "rewardNetwork": 0,
+      "collateralRpl": "0",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "73550322980188",
+      "merkleProof": [
+        "0x6ca4f3b32bd216d92b4a1dab029fa87eeab119bae4d4dc6a08f74706d6e7aabb",
+        "0xa9bdd38439853ba2b12deb4d74393bceac70b7bee31fdc81738929331cc30915",
+        "0x7ff8a2589d1d687421a9a63e181d83d3e51e07e2aa9cf92b8bd4bc455297ac03",
+        "0x2e0365e929851557b4a522fca5bf8c2eb5f40cf4666c540cd0b1b006b212887c",
+        "0x4f04114514d08c99c207e0c15e0ba29ac496946b6ae484aea008c86fe9cff4ad",
+        "0x3b94b2ea6c41f120c5393833b13fa3ea774a6801503c36c8e9338e5ebc60ad08",
+        "0x9dd3bc641717f32bb0dbc529f728579ea73848f2b77ebd9f878d77b7442fc276",
+        "0x2e7ba1ed1654174d200f2d508e4a4669d8d35a07e52e87e9f5562e204ed8f462"
+      ]
+    },
+    "0x132ee612df94bddcc6253c95ac5e725a99fb40e0": {
+      "rewardNetwork": 0,
+      "collateralRpl": "1095001113431211024",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "58953745215635",
+      "merkleProof": [
+        "0x61b0165cf49736c74a616386e337eb3114d21ed2413525287bd64223081aa099",
+        "0x72783fce7f487fbcf4e3f6cefb6e33b256d943dc1126403c2d1096f8b4867f1c",
+        "0x8b5ea48cf7e69da31b54d1f99c4c5cdb4941b3394c85bb5fb6cbe1fa0984330d",
+        "0xdf1ca47d541d44105b622f851799f316bd50547c4531e1ee0f355623dda2800b",
+        "0x4f04114514d08c99c207e0c15e0ba29ac496946b6ae484aea008c86fe9cff4ad",
+        "0x3b94b2ea6c41f120c5393833b13fa3ea774a6801503c36c8e9338e5ebc60ad08",
+        "0x9dd3bc641717f32bb0dbc529f728579ea73848f2b77ebd9f878d77b7442fc276",
+        "0x2e7ba1ed1654174d200f2d508e4a4669d8d35a07e52e87e9f5562e204ed8f462"
+      ]
+    },
+    "0x14646a602efe289eb46ef56e220ede4eed8bdfb6": {
+      "rewardNetwork": 0,
+      "collateralRpl": "1048724254663767542",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "0",
+      "merkleProof": [
+        "0x4c22bd003cac38f774f2bd7b830ea6f0ced720ebcd007bb826ef97c58fdb2993",
+        "0x06254868585ba036da261a08d7e991db6765b95e8f23a81f72622ef087a26995",
+        "0xfe0ffa0ead565b352912e4029038061308574802b173df26d56ab85136c5d0d0",
+        "0xc7c7424fba44ce8725e4c630c67a6b0f25d9e574c7be697a86c7f20045cf572c",
+        "0xd07bdc3759cc3ef78628ba3d208a0a21deee0f25f93b78d45699e8b3a9cebe66",
+        "0xf25d14e224551306655fa44c1cb1dbea818bf7c7754fc772f2b5185dddfb8685",
+        "0x25dee15aa950d4bc956c30260bd6723ce2996507e4ec9c147ca69b3c3f562055",
+        "0x2e7ba1ed1654174d200f2d508e4a4669d8d35a07e52e87e9f5562e204ed8f462"
+      ]
+    },
+    "0x14758ca0ccbc086be5317713f86b88ca578f469f": {
+      "rewardNetwork": 0,
+      "collateralRpl": "0",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "98597475637428",
+      "merkleProof": [
+        "0x1bb92c6c8a15e5c32550147c15e8296bd1b215f04194234849bdc1a5a60ad0c9",
+        "0x0a30d866480a389dfafeb60688cf02d9ceff8b596ce789f0dca6f4c1266e8059",
+        "0x1262eec031deb521bb45bb4f31e2c51470210b3e892cbc6ae195a999008544ac",
+        "0x56650f9a782a645e0f4919b473924eaadb499f530567e03e19f5fce3987815e2",
+        "0x63069c0b5ef895906424354831f8aded9da062a7a297eddc7e946aba07bea2a6",
+        "0xc0719256ee0195bed64a7a06092dd1b8ae9e663555cc5c410ea2c0626edec74a",
+        "0x25dee15aa950d4bc956c30260bd6723ce2996507e4ec9c147ca69b3c3f562055",
+        "0x2e7ba1ed1654174d200f2d508e4a4669d8d35a07e52e87e9f5562e204ed8f462"
+      ]
+    },
+    "0x14ccb76e562866a8a534120dc0250236e976152e": {
+      "rewardNetwork": 0,
+      "collateralRpl": "684990105440851405",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "0",
+      "merkleProof": [
+        "0x7255e3cbd1e9de3aa0648314c8b4bcfcde4946119d23415128f6b52e80164f0d",
+        "0x43025a420ddae798796e050677121e6de1035196accf1e848628931080a7198a",
+        "0x913a08728e4c80a908ea73f385e7aeaf1c4bf7bdad0d40ce405b941d5f718d8b",
+        "0x8fbe1c6dcf2147130398b6a7ff6124d23942721e802e9b2ee0799f17aefa482b",
+        "0x73aafd5f3cd113010a21744e726d4d818bfa11fbf14682e00cee12954a5d767f",
+        "0x3b94b2ea6c41f120c5393833b13fa3ea774a6801503c36c8e9338e5ebc60ad08",
+        "0x9dd3bc641717f32bb0dbc529f728579ea73848f2b77ebd9f878d77b7442fc276",
+        "0x2e7ba1ed1654174d200f2d508e4a4669d8d35a07e52e87e9f5562e204ed8f462"
+      ]
+    },
+    "0x163d06777f09925e10247e578ad2d53b70c55447": {
+      "rewardNetwork": 0,
+      "collateralRpl": "2029788879996880968718",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "108836134606496959",
+      "merkleProof": [
+        "0xf71cc2a7bdf20966eb716cd8fb1387eb2aa3b59d2fb9901b79bb97b9098249fa",
+        "0x8858c50e30d79c3aad3697e612c8ae1b9d47e309610af156aab5a36df550da60",
+        "0x726dd2b9d2a2616df0f94b150d9ceca51095b929953bca872f4ce3d4f7703a59",
+        "0x6b6904df15cf45936b928ed3d7e096465f6b80d461846e21de637b9f200a5493",
+        "0xe58769b32a1beaf1ea27375a44095a0d1fb664ce2dd358e7fcbfb78c26a19344",
+        "0x69cac70082e48c1abad5eaebfdca6f680ccbf3d974bf5bd8de0a317ee2b93c72",
+        "0x887c22bd8750d34016ac3c66b5ff102dacdd73f6b014e710b51e8022af9a1968",
+        "0xbbf10945978758dabe08af9f827001c581c7bdce631de23ddf283af70a7e370b"
+      ]
+    },
+    "0x165893213424066607f8c70cb1931de76bec6cd0": {
+      "rewardNetwork": 0,
+      "collateralRpl": "4533195165320801637",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "126061917738087",
+      "merkleProof": [
+        "0xec808f59b35472ccd27a2ae676f642d7226ed3f964fdb4a927e8fa1d1421672a",
+        "0x7c87217a28ff2c506ce331c7f0cdc8bc43fd11800e7ffaa7279167d5c2e8cf3f",
+        "0x3824f0bf6f3e061a04386b2c7ef40d4b4b617de75320b5182de39a02d6a9cfcb",
+        "0x826dc84b0c7000f17e6bc36c73667cfa57c01efbbbed8c6fd6faf4f0a4def54f",
+        "0x600c9e63285ca4ccc31b71657b0c0222aefd0a7411ee55facbaa1a48ee018ff9",
+        "0x1416882ddc4de7e911b49598602dc577af88dd8f1fd8a08f64b3619a700c1c95",
+        "0x887c22bd8750d34016ac3c66b5ff102dacdd73f6b014e710b51e8022af9a1968",
+        "0xbbf10945978758dabe08af9f827001c581c7bdce631de23ddf283af70a7e370b"
+      ]
+    },
+    "0x1cd1c524c58ffb8362201b1175a3ead12feb52cc": {
+      "rewardNetwork": 0,
+      "collateralRpl": "2866878078078720220",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "0",
+      "merkleProof": [
+        "0x98618cfbb5f3274efa304b7a7c4fbb10d32a3a409a9eb426dd1b205dad9d0e6a",
+        "0x551b2c81af167ad85564d94149c09014f6c73b3761ba264f8356ffdb74a12c06",
+        "0x09b10fff83920b773645f43318692e36b542c2bed101609e9ca78c0257ad87f1",
+        "0xe89848099b289343b1699b912a601488b8987f2d3d267e6428fa51d574b4f592",
+        "0x501fcec32e3b276160788b1a7224604273bc8bc1163edb5af868bde2ae210836",
+        "0x289501ce40609cea14a3122692233813d5f7f884fba18f7f1a6edd2d0067bad7",
+        "0x9dd3bc641717f32bb0dbc529f728579ea73848f2b77ebd9f878d77b7442fc276",
+        "0x2e7ba1ed1654174d200f2d508e4a4669d8d35a07e52e87e9f5562e204ed8f462"
+      ]
+    },
+    "0x20ad634ded247a8e7bcb8e0d07013987c21b146c": {
+      "rewardNetwork": 0,
+      "collateralRpl": "0",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "8536318196721",
+      "merkleProof": [
+        "0xd58b5604a5c691f7ad089807c98505179e8b90e13ffc4c67063cb877a73dbbc7",
+        "0x39c966487b0874820d4a6831ce42380e4654c7ca51ca4b7e580fc32e6efda792",
+        "0x117b5406ff97074ab3ed34c494dceae40d856befc5dfb6d607643a90451ba76c",
+        "0x224f5b986fcc3a84c7ae72de9a557711b5cc40e5afca71dc6f8653952ae6b8b8",
+        "0x9a06fb6cfae1f2fe451f3abf4f4ffea4374d6721b9b629e557fae39ba6de6f00",
+        "0x1416882ddc4de7e911b49598602dc577af88dd8f1fd8a08f64b3619a700c1c95",
+        "0x887c22bd8750d34016ac3c66b5ff102dacdd73f6b014e710b51e8022af9a1968",
+        "0xbbf10945978758dabe08af9f827001c581c7bdce631de23ddf283af70a7e370b"
+      ]
+    },
+    "0x243f023293bd902884de1e518bf79f278dd036b2": {
+      "rewardNetwork": 0,
+      "collateralRpl": "1025139761427882542",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "0",
+      "merkleProof": [
+        "0x3dadef95876d26a5886eae9a89d92570d1aa140dbca96a19ad2ff14124dc9fc6",
+        "0x8c674d7a34fb13eb69be09aa23636550d87a0ec568f048ea8056bcd439886853",
+        "0x8f5f26c771d4ebae9383f710efc682c2f94bf9b06eab9b43332fd98b9664bb62",
+        "0x2e88c436a4f82c6c5434ce743b524924016a271edea17c99aa9e5e147f887469",
+        "0x448dbf81ba87f4a54d198064f8c89f7f0ecc08c550c7d9d0dfa2198934867291",
+        "0xf25d14e224551306655fa44c1cb1dbea818bf7c7754fc772f2b5185dddfb8685",
+        "0x25dee15aa950d4bc956c30260bd6723ce2996507e4ec9c147ca69b3c3f562055",
+        "0x2e7ba1ed1654174d200f2d508e4a4669d8d35a07e52e87e9f5562e204ed8f462"
+      ]
+    },
+    "0x24998006e62ef67701bd4a882622d8ff1c69c581": {
+      "rewardNetwork": 0,
+      "collateralRpl": "845745366664328663",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "0",
+      "merkleProof": [
+        "0x40fd98b6da38e028b68b0dc7a2d37454912952b09f4fd9c3751a7063ff1dc9bb",
+        "0x8d581a3a96da1e9a4d7a82abb9dfa9d23baa9f1b46d8b5ce1cc0c77e68efc7dc",
+        "0xffdcb1930042b96205076118b54219aeea8d9782c042730a09d0a386012fc291",
+        "0x2e88c436a4f82c6c5434ce743b524924016a271edea17c99aa9e5e147f887469",
+        "0x448dbf81ba87f4a54d198064f8c89f7f0ecc08c550c7d9d0dfa2198934867291",
+        "0xf25d14e224551306655fa44c1cb1dbea818bf7c7754fc772f2b5185dddfb8685",
+        "0x25dee15aa950d4bc956c30260bd6723ce2996507e4ec9c147ca69b3c3f562055",
+        "0x2e7ba1ed1654174d200f2d508e4a4669d8d35a07e52e87e9f5562e204ed8f462"
+      ]
+    },
+    "0x24ca7bb99e2f678cc237895207cebabba99bb488": {
+      "rewardNetwork": 0,
+      "collateralRpl": "0",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "69310853987578",
+      "merkleProof": [
+        "0xac11e0dbf355e1d450c0f80888cb4f98168607d6c45bce8a93a1f547fe7f61ea",
+        "0xf6577b94caa45cb8416d4160c9a873ea4b6a6f6b2e881f0ace32ef3704afaba2",
+        "0x6b7c759f902defd69cb22e1864d5ac3c9993d334cab714544bfbbb7c3c0be5ff",
+        "0xcab7788f22873f5833cef3a3c637e2607b5fbfdfa65ec8c409bbf62ed0df5637",
+        "0x501fcec32e3b276160788b1a7224604273bc8bc1163edb5af868bde2ae210836",
+        "0x289501ce40609cea14a3122692233813d5f7f884fba18f7f1a6edd2d0067bad7",
+        "0x9dd3bc641717f32bb0dbc529f728579ea73848f2b77ebd9f878d77b7442fc276",
+        "0x2e7ba1ed1654174d200f2d508e4a4669d8d35a07e52e87e9f5562e204ed8f462"
+      ]
+    },
+    "0x2797eadcfa560ceb5b5e97a8a977f6407a03933b": {
+      "rewardNetwork": 0,
+      "collateralRpl": "2871484635433936349",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "36798580854912",
+      "merkleProof": [
+        "0x670e8d61618cd5e32702700c67edf3e55fd48ba93de459dc612f51a00b4647fc",
+        "0x10b690f47b5924138f794c0e4a592cd60a00d2856c8831e3a0e352978ab29f89",
+        "0xa2e1a3ec807e69cb69f1ac4ec847648a6bfe7bcf34d228b01003629b4bcb69b8",
+        "0x2e0365e929851557b4a522fca5bf8c2eb5f40cf4666c540cd0b1b006b212887c",
+        "0x4f04114514d08c99c207e0c15e0ba29ac496946b6ae484aea008c86fe9cff4ad",
+        "0x3b94b2ea6c41f120c5393833b13fa3ea774a6801503c36c8e9338e5ebc60ad08",
+        "0x9dd3bc641717f32bb0dbc529f728579ea73848f2b77ebd9f878d77b7442fc276",
+        "0x2e7ba1ed1654174d200f2d508e4a4669d8d35a07e52e87e9f5562e204ed8f462"
+      ]
+    },
+    "0x286c4892979142308fe15cc53c652bd05bdad4f7": {
+      "rewardNetwork": 0,
+      "collateralRpl": "1014894439997194396",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "0",
+      "merkleProof": [
+        "0x9992424fa6c7fa5ccbdf817994eaacece1fe12c317d4721af09fec585143affc",
+        "0x4027aeeadda24f6e807c79bf13769fd3c67ec94a025fbe3f6177330f1dc57e78",
+        "0xfc204c218860e4b456a36ee3de115143a813ce4cdd4bb0a041bf5d4f76a0fcbd",
+        "0xe89848099b289343b1699b912a601488b8987f2d3d267e6428fa51d574b4f592",
+        "0x501fcec32e3b276160788b1a7224604273bc8bc1163edb5af868bde2ae210836",
+        "0x289501ce40609cea14a3122692233813d5f7f884fba18f7f1a6edd2d0067bad7",
+        "0x9dd3bc641717f32bb0dbc529f728579ea73848f2b77ebd9f878d77b7442fc276",
+        "0x2e7ba1ed1654174d200f2d508e4a4669d8d35a07e52e87e9f5562e204ed8f462"
+      ]
+    },
+    "0x2ba408a813cb738d78e3bb51e4df1324d6d7c1b3": {
+      "rewardNetwork": 0,
+      "collateralRpl": "4072128611634836269",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "0",
+      "merkleProof": [
+        "0x9edb908d72393b2a5df13b13184a1c0ce48cd48fd051d3ba092a32d9cb4cef62",
+        "0x4027aeeadda24f6e807c79bf13769fd3c67ec94a025fbe3f6177330f1dc57e78",
+        "0xfc204c218860e4b456a36ee3de115143a813ce4cdd4bb0a041bf5d4f76a0fcbd",
+        "0xe89848099b289343b1699b912a601488b8987f2d3d267e6428fa51d574b4f592",
+        "0x501fcec32e3b276160788b1a7224604273bc8bc1163edb5af868bde2ae210836",
+        "0x289501ce40609cea14a3122692233813d5f7f884fba18f7f1a6edd2d0067bad7",
+        "0x9dd3bc641717f32bb0dbc529f728579ea73848f2b77ebd9f878d77b7442fc276",
+        "0x2e7ba1ed1654174d200f2d508e4a4669d8d35a07e52e87e9f5562e204ed8f462"
+      ]
+    },
+    "0x2bf1d649d1dc1170f54805ed8465f76ae1b2f448": {
+      "rewardNetwork": 0,
+      "collateralRpl": "1522341659995791594",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "0",
+      "merkleProof": [
+        "0x94e5cdff81aa82f1ba592c482a7c62b526141ec484fccb52b4cf265e2b05c797",
+        "0xf5e0003b8339f24c03e78579cf7adfd311005669c8aa1d645b67e2b0f9a1c552",
+        "0x1a4671b7a779ddc398a270766ec6274e3e1a5a100ea64a972bf0091d7c335355",
+        "0x9c39a78adb7399282e3e7f574670cb8d9a47fc81ff28cd86b988b0a90f3f8a60",
+        "0xd52cdc9e03999d8c6ce42bf05145e7127be774c0ad1bc9d28645b8218352da3c",
+        "0x289501ce40609cea14a3122692233813d5f7f884fba18f7f1a6edd2d0067bad7",
+        "0x9dd3bc641717f32bb0dbc529f728579ea73848f2b77ebd9f878d77b7442fc276",
+        "0x2e7ba1ed1654174d200f2d508e4a4669d8d35a07e52e87e9f5562e204ed8f462"
+      ]
+    },
+    "0x2c9c7a7cd8e0eda6ae3eb62bf621be6b1da1d96e": {
+      "rewardNetwork": 0,
+      "collateralRpl": "2330598728401549476",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "0",
+      "merkleProof": [
+        "0x93553e1703f42c7dd7a632ea1014628a8923bacd9c1c4c65b624c5dbbb6e5124",
+        "0x9bae7e2427a30d7ba7c939de35e8c26dd82bd7c3241ed89d18692e72d12afb91",
+        "0x1a4671b7a779ddc398a270766ec6274e3e1a5a100ea64a972bf0091d7c335355",
+        "0x9c39a78adb7399282e3e7f574670cb8d9a47fc81ff28cd86b988b0a90f3f8a60",
+        "0xd52cdc9e03999d8c6ce42bf05145e7127be774c0ad1bc9d28645b8218352da3c",
+        "0x289501ce40609cea14a3122692233813d5f7f884fba18f7f1a6edd2d0067bad7",
+        "0x9dd3bc641717f32bb0dbc529f728579ea73848f2b77ebd9f878d77b7442fc276",
+        "0x2e7ba1ed1654174d200f2d508e4a4669d8d35a07e52e87e9f5562e204ed8f462"
+      ]
+    },
+    "0x2e8bf7b6bc4904e0265fb434f8b556a164c47dcf": {
+      "rewardNetwork": 0,
+      "collateralRpl": "828564660579976136",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "0",
+      "merkleProof": [
+        "0xa7ae8d5a4ed84875c4b83f5e1fafd33e8d157139c139550e59b15207b4eac426",
+        "0x275187b467126a8c9a7347cdf9513a43f0449550e03ec44c789f1e1590960513",
+        "0x6b7c759f902defd69cb22e1864d5ac3c9993d334cab714544bfbbb7c3c0be5ff",
+        "0xcab7788f22873f5833cef3a3c637e2607b5fbfdfa65ec8c409bbf62ed0df5637",
+        "0x501fcec32e3b276160788b1a7224604273bc8bc1163edb5af868bde2ae210836",
+        "0x289501ce40609cea14a3122692233813d5f7f884fba18f7f1a6edd2d0067bad7",
+        "0x9dd3bc641717f32bb0dbc529f728579ea73848f2b77ebd9f878d77b7442fc276",
+        "0x2e7ba1ed1654174d200f2d508e4a4669d8d35a07e52e87e9f5562e204ed8f462"
+      ]
+    },
+    "0x2ed24b40a79b0d7921ed982fd658a4e5029f7d4d": {
+      "rewardNetwork": 0,
+      "collateralRpl": "684990105440851405",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "0",
+      "merkleProof": [
+        "0x9716eaa478617a6c9cc333c984ceea40cfc667a5dd5661ccf6752822f8cdfbf4",
+        "0x551b2c81af167ad85564d94149c09014f6c73b3761ba264f8356ffdb74a12c06",
+        "0x09b10fff83920b773645f43318692e36b542c2bed101609e9ca78c0257ad87f1",
+        "0xe89848099b289343b1699b912a601488b8987f2d3d267e6428fa51d574b4f592",
+        "0x501fcec32e3b276160788b1a7224604273bc8bc1163edb5af868bde2ae210836",
+        "0x289501ce40609cea14a3122692233813d5f7f884fba18f7f1a6edd2d0067bad7",
+        "0x9dd3bc641717f32bb0dbc529f728579ea73848f2b77ebd9f878d77b7442fc276",
+        "0x2e7ba1ed1654174d200f2d508e4a4669d8d35a07e52e87e9f5562e204ed8f462"
+      ]
+    },
+    "0x302bd518f0caede5391635291dc8e6b49eb1791a": {
+      "rewardNetwork": 0,
+      "collateralRpl": "1025139761427882542",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "0",
+      "merkleProof": [
+        "0x2080003bd1529bccd6eae74485b8e0d60d6115f6a6c620525961c9ad083508dc",
+        "0x06c6ccc8ee1be0fadd77a8034f7cca60f74c3aa7b9949421396e359d191edcf2",
+        "0x69011470b8b506d9efe78597a5509fd595d64288b4086118a0db46b8b637d5f6",
+        "0x8fa16fa47b725ccaa94c86b1252665d0411b80f3db7704b0c1e8ef296bda7639",
+        "0x19fd6b432049b25e08f235bcb5d149cbbd1820867ce21d9e7094398f47a9ec8b",
+        "0xc0719256ee0195bed64a7a06092dd1b8ae9e663555cc5c410ea2c0626edec74a",
+        "0x25dee15aa950d4bc956c30260bd6723ce2996507e4ec9c147ca69b3c3f562055",
+        "0x2e7ba1ed1654174d200f2d508e4a4669d8d35a07e52e87e9f5562e204ed8f462"
+      ]
+    },
+    "0x31b98629e608f8f968f261b4a011289034bec056": {
+      "rewardNetwork": 0,
+      "collateralRpl": "2458579977597985575",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "0",
+      "merkleProof": [
+        "0x630add9592e6d5b63d33b3fd96a8cfdddf7a70a91e07ab0493a5b220e616f235",
+        "0x10b690f47b5924138f794c0e4a592cd60a00d2856c8831e3a0e352978ab29f89",
+        "0xa2e1a3ec807e69cb69f1ac4ec847648a6bfe7bcf34d228b01003629b4bcb69b8",
+        "0x2e0365e929851557b4a522fca5bf8c2eb5f40cf4666c540cd0b1b006b212887c",
+        "0x4f04114514d08c99c207e0c15e0ba29ac496946b6ae484aea008c86fe9cff4ad",
+        "0x3b94b2ea6c41f120c5393833b13fa3ea774a6801503c36c8e9338e5ebc60ad08",
+        "0x9dd3bc641717f32bb0dbc529f728579ea73848f2b77ebd9f878d77b7442fc276",
+        "0x2e7ba1ed1654174d200f2d508e4a4669d8d35a07e52e87e9f5562e204ed8f462"
+      ]
+    },
+    "0x35882126c397caee425d45bca20baf7af482acab": {
+      "rewardNetwork": 0,
+      "collateralRpl": "3959088712969329141",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "0",
+      "merkleProof": [
+        "0xe9c07bcb597e70801cd6ec61c1fd2a4392f8d9233fb514251e3ee929ac69965e",
+        "0x023da5bac2b892babaf552a6438a792c93d01b5b7ade413032e12f6e83c69f7a",
+        "0xdd7e49d23918ce0be28a99d04dc9d3d2f32dd90466e189ae9f87fac372c81081",
+        "0x826dc84b0c7000f17e6bc36c73667cfa57c01efbbbed8c6fd6faf4f0a4def54f",
+        "0x600c9e63285ca4ccc31b71657b0c0222aefd0a7411ee55facbaa1a48ee018ff9",
+        "0x1416882ddc4de7e911b49598602dc577af88dd8f1fd8a08f64b3619a700c1c95",
+        "0x887c22bd8750d34016ac3c66b5ff102dacdd73f6b014e710b51e8022af9a1968",
+        "0xbbf10945978758dabe08af9f827001c581c7bdce631de23ddf283af70a7e370b"
+      ]
+    },
+    "0x3713ffc6d8b146a97892e6045c801f39ddb1510c": {
+      "rewardNetwork": 0,
+      "collateralRpl": "1082554069330340689",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "0",
+      "merkleProof": [
+        "0xaee2ad6f49d2ecda6a62acf121a2f9c81cad840ee435fc620229ef10797f5300",
+        "0xe95bf4043ba4ae7c8dfd9c9301de76e85e7e3e32de37566e7f930a96f02ab932",
+        "0xb261268f8ce135b48ddce7d2dc077e1ec2fd098fe58f36389d4ef13f4593d2e4",
+        "0xcab7788f22873f5833cef3a3c637e2607b5fbfdfa65ec8c409bbf62ed0df5637",
+        "0x501fcec32e3b276160788b1a7224604273bc8bc1163edb5af868bde2ae210836",
+        "0x289501ce40609cea14a3122692233813d5f7f884fba18f7f1a6edd2d0067bad7",
+        "0x9dd3bc641717f32bb0dbc529f728579ea73848f2b77ebd9f878d77b7442fc276",
+        "0x2e7ba1ed1654174d200f2d508e4a4669d8d35a07e52e87e9f5562e204ed8f462"
+      ]
+    },
+    "0x38afc1863bb352124de3da01f6e63654b50098fb": {
+      "rewardNetwork": 0,
+      "collateralRpl": "1691490733328657327",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "115446205871913",
+      "merkleProof": [
+        "0xa8a9e03e71bcc76848127e4764665d9f418385f3a27423c6e3fc821c178b3e5c",
+        "0x275187b467126a8c9a7347cdf9513a43f0449550e03ec44c789f1e1590960513",
+        "0x6b7c759f902defd69cb22e1864d5ac3c9993d334cab714544bfbbb7c3c0be5ff",
+        "0xcab7788f22873f5833cef3a3c637e2607b5fbfdfa65ec8c409bbf62ed0df5637",
+        "0x501fcec32e3b276160788b1a7224604273bc8bc1163edb5af868bde2ae210836",
+        "0x289501ce40609cea14a3122692233813d5f7f884fba18f7f1a6edd2d0067bad7",
+        "0x9dd3bc641717f32bb0dbc529f728579ea73848f2b77ebd9f878d77b7442fc276",
+        "0x2e7ba1ed1654174d200f2d508e4a4669d8d35a07e52e87e9f5562e204ed8f462"
+      ]
+    },
+    "0x3a93c8254e6b2c1385e2ff6da5c3340b5285685a": {
+      "rewardNetwork": 0,
+      "collateralRpl": "1725320547995230473",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "0",
+      "merkleProof": [
+        "0x805d6e6843d6507f11a7e337dc33261e0e8f8bff466aa2ca3621db35fa6076bb",
+        "0xad98bbd0b0e82828c0f2c874a945f8532932fb0eb312f60a39f793f535b6ef40",
+        "0x527f844043dc70e31fd241e58bf9dcb08e97ebcdd6b0d8508b849b6214b97739",
+        "0xae4cfb1af4646f38b5bfecabfe2b3db43392bd3eba27614658172014617dc0eb",
+        "0xd52cdc9e03999d8c6ce42bf05145e7127be774c0ad1bc9d28645b8218352da3c",
+        "0x289501ce40609cea14a3122692233813d5f7f884fba18f7f1a6edd2d0067bad7",
+        "0x9dd3bc641717f32bb0dbc529f728579ea73848f2b77ebd9f878d77b7442fc276",
+        "0x2e7ba1ed1654174d200f2d508e4a4669d8d35a07e52e87e9f5562e204ed8f462"
+      ]
+    },
+    "0x3b0683b9c5b10f2accd9487fb1d33585f6ea521e": {
+      "rewardNetwork": 0,
+      "collateralRpl": "1025139761427882542",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "0",
+      "merkleProof": [
+        "0xd76d39138504a28c4af5cad9c8421d8479726e57979d165c700344b0af213489",
+        "0xa86d25dfdeadd4ba36efee510d5e7eecd0e0e31c7349c84d424834abec7c07da",
+        "0xa769f5f2da9167f14d819b43e4f3668fa97f8a3c1a7f226a1e4384d7c5fd3a9e",
+        "0x985ac110d815ce75b3ec5d0b2ff48897d5d7e5e8960372a51ba64c86b56618f9",
+        "0x600c9e63285ca4ccc31b71657b0c0222aefd0a7411ee55facbaa1a48ee018ff9",
+        "0x1416882ddc4de7e911b49598602dc577af88dd8f1fd8a08f64b3619a700c1c95",
+        "0x887c22bd8750d34016ac3c66b5ff102dacdd73f6b014e710b51e8022af9a1968",
+        "0xbbf10945978758dabe08af9f827001c581c7bdce631de23ddf283af70a7e370b"
+      ]
+    },
+    "0x3cf1ddefaa166d494cf03ace9a7fc4c865576166": {
+      "rewardNetwork": 0,
+      "collateralRpl": "845745366664328663",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "0",
+      "merkleProof": [
+        "0xd5a2b1b93adea807cd0ddf0c126b9f79bf8a0de941585fb706143703ac888ade",
+        "0xac79bcafaff53fed7328e3e09e07e308a6e6e6d3797ff0ce92cfb2432340380a",
+        "0x117b5406ff97074ab3ed34c494dceae40d856befc5dfb6d607643a90451ba76c",
+        "0x224f5b986fcc3a84c7ae72de9a557711b5cc40e5afca71dc6f8653952ae6b8b8",
+        "0x9a06fb6cfae1f2fe451f3abf4f4ffea4374d6721b9b629e557fae39ba6de6f00",
+        "0x1416882ddc4de7e911b49598602dc577af88dd8f1fd8a08f64b3619a700c1c95",
+        "0x887c22bd8750d34016ac3c66b5ff102dacdd73f6b014e710b51e8022af9a1968",
+        "0xbbf10945978758dabe08af9f827001c581c7bdce631de23ddf283af70a7e370b"
+      ]
+    },
+    "0x3d84a7027496b4eb4f19a1e76f2336c6ac4437d0": {
+      "rewardNetwork": 0,
+      "collateralRpl": "2908128725541128558",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "0",
+      "merkleProof": [
+        "0x2419c00b09cf22ccd50c389cfb12cb806c27c3beb30bd1621fc9ecc996941a2d",
+        "0x089fcedf378c752d2067285072cea727662f7f20efad86bf163a6c5324d8e67a",
+        "0x69011470b8b506d9efe78597a5509fd595d64288b4086118a0db46b8b637d5f6",
+        "0x8fa16fa47b725ccaa94c86b1252665d0411b80f3db7704b0c1e8ef296bda7639",
+        "0x19fd6b432049b25e08f235bcb5d149cbbd1820867ce21d9e7094398f47a9ec8b",
+        "0xc0719256ee0195bed64a7a06092dd1b8ae9e663555cc5c410ea2c0626edec74a",
+        "0x25dee15aa950d4bc956c30260bd6723ce2996507e4ec9c147ca69b3c3f562055",
+        "0x2e7ba1ed1654174d200f2d508e4a4669d8d35a07e52e87e9f5562e204ed8f462"
+      ]
+    },
+    "0x4056646953791870117eada23eb2c6db111517db": {
+      "rewardNetwork": 0,
+      "collateralRpl": "991053058941081272",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "0",
+      "merkleProof": [
+        "0xff401c3140bc1e847cd698df640e9e75d1d46e39cee98dea0c57623eb8a81103",
+        "0xfb27374f884a387606e303fe9f7a2828f76d545d8f186c648e46747151eb8b0e",
+        "0xc854d1967b72564ae05a57498ece4b50da9f0d364e8212072ed86d2fefe2817d",
+        "0x6b6904df15cf45936b928ed3d7e096465f6b80d461846e21de637b9f200a5493",
+        "0xe58769b32a1beaf1ea27375a44095a0d1fb664ce2dd358e7fcbfb78c26a19344",
+        "0x69cac70082e48c1abad5eaebfdca6f680ccbf3d974bf5bd8de0a317ee2b93c72",
+        "0x887c22bd8750d34016ac3c66b5ff102dacdd73f6b014e710b51e8022af9a1968",
+        "0xbbf10945978758dabe08af9f827001c581c7bdce631de23ddf283af70a7e370b"
+      ]
+    },
+    "0x416e32f921c0dec0e98079c45b3dc9ef4b054cf1": {
+      "rewardNetwork": 0,
+      "collateralRpl": "679979274798120245",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "0",
+      "merkleProof": [
+        "0x2d66889f1606cfa5ea7b0d087facec0c032543c008c24a8c663c745a7c45213e",
+        "0x78b44d191dc79117a5de740782f29ae470512eff856e19f93978be5389277dd5",
+        "0x8f89f6f69c49c0efc5d155b4112abd947879a35186d9977f4356a9ec1b4515dc",
+        "0xce7e683ee2f24373c9958bb84340e07b40426437956ff85d3632095b2aadf898",
+        "0x448dbf81ba87f4a54d198064f8c89f7f0ecc08c550c7d9d0dfa2198934867291",
+        "0xf25d14e224551306655fa44c1cb1dbea818bf7c7754fc772f2b5185dddfb8685",
+        "0x25dee15aa950d4bc956c30260bd6723ce2996507e4ec9c147ca69b3c3f562055",
+        "0x2e7ba1ed1654174d200f2d508e4a4669d8d35a07e52e87e9f5562e204ed8f462"
+      ]
+    },
+    "0x4177b8a6ad5cb88771119c91c1c6dc8b6aad4575": {
+      "rewardNetwork": 0,
+      "collateralRpl": "7649380997798082394",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "147030774171404",
+      "merkleProof": [
+        "0xe5f9912c34b16dd4e74d10524f5a1433e28463753e3c052f3b631d30576214cf",
+        "0x023da5bac2b892babaf552a6438a792c93d01b5b7ade413032e12f6e83c69f7a",
+        "0xdd7e49d23918ce0be28a99d04dc9d3d2f32dd90466e189ae9f87fac372c81081",
+        "0x826dc84b0c7000f17e6bc36c73667cfa57c01efbbbed8c6fd6faf4f0a4def54f",
+        "0x600c9e63285ca4ccc31b71657b0c0222aefd0a7411ee55facbaa1a48ee018ff9",
+        "0x1416882ddc4de7e911b49598602dc577af88dd8f1fd8a08f64b3619a700c1c95",
+        "0x887c22bd8750d34016ac3c66b5ff102dacdd73f6b014e710b51e8022af9a1968",
+        "0xbbf10945978758dabe08af9f827001c581c7bdce631de23ddf283af70a7e370b"
+      ]
+    },
+    "0x42480731555c977e777815a935b854ae8d5d3159": {
+      "rewardNetwork": 0,
+      "collateralRpl": "845745366664328663",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "0",
+      "merkleProof": [
+        "0x62c22a78ceec57a79d007794c9f478273419a7992533762075f36132a1224d5f",
+        "0x5e3b4d4f9f26503e506aafde795fcb5bf0aa9bfc7ad869d34dd743b1ce8b889c",
+        "0x8b5ea48cf7e69da31b54d1f99c4c5cdb4941b3394c85bb5fb6cbe1fa0984330d",
+        "0xdf1ca47d541d44105b622f851799f316bd50547c4531e1ee0f355623dda2800b",
+        "0x4f04114514d08c99c207e0c15e0ba29ac496946b6ae484aea008c86fe9cff4ad",
+        "0x3b94b2ea6c41f120c5393833b13fa3ea774a6801503c36c8e9338e5ebc60ad08",
+        "0x9dd3bc641717f32bb0dbc529f728579ea73848f2b77ebd9f878d77b7442fc276",
+        "0x2e7ba1ed1654174d200f2d508e4a4669d8d35a07e52e87e9f5562e204ed8f462"
+      ]
+    },
+    "0x42a4e000523503f75764770f5b01cf85f22d774e": {
+      "rewardNetwork": 0,
+      "collateralRpl": "2131278323994108232",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "0",
+      "merkleProof": [
+        "0x2967174e9acf9cf4c32d0348905ef0e0939882730841a726981a723879f6c491",
+        "0x22768dd9c1b46b53fa274f31c6e38c7f0053254d38b6b3dd75c1e08145aeeddd",
+        "0xda92d7b4065e9e10a355d89e2f10941d98cf1c3baf3aa70ae72a0d24c0c67cde",
+        "0xa112473f8f9208e67f940dcd9a87b6aaa0e6c58682929eae5c025858bf5fd44a",
+        "0x19fd6b432049b25e08f235bcb5d149cbbd1820867ce21d9e7094398f47a9ec8b",
+        "0xc0719256ee0195bed64a7a06092dd1b8ae9e663555cc5c410ea2c0626edec74a",
+        "0x25dee15aa950d4bc956c30260bd6723ce2996507e4ec9c147ca69b3c3f562055",
+        "0x2e7ba1ed1654174d200f2d508e4a4669d8d35a07e52e87e9f5562e204ed8f462"
+      ]
+    },
+    "0x449ea6bcad59432b3e416e5c5b999b4d6dcf478a": {
+      "rewardNetwork": 0,
+      "collateralRpl": "1369569305850714950",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "0",
+      "merkleProof": [
+        "0x27c14f56a1a73e55b935a3cbb03d6d4b8df886c3b7813d444aca6268a0a245fe",
+        "0x4aea7022024dc2cb2e93a28572fab87634a0e369859aadc1f1255cfc8515dbb4",
+        "0x108df52407b68e5d16ffecfb15b6aeaf1ea89df8f7f3e1a0f77391fc9d76df37",
+        "0xa112473f8f9208e67f940dcd9a87b6aaa0e6c58682929eae5c025858bf5fd44a",
+        "0x19fd6b432049b25e08f235bcb5d149cbbd1820867ce21d9e7094398f47a9ec8b",
+        "0xc0719256ee0195bed64a7a06092dd1b8ae9e663555cc5c410ea2c0626edec74a",
+        "0x25dee15aa950d4bc956c30260bd6723ce2996507e4ec9c147ca69b3c3f562055",
+        "0x2e7ba1ed1654174d200f2d508e4a4669d8d35a07e52e87e9f5562e204ed8f462"
+      ]
+    },
+    "0x44b6261296a3a70ffa2f8f346092099d0656b089": {
+      "rewardNetwork": 0,
+      "collateralRpl": "0",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "13149931906074",
+      "merkleProof": [
+        "0x7c2cad731553ed179880a928556a8825ee19a4b084691e9fd7b4caa22c430333",
+        "0xe86377b8d4b6d6735f98cd9086df48d6244a19085f8b1c79efe0d50b1b0f5abb",
+        "0x9643c32ab4d648789c16529d919b96df74bff96eafa3edb1340234af91c90e52",
+        "0xfa98ae1a696cf6b59ef4e5f25edb6cf423a50e1194667a8a373481fa724a81c4",
+        "0x73aafd5f3cd113010a21744e726d4d818bfa11fbf14682e00cee12954a5d767f",
+        "0x3b94b2ea6c41f120c5393833b13fa3ea774a6801503c36c8e9338e5ebc60ad08",
+        "0x9dd3bc641717f32bb0dbc529f728579ea73848f2b77ebd9f878d77b7442fc276",
+        "0x2e7ba1ed1654174d200f2d508e4a4669d8d35a07e52e87e9f5562e204ed8f462"
+      ]
+    },
+    "0x4a129d2cc78c12bf2523d369d1fbc307484e213e": {
+      "rewardNetwork": 0,
+      "collateralRpl": "686745237731434874",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "0",
+      "merkleProof": [
+        "0x252a4df6d5384c7ba228f6242a6e7484f4d4b663fc2e61118c1ec1c820e41958",
+        "0x4aea7022024dc2cb2e93a28572fab87634a0e369859aadc1f1255cfc8515dbb4",
+        "0x108df52407b68e5d16ffecfb15b6aeaf1ea89df8f7f3e1a0f77391fc9d76df37",
+        "0xa112473f8f9208e67f940dcd9a87b6aaa0e6c58682929eae5c025858bf5fd44a",
+        "0x19fd6b432049b25e08f235bcb5d149cbbd1820867ce21d9e7094398f47a9ec8b",
+        "0xc0719256ee0195bed64a7a06092dd1b8ae9e663555cc5c410ea2c0626edec74a",
+        "0x25dee15aa950d4bc956c30260bd6723ce2996507e4ec9c147ca69b3c3f562055",
+        "0x2e7ba1ed1654174d200f2d508e4a4669d8d35a07e52e87e9f5562e204ed8f462"
+      ]
+    },
+    "0x4b5cd3636ee29b9aaac2afddd1a0791688726ee7": {
+      "rewardNetwork": 0,
+      "collateralRpl": "573359711179941066",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "0",
+      "merkleProof": [
+        "0xc4c3e57559165008dac41977e4522c1900eaaddd8321714f6ba40ce769997b6a",
+        "0xfcbb804224330371a4123f29ea79b44beec2cee5b6ede43d9c177527e0413245",
+        "0x64f0864b1494760298631904055f6e3634449f7de77c84e43cb53965a8c8c94f",
+        "0x2da06216e1e6774d38182371520bd66577aff07801d03256336bb2903dad076a",
+        "0x9a06fb6cfae1f2fe451f3abf4f4ffea4374d6721b9b629e557fae39ba6de6f00",
+        "0x1416882ddc4de7e911b49598602dc577af88dd8f1fd8a08f64b3619a700c1c95",
+        "0x887c22bd8750d34016ac3c66b5ff102dacdd73f6b014e710b51e8022af9a1968",
+        "0xbbf10945978758dabe08af9f827001c581c7bdce631de23ddf283af70a7e370b"
+      ]
+    },
+    "0x4c4cb9125bc30f070d0d71b7a4d3f4876d7bcf8f": {
+      "rewardNetwork": 0,
+      "collateralRpl": "1726166293361894802",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "0",
+      "merkleProof": [
+        "0x5eede0a49e2d9e4475f2b364b2030991cbf25c086cc1236b4bff0b383c52c4e9",
+        "0x62b95e48c3d87aad33263d52f26053c82379d43ae5b23d3dfc8f0782b6c9d8e3",
+        "0xef60f3eb154dfa1b217fb946929ddb43423c0a9ddf3a69a9c3945d8c7330d5f4",
+        "0xdf1ca47d541d44105b622f851799f316bd50547c4531e1ee0f355623dda2800b",
+        "0x4f04114514d08c99c207e0c15e0ba29ac496946b6ae484aea008c86fe9cff4ad",
+        "0x3b94b2ea6c41f120c5393833b13fa3ea774a6801503c36c8e9338e5ebc60ad08",
+        "0x9dd3bc641717f32bb0dbc529f728579ea73848f2b77ebd9f878d77b7442fc276",
+        "0x2e7ba1ed1654174d200f2d508e4a4669d8d35a07e52e87e9f5562e204ed8f462"
+      ]
+    },
+    "0x522d86660d6d220f2aed79636e999356d97e43a0": {
+      "rewardNetwork": 0,
+      "collateralRpl": "1376836555633713943",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "0",
+      "merkleProof": [
+        "0x760d995d92d9c0a639a4ef0f7787f5e58e512493ed38d41ba9faf2e0d056d7c0",
+        "0xcffdef64bce74baaae992d082739f5e9ab0efe1487f4507028fa0caf5d4a055f",
+        "0x9bf6b20c950acdca34459e211f1e12072085b276804fe73acd5ea36ff458be17",
+        "0xfa98ae1a696cf6b59ef4e5f25edb6cf423a50e1194667a8a373481fa724a81c4",
+        "0x73aafd5f3cd113010a21744e726d4d818bfa11fbf14682e00cee12954a5d767f",
+        "0x3b94b2ea6c41f120c5393833b13fa3ea774a6801503c36c8e9338e5ebc60ad08",
+        "0x9dd3bc641717f32bb0dbc529f728579ea73848f2b77ebd9f878d77b7442fc276",
+        "0x2e7ba1ed1654174d200f2d508e4a4669d8d35a07e52e87e9f5562e204ed8f462"
+      ]
+    },
+    "0x538cbba5db9c3c0089d84f77e11494f8057d864f": {
+      "rewardNetwork": 0,
+      "collateralRpl": "916158930480493432",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "0",
+      "merkleProof": [
+        "0x00510d6a61411077c54a8d3c96434b43f4f478064f4363a19588642adc89c62a",
+        "0x026f3fce392cf788fbe0d205562b58c683bedb0c92d2c1515e7e9c9aa9a59c2e",
+        "0x60c1d6aa3a87708b995f91d941b487f15d291e0eafac031a2aa418a3ee90092a",
+        "0x314929c23353c6f7f66c84e6a91e8bd6ca5816fd002a361329fbb927b0dbd130",
+        "0x63069c0b5ef895906424354831f8aded9da062a7a297eddc7e946aba07bea2a6",
+        "0xc0719256ee0195bed64a7a06092dd1b8ae9e663555cc5c410ea2c0626edec74a",
+        "0x25dee15aa950d4bc956c30260bd6723ce2996507e4ec9c147ca69b3c3f562055",
+        "0x2e7ba1ed1654174d200f2d508e4a4669d8d35a07e52e87e9f5562e204ed8f462"
+      ]
+    },
+    "0x56fdb0ccdea6a850c0eee471bdbf8b3619c1edb7": {
+      "rewardNetwork": 0,
+      "collateralRpl": "1247105204471189730",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "0",
+      "merkleProof": [
+        "0x4c058963e4c5b0ab37af3b533475a87dd0a19a9cf040c82fde4c47dea0cd2522",
+        "0x389da963785acbc24e05b47a5323be78da244a67d90beb9ed54e6ece873a07c7",
+        "0xfe0ffa0ead565b352912e4029038061308574802b173df26d56ab85136c5d0d0",
+        "0xc7c7424fba44ce8725e4c630c67a6b0f25d9e574c7be697a86c7f20045cf572c",
+        "0xd07bdc3759cc3ef78628ba3d208a0a21deee0f25f93b78d45699e8b3a9cebe66",
+        "0xf25d14e224551306655fa44c1cb1dbea818bf7c7754fc772f2b5185dddfb8685",
+        "0x25dee15aa950d4bc956c30260bd6723ce2996507e4ec9c147ca69b3c3f562055",
+        "0x2e7ba1ed1654174d200f2d508e4a4669d8d35a07e52e87e9f5562e204ed8f462"
+      ]
+    },
+    "0x570782ec244c59fc5edc1e090188cd83548ead87": {
+      "rewardNetwork": 0,
+      "collateralRpl": "826293223231049103",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "0",
+      "merkleProof": [
+        "0x58670b4d301cf2e1608aa74bde18793a9e22538a814b9966f37a63e9bc18487f",
+        "0xdf397f699f79bc51235c7ec90ed2946251bf537b69c7693f0840784b4cbb19d6",
+        "0xeb98c743775f55759f152dce089863664e7bec4a25d61bb6bd273e5d57902e55",
+        "0xc1c0d71d60a5981979b1a2d70cd4571a9ec81a65057286784bb412a7efdea68c",
+        "0xd07bdc3759cc3ef78628ba3d208a0a21deee0f25f93b78d45699e8b3a9cebe66",
+        "0xf25d14e224551306655fa44c1cb1dbea818bf7c7754fc772f2b5185dddfb8685",
+        "0x25dee15aa950d4bc956c30260bd6723ce2996507e4ec9c147ca69b3c3f562055",
+        "0x2e7ba1ed1654174d200f2d508e4a4669d8d35a07e52e87e9f5562e204ed8f462"
+      ]
+    },
+    "0x5ab438abbbadf322de8e8b823a91fa4fb120497b": {
+      "rewardNetwork": 0,
+      "collateralRpl": "1184043513330060129",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "0",
+      "merkleProof": [
+        "0x5dc4510cc31c01bad834bc67f392760fe25e3740e0dab211192560eb44f8596a",
+        "0x62b95e48c3d87aad33263d52f26053c82379d43ae5b23d3dfc8f0782b6c9d8e3",
+        "0xef60f3eb154dfa1b217fb946929ddb43423c0a9ddf3a69a9c3945d8c7330d5f4",
+        "0xdf1ca47d541d44105b622f851799f316bd50547c4531e1ee0f355623dda2800b",
+        "0x4f04114514d08c99c207e0c15e0ba29ac496946b6ae484aea008c86fe9cff4ad",
+        "0x3b94b2ea6c41f120c5393833b13fa3ea774a6801503c36c8e9338e5ebc60ad08",
+        "0x9dd3bc641717f32bb0dbc529f728579ea73848f2b77ebd9f878d77b7442fc276",
+        "0x2e7ba1ed1654174d200f2d508e4a4669d8d35a07e52e87e9f5562e204ed8f462"
+      ]
+    },
+    "0x5b649174b9384c6ed1c474dbf2248c7b130a0288": {
+      "rewardNetwork": 0,
+      "collateralRpl": "1369054512200306360",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "0",
+      "merkleProof": [
+        "0x7c3b5f1a1b52e2b915d5d75bbf6c74122727cf6ef36eee362792298bc29308fd",
+        "0xe86377b8d4b6d6735f98cd9086df48d6244a19085f8b1c79efe0d50b1b0f5abb",
+        "0x9643c32ab4d648789c16529d919b96df74bff96eafa3edb1340234af91c90e52",
+        "0xfa98ae1a696cf6b59ef4e5f25edb6cf423a50e1194667a8a373481fa724a81c4",
+        "0x73aafd5f3cd113010a21744e726d4d818bfa11fbf14682e00cee12954a5d767f",
+        "0x3b94b2ea6c41f120c5393833b13fa3ea774a6801503c36c8e9338e5ebc60ad08",
+        "0x9dd3bc641717f32bb0dbc529f728579ea73848f2b77ebd9f878d77b7442fc276",
+        "0x2e7ba1ed1654174d200f2d508e4a4669d8d35a07e52e87e9f5562e204ed8f462"
+      ]
+    },
+    "0x5bcf07d5e499871ba8d914fb5179c37e4b11c1d3": {
+      "rewardNetwork": 0,
+      "collateralRpl": "1025139761427882542",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "0",
+      "merkleProof": [
+        "0x523ae06ff0698d49db9e26c510a6b6022e149023af1d09456545c682cd6dbd5d",
+        "0xc556a1a8d3f72af76a76fee98d265fb7bd0ec0c6c8339969fdce77598a9dc0b5",
+        "0xd66dc9bd3442516aad6eda51b61ba4eeb75feb046a815af64c5104194ae2a5cd",
+        "0xc7c7424fba44ce8725e4c630c67a6b0f25d9e574c7be697a86c7f20045cf572c",
+        "0xd07bdc3759cc3ef78628ba3d208a0a21deee0f25f93b78d45699e8b3a9cebe66",
+        "0xf25d14e224551306655fa44c1cb1dbea818bf7c7754fc772f2b5185dddfb8685",
+        "0x25dee15aa950d4bc956c30260bd6723ce2996507e4ec9c147ca69b3c3f562055",
+        "0x2e7ba1ed1654174d200f2d508e4a4669d8d35a07e52e87e9f5562e204ed8f462"
+      ]
+    },
+    "0x5cbbd2db603ddc8f93010dfd834fc455a9473ae9": {
+      "rewardNetwork": 0,
+      "collateralRpl": "2645660613670492865",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "0",
+      "merkleProof": [
+        "0x72099d5a6e67d6aacf16467131c13f1ed757eed1c6f6e6d5e81f3e6506bd0845",
+        "0x82e2c4d5bd87c85f754f8ebb01755e0fb1f5cb1a85555b4460b7b161f3f609da",
+        "0x913a08728e4c80a908ea73f385e7aeaf1c4bf7bdad0d40ce405b941d5f718d8b",
+        "0x8fbe1c6dcf2147130398b6a7ff6124d23942721e802e9b2ee0799f17aefa482b",
+        "0x73aafd5f3cd113010a21744e726d4d818bfa11fbf14682e00cee12954a5d767f",
+        "0x3b94b2ea6c41f120c5393833b13fa3ea774a6801503c36c8e9338e5ebc60ad08",
+        "0x9dd3bc641717f32bb0dbc529f728579ea73848f2b77ebd9f878d77b7442fc276",
+        "0x2e7ba1ed1654174d200f2d508e4a4669d8d35a07e52e87e9f5562e204ed8f462"
+      ]
+    },
+    "0x5d316699c9236a1de6173ec9ef6e375bc082bfab": {
+      "rewardNetwork": 0,
+      "collateralRpl": "1691490733328657327",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "0",
+      "merkleProof": [
+        "0xc4d66d5d8f55fbf06e5a13fc93cb315fa108489b7ce105653644319b2d6fae60",
+        "0xa2009910df34c298b406a3f08496d4a57abfb3daad35402bd161515c23bde327",
+        "0x64f0864b1494760298631904055f6e3634449f7de77c84e43cb53965a8c8c94f",
+        "0x2da06216e1e6774d38182371520bd66577aff07801d03256336bb2903dad076a",
+        "0x9a06fb6cfae1f2fe451f3abf4f4ffea4374d6721b9b629e557fae39ba6de6f00",
+        "0x1416882ddc4de7e911b49598602dc577af88dd8f1fd8a08f64b3619a700c1c95",
+        "0x887c22bd8750d34016ac3c66b5ff102dacdd73f6b014e710b51e8022af9a1968",
+        "0xbbf10945978758dabe08af9f827001c581c7bdce631de23ddf283af70a7e370b"
+      ]
+    },
+    "0x5e50034a2f20294657b2ce337f645a63478df0dc": {
+      "rewardNetwork": 0,
+      "collateralRpl": "2858452847259530965",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "127958070181507",
+      "merkleProof": [
+        "0xc5a75476b3595f2748e1da46298d72b3d1627341ee169da861b98187ede1a08c",
+        "0xa2009910df34c298b406a3f08496d4a57abfb3daad35402bd161515c23bde327",
+        "0x64f0864b1494760298631904055f6e3634449f7de77c84e43cb53965a8c8c94f",
+        "0x2da06216e1e6774d38182371520bd66577aff07801d03256336bb2903dad076a",
+        "0x9a06fb6cfae1f2fe451f3abf4f4ffea4374d6721b9b629e557fae39ba6de6f00",
+        "0x1416882ddc4de7e911b49598602dc577af88dd8f1fd8a08f64b3619a700c1c95",
+        "0x887c22bd8750d34016ac3c66b5ff102dacdd73f6b014e710b51e8022af9a1968",
+        "0xbbf10945978758dabe08af9f827001c581c7bdce631de23ddf283af70a7e370b"
+      ]
+    },
+    "0x602f657090fe0dd52cdb4dd23229ba3a88ca4ab5": {
+      "rewardNetwork": 0,
+      "collateralRpl": "2218990790778871240",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "0",
+      "merkleProof": [
+        "0xdb2c47bdebc1aee72041a55ab3f31e95bf615b3c6c3a5816527ba7c797108b70",
+        "0xd9e5024fd2a206f8314b426cf562282e882e34ca5326012bc7d96b71a79e48b7",
+        "0xa769f5f2da9167f14d819b43e4f3668fa97f8a3c1a7f226a1e4384d7c5fd3a9e",
+        "0x985ac110d815ce75b3ec5d0b2ff48897d5d7e5e8960372a51ba64c86b56618f9",
+        "0x600c9e63285ca4ccc31b71657b0c0222aefd0a7411ee55facbaa1a48ee018ff9",
+        "0x1416882ddc4de7e911b49598602dc577af88dd8f1fd8a08f64b3619a700c1c95",
+        "0x887c22bd8750d34016ac3c66b5ff102dacdd73f6b014e710b51e8022af9a1968",
+        "0xbbf10945978758dabe08af9f827001c581c7bdce631de23ddf283af70a7e370b"
+      ]
+    },
+    "0x62ab1c2cb1342dc44e4aadfedc6c87a93c636d6a": {
+      "rewardNetwork": 0,
+      "collateralRpl": "3923635408669211488",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "245371713203504",
+      "merkleProof": [
+        "0x35583ae00d45fcda47fcb21933862e824d12d176c07e53e72eefd3d86dd03599",
+        "0xbed4ea30549a3b8e98cf4a5ea73119b015d8f7be9bafd9d263117c1ce6d057f6",
+        "0x609a2e77235439766685d60ecea0ce71aa082fd4e9f88b8d1921232f81436553",
+        "0xce7e683ee2f24373c9958bb84340e07b40426437956ff85d3632095b2aadf898",
+        "0x448dbf81ba87f4a54d198064f8c89f7f0ecc08c550c7d9d0dfa2198934867291",
+        "0xf25d14e224551306655fa44c1cb1dbea818bf7c7754fc772f2b5185dddfb8685",
+        "0x25dee15aa950d4bc956c30260bd6723ce2996507e4ec9c147ca69b3c3f562055",
+        "0x2e7ba1ed1654174d200f2d508e4a4669d8d35a07e52e87e9f5562e204ed8f462"
+      ]
+    },
+    "0x6333d258abdc2054961746043d43418a6d74c814": {
+      "rewardNetwork": 0,
+      "collateralRpl": "2956650318548278604",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "177123835848311",
+      "merkleProof": [
+        "0x502928634f74b63a07b8e1d9b3067ceac5644db8276c8e29f7998e4ef8febbdd",
+        "0xc556a1a8d3f72af76a76fee98d265fb7bd0ec0c6c8339969fdce77598a9dc0b5",
+        "0xd66dc9bd3442516aad6eda51b61ba4eeb75feb046a815af64c5104194ae2a5cd",
+        "0xc7c7424fba44ce8725e4c630c67a6b0f25d9e574c7be697a86c7f20045cf572c",
+        "0xd07bdc3759cc3ef78628ba3d208a0a21deee0f25f93b78d45699e8b3a9cebe66",
+        "0xf25d14e224551306655fa44c1cb1dbea818bf7c7754fc772f2b5185dddfb8685",
+        "0x25dee15aa950d4bc956c30260bd6723ce2996507e4ec9c147ca69b3c3f562055",
+        "0x2e7ba1ed1654174d200f2d508e4a4669d8d35a07e52e87e9f5562e204ed8f462"
+      ]
+    },
+    "0x6672bdd5e5268f8edce16ca898ea356a9d1a47d6": {
+      "rewardNetwork": 0,
+      "collateralRpl": "557083271000733109",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "0",
+      "merkleProof": [
+        "0x77c339b6ec103ff7ddcb902fa1b7c758a54e77c706e0acb410f1b0c4a76581c8",
+        "0xdb7361ff1da2415df02e907d481ccf3a2a4687c4d9261675ab304436ba392c33",
+        "0x9bf6b20c950acdca34459e211f1e12072085b276804fe73acd5ea36ff458be17",
+        "0xfa98ae1a696cf6b59ef4e5f25edb6cf423a50e1194667a8a373481fa724a81c4",
+        "0x73aafd5f3cd113010a21744e726d4d818bfa11fbf14682e00cee12954a5d767f",
+        "0x3b94b2ea6c41f120c5393833b13fa3ea774a6801503c36c8e9338e5ebc60ad08",
+        "0x9dd3bc641717f32bb0dbc529f728579ea73848f2b77ebd9f878d77b7442fc276",
+        "0x2e7ba1ed1654174d200f2d508e4a4669d8d35a07e52e87e9f5562e204ed8f462"
+      ]
+    },
+    "0x668b1560468c3641085a4e50d5018af2e3befb81": {
+      "rewardNetwork": 0,
+      "collateralRpl": "1606916196662224460",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "0",
+      "merkleProof": [
+        "0x4df668e781a6a7356f9fe16655c48fdcc91c9b3a10cc5439084eca8a51a10098",
+        "0xad5e938dd5ee3aa41fce3ebe2b08a8359417ff63a26624f9863ca934100e7f4f",
+        "0xd66dc9bd3442516aad6eda51b61ba4eeb75feb046a815af64c5104194ae2a5cd",
+        "0xc7c7424fba44ce8725e4c630c67a6b0f25d9e574c7be697a86c7f20045cf572c",
+        "0xd07bdc3759cc3ef78628ba3d208a0a21deee0f25f93b78d45699e8b3a9cebe66",
+        "0xf25d14e224551306655fa44c1cb1dbea818bf7c7754fc772f2b5185dddfb8685",
+        "0x25dee15aa950d4bc956c30260bd6723ce2996507e4ec9c147ca69b3c3f562055",
+        "0x2e7ba1ed1654174d200f2d508e4a4669d8d35a07e52e87e9f5562e204ed8f462"
+      ]
+    },
+    "0x6891672f6d0c4423c392e368df4d8783218bc4b6": {
+      "rewardNetwork": 0,
+      "collateralRpl": "2320048564956968020",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "127750148934238",
+      "merkleProof": [
+        "0x5c1d3ee329d30e22ba944fcbad7a5fc1e8608b4f57060528a34b6f56f6bd1be3",
+        "0xc1f1a2a549b000aea1e507587a3bdcca17e9bafbb4ac5b18709d81777b87bc4b",
+        "0xa85955f72c5c3fc1404895c255252750b226fad9a0c860a7d2719bb432cbeb6f",
+        "0xc1c0d71d60a5981979b1a2d70cd4571a9ec81a65057286784bb412a7efdea68c",
+        "0xd07bdc3759cc3ef78628ba3d208a0a21deee0f25f93b78d45699e8b3a9cebe66",
+        "0xf25d14e224551306655fa44c1cb1dbea818bf7c7754fc772f2b5185dddfb8685",
+        "0x25dee15aa950d4bc956c30260bd6723ce2996507e4ec9c147ca69b3c3f562055",
+        "0x2e7ba1ed1654174d200f2d508e4a4669d8d35a07e52e87e9f5562e204ed8f462"
+      ]
+    },
+    "0x6a013b21c31b06387ea660e863f7cc4315abfbcc": {
+      "rewardNetwork": 0,
+      "collateralRpl": "2135707836308088433",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "0",
+      "merkleProof": [
+        "0x818238c8663bc7dac124f5806b25de911c7c702237da6ae63f7f9cf730b6b352",
+        "0xe246a9ff687c96d323dc80ee573997407a7938320db9ce7c01131a94edc1aeed",
+        "0x4608521c9cdd1548d0fec89c614f63c7e8a698125ea8c57d8172d2c354613984",
+        "0xae4cfb1af4646f38b5bfecabfe2b3db43392bd3eba27614658172014617dc0eb",
+        "0xd52cdc9e03999d8c6ce42bf05145e7127be774c0ad1bc9d28645b8218352da3c",
+        "0x289501ce40609cea14a3122692233813d5f7f884fba18f7f1a6edd2d0067bad7",
+        "0x9dd3bc641717f32bb0dbc529f728579ea73848f2b77ebd9f878d77b7442fc276",
+        "0x2e7ba1ed1654174d200f2d508e4a4669d8d35a07e52e87e9f5562e204ed8f462"
+      ]
+    },
+    "0x6a4cdf22eff19a3d354f78727b734d56ca9a475e": {
+      "rewardNetwork": 0,
+      "collateralRpl": "684990105440851405",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "0",
+      "merkleProof": [
+        "0xa2b112eff56aec0128d7cbb833e7605985b964f1595e6d8899e56d78e9ee5c92",
+        "0xeabf84513342ca05b11f434ce87d2a5ecf5d573c625408a76f23cf4cb426a4d1",
+        "0xfc204c218860e4b456a36ee3de115143a813ce4cdd4bb0a041bf5d4f76a0fcbd",
+        "0xe89848099b289343b1699b912a601488b8987f2d3d267e6428fa51d574b4f592",
+        "0x501fcec32e3b276160788b1a7224604273bc8bc1163edb5af868bde2ae210836",
+        "0x289501ce40609cea14a3122692233813d5f7f884fba18f7f1a6edd2d0067bad7",
+        "0x9dd3bc641717f32bb0dbc529f728579ea73848f2b77ebd9f878d77b7442fc276",
+        "0x2e7ba1ed1654174d200f2d508e4a4669d8d35a07e52e87e9f5562e204ed8f462"
+      ]
+    },
+    "0x6a7f224a8a008bc4d064731f5c3623c5778b41dd": {
+      "rewardNetwork": 0,
+      "collateralRpl": "1058405884745346834",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "0",
+      "merkleProof": [
+        "0x4d5fca26c4c99514cbe3939f1303fab68cf9b0a08d7fcccd08263ccdf08bcfc1",
+        "0x06254868585ba036da261a08d7e991db6765b95e8f23a81f72622ef087a26995",
+        "0xfe0ffa0ead565b352912e4029038061308574802b173df26d56ab85136c5d0d0",
+        "0xc7c7424fba44ce8725e4c630c67a6b0f25d9e574c7be697a86c7f20045cf572c",
+        "0xd07bdc3759cc3ef78628ba3d208a0a21deee0f25f93b78d45699e8b3a9cebe66",
+        "0xf25d14e224551306655fa44c1cb1dbea818bf7c7754fc772f2b5185dddfb8685",
+        "0x25dee15aa950d4bc956c30260bd6723ce2996507e4ec9c147ca69b3c3f562055",
+        "0x2e7ba1ed1654174d200f2d508e4a4669d8d35a07e52e87e9f5562e204ed8f462"
+      ]
+    },
+    "0x6d9a3ca98b8700b76cc350d1ad5a3ff86a12c306": {
+      "rewardNetwork": 0,
+      "collateralRpl": "0",
+      "oracleDaoRpl": "44600174007777809514",
+      "smoothingPoolEth": "0",
+      "merkleProof": [
+        "0x5ace90e87ce6d8010795d9f3a75af3a7aff99407875dce3d71d13d3fd579baec",
+        "0x6df61877429ff1b1a18207efdbabe50e5243ededd1cc580e305cca41b5895c07",
+        "0xeb98c743775f55759f152dce089863664e7bec4a25d61bb6bd273e5d57902e55",
+        "0xc1c0d71d60a5981979b1a2d70cd4571a9ec81a65057286784bb412a7efdea68c",
+        "0xd07bdc3759cc3ef78628ba3d208a0a21deee0f25f93b78d45699e8b3a9cebe66",
+        "0xf25d14e224551306655fa44c1cb1dbea818bf7c7754fc772f2b5185dddfb8685",
+        "0x25dee15aa950d4bc956c30260bd6723ce2996507e4ec9c147ca69b3c3f562055",
+        "0x2e7ba1ed1654174d200f2d508e4a4669d8d35a07e52e87e9f5562e204ed8f462"
+      ]
+    },
+    "0x71b31f999fcdd5cdcebb58e313640786be1e72ff": {
+      "rewardNetwork": 0,
+      "collateralRpl": "2854125439336880790",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "0",
+      "merkleProof": [
+        "0x67a7a6ca9306951dcea64241789c52014a6036c59855928bf4e09e11e174ec3e",
+        "0x98c8cb9ff8463fad2baadaa433cabab2b545e7f181ea719d63b3a20cb4229ba0",
+        "0xa2e1a3ec807e69cb69f1ac4ec847648a6bfe7bcf34d228b01003629b4bcb69b8",
+        "0x2e0365e929851557b4a522fca5bf8c2eb5f40cf4666c540cd0b1b006b212887c",
+        "0x4f04114514d08c99c207e0c15e0ba29ac496946b6ae484aea008c86fe9cff4ad",
+        "0x3b94b2ea6c41f120c5393833b13fa3ea774a6801503c36c8e9338e5ebc60ad08",
+        "0x9dd3bc641717f32bb0dbc529f728579ea73848f2b77ebd9f878d77b7442fc276",
+        "0x2e7ba1ed1654174d200f2d508e4a4669d8d35a07e52e87e9f5562e204ed8f462"
+      ]
+    },
+    "0x71b5e2459423489847c5a018f41b707ecdeadfad": {
+      "rewardNetwork": 0,
+      "collateralRpl": "845745366664328663",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "0",
+      "merkleProof": [
+        "0xa3657c28231dc8a600b31b05e68548e09c4de268eedff2731e318c137fb1665a",
+        "0xeabf84513342ca05b11f434ce87d2a5ecf5d573c625408a76f23cf4cb426a4d1",
+        "0xfc204c218860e4b456a36ee3de115143a813ce4cdd4bb0a041bf5d4f76a0fcbd",
+        "0xe89848099b289343b1699b912a601488b8987f2d3d267e6428fa51d574b4f592",
+        "0x501fcec32e3b276160788b1a7224604273bc8bc1163edb5af868bde2ae210836",
+        "0x289501ce40609cea14a3122692233813d5f7f884fba18f7f1a6edd2d0067bad7",
+        "0x9dd3bc641717f32bb0dbc529f728579ea73848f2b77ebd9f878d77b7442fc276",
+        "0x2e7ba1ed1654174d200f2d508e4a4669d8d35a07e52e87e9f5562e204ed8f462"
+      ]
+    },
+    "0x72c2861bf4ca0e592594c657541c54c4c29b7ebc": {
+      "rewardNetwork": 0,
+      "collateralRpl": "1701736054759345473",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "0",
+      "merkleProof": [
+        "0x3830e1164b030d844f572d17902bc6553bb55ae0ea91ed103099aa5888983ddd",
+        "0xce8048d07b24bead8b1eff523c19bac7a84b1a7607a8255ae5edef479012e612",
+        "0x609a2e77235439766685d60ecea0ce71aa082fd4e9f88b8d1921232f81436553",
+        "0xce7e683ee2f24373c9958bb84340e07b40426437956ff85d3632095b2aadf898",
+        "0x448dbf81ba87f4a54d198064f8c89f7f0ecc08c550c7d9d0dfa2198934867291",
+        "0xf25d14e224551306655fa44c1cb1dbea818bf7c7754fc772f2b5185dddfb8685",
+        "0x25dee15aa950d4bc956c30260bd6723ce2996507e4ec9c147ca69b3c3f562055",
+        "0x2e7ba1ed1654174d200f2d508e4a4669d8d35a07e52e87e9f5562e204ed8f462"
+      ]
+    },
+    "0x73bb9bb268d0bccf8627abee1c675c115ec7e6cf": {
+      "rewardNetwork": 0,
+      "collateralRpl": "2294210277414697218",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "0",
+      "merkleProof": [
+        "0x86b338d0d91da63b2cc0bd81ee117b4b42b249350422f2eb58ee49fa588be4b1",
+        "0x2658097e24177e00564b785f791e8f30dda8d7eb1ffeb075469f42e7ebad8481",
+        "0x84af23bedc3b6695db48168e726d34562b8eca593b1126c6899659abd2bfeb7e",
+        "0x9c39a78adb7399282e3e7f574670cb8d9a47fc81ff28cd86b988b0a90f3f8a60",
+        "0xd52cdc9e03999d8c6ce42bf05145e7127be774c0ad1bc9d28645b8218352da3c",
+        "0x289501ce40609cea14a3122692233813d5f7f884fba18f7f1a6edd2d0067bad7",
+        "0x9dd3bc641717f32bb0dbc529f728579ea73848f2b77ebd9f878d77b7442fc276",
+        "0x2e7ba1ed1654174d200f2d508e4a4669d8d35a07e52e87e9f5562e204ed8f462"
+      ]
+    },
+    "0x740327d2891073a1364c7f4b9bf650da1a93cab1": {
+      "rewardNetwork": 0,
+      "collateralRpl": "2135707836308088433",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "0",
+      "merkleProof": [
+        "0xacbe789d600f1e820f33522518d0c8db534bf46a1f370422b83eeb11ddd9a667",
+        "0xe95bf4043ba4ae7c8dfd9c9301de76e85e7e3e32de37566e7f930a96f02ab932",
+        "0xb261268f8ce135b48ddce7d2dc077e1ec2fd098fe58f36389d4ef13f4593d2e4",
+        "0xcab7788f22873f5833cef3a3c637e2607b5fbfdfa65ec8c409bbf62ed0df5637",
+        "0x501fcec32e3b276160788b1a7224604273bc8bc1163edb5af868bde2ae210836",
+        "0x289501ce40609cea14a3122692233813d5f7f884fba18f7f1a6edd2d0067bad7",
+        "0x9dd3bc641717f32bb0dbc529f728579ea73848f2b77ebd9f878d77b7442fc276",
+        "0x2e7ba1ed1654174d200f2d508e4a4669d8d35a07e52e87e9f5562e204ed8f462"
+      ]
+    },
+    "0x74b93644ba315081dbf84e3bfe622b2756986be1": {
+      "rewardNetwork": 0,
+      "collateralRpl": "845745366664328663",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "0",
+      "merkleProof": [
+        "0x1e7c5b45d975141817d88e180e900cf445fdff0f81e088034d56f43947154858",
+        "0xca96a2964f136cea9c850877b2a558cda9b0b311519751f7337db9bbeed313f8",
+        "0xa0a7c33f67bab25b7fb8e3b7708b0cb0d32ea872c0784733a34fc97c3453813a",
+        "0x8fa16fa47b725ccaa94c86b1252665d0411b80f3db7704b0c1e8ef296bda7639",
+        "0x19fd6b432049b25e08f235bcb5d149cbbd1820867ce21d9e7094398f47a9ec8b",
+        "0xc0719256ee0195bed64a7a06092dd1b8ae9e663555cc5c410ea2c0626edec74a",
+        "0x25dee15aa950d4bc956c30260bd6723ce2996507e4ec9c147ca69b3c3f562055",
+        "0x2e7ba1ed1654174d200f2d508e4a4669d8d35a07e52e87e9f5562e204ed8f462"
+      ]
+    },
+    "0x74db046c8287a53a60b2927d47ebc34ca408526d": {
+      "rewardNetwork": 0,
+      "collateralRpl": "3320974745095685155",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "0",
+      "merkleProof": [
+        "0x17c50d0921ea64157b0ed100623a612c4dd416eb53156a2663b33bb308a84bb6",
+        "0xa2583e8e836f2e89d2f27a931c41577a99e0b4d87a17b25df07651f06f5775ee",
+        "0x02325cdde2fd2f2f05163a79c5a069ebfa8d0a77c5c167429f503cf077f5cc24",
+        "0x56650f9a782a645e0f4919b473924eaadb499f530567e03e19f5fce3987815e2",
+        "0x63069c0b5ef895906424354831f8aded9da062a7a297eddc7e946aba07bea2a6",
+        "0xc0719256ee0195bed64a7a06092dd1b8ae9e663555cc5c410ea2c0626edec74a",
+        "0x25dee15aa950d4bc956c30260bd6723ce2996507e4ec9c147ca69b3c3f562055",
+        "0x2e7ba1ed1654174d200f2d508e4a4669d8d35a07e52e87e9f5562e204ed8f462"
+      ]
+    },
+    "0x752e3d84bc3f3969a12c08c8bfd91c4d0e147161": {
+      "rewardNetwork": 0,
+      "collateralRpl": "2551235000896402641",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "0",
+      "merkleProof": [
+        "0x22c8bdb11d6af0e50fedd1acdeacf44e7502bdbed5c814c90fb43d9442264954",
+        "0x089fcedf378c752d2067285072cea727662f7f20efad86bf163a6c5324d8e67a",
+        "0x69011470b8b506d9efe78597a5509fd595d64288b4086118a0db46b8b637d5f6",
+        "0x8fa16fa47b725ccaa94c86b1252665d0411b80f3db7704b0c1e8ef296bda7639",
+        "0x19fd6b432049b25e08f235bcb5d149cbbd1820867ce21d9e7094398f47a9ec8b",
+        "0xc0719256ee0195bed64a7a06092dd1b8ae9e663555cc5c410ea2c0626edec74a",
+        "0x25dee15aa950d4bc956c30260bd6723ce2996507e4ec9c147ca69b3c3f562055",
+        "0x2e7ba1ed1654174d200f2d508e4a4669d8d35a07e52e87e9f5562e204ed8f462"
+      ]
+    },
+    "0x7aaa691fa13acfe4f30d69b5cf13cc1b3f1ff52a": {
+      "rewardNetwork": 0,
+      "collateralRpl": "1048724254663767542",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "0",
+      "merkleProof": [
+        "0x19bbb1671a4a19e4f2656c6a3e3261bbc662cf3904f5a75604dd16fc91b7abcd",
+        "0x7bec0b827240a466a039d0dd5be8d61702bfef14c7a5106b2b4a442ab3d03e97",
+        "0x1262eec031deb521bb45bb4f31e2c51470210b3e892cbc6ae195a999008544ac",
+        "0x56650f9a782a645e0f4919b473924eaadb499f530567e03e19f5fce3987815e2",
+        "0x63069c0b5ef895906424354831f8aded9da062a7a297eddc7e946aba07bea2a6",
+        "0xc0719256ee0195bed64a7a06092dd1b8ae9e663555cc5c410ea2c0626edec74a",
+        "0x25dee15aa950d4bc956c30260bd6723ce2996507e4ec9c147ca69b3c3f562055",
+        "0x2e7ba1ed1654174d200f2d508e4a4669d8d35a07e52e87e9f5562e204ed8f462"
+      ]
+    },
+    "0x7ac4c35034d7d175583e9f5876257fbc59e9946e": {
+      "rewardNetwork": 0,
+      "collateralRpl": "1014894439997194396",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "0",
+      "merkleProof": [
+        "0xe332b25eedda5c8e019ce1f649f7377662fd15318a23029a374959dcb41de7b6",
+        "0xb722d43855c5bbac1dc1a6284151373d9bcdcbe473899e0ef5fd541eecc760f9",
+        "0xdd7e49d23918ce0be28a99d04dc9d3d2f32dd90466e189ae9f87fac372c81081",
+        "0x826dc84b0c7000f17e6bc36c73667cfa57c01efbbbed8c6fd6faf4f0a4def54f",
+        "0x600c9e63285ca4ccc31b71657b0c0222aefd0a7411ee55facbaa1a48ee018ff9",
+        "0x1416882ddc4de7e911b49598602dc577af88dd8f1fd8a08f64b3619a700c1c95",
+        "0x887c22bd8750d34016ac3c66b5ff102dacdd73f6b014e710b51e8022af9a1968",
+        "0xbbf10945978758dabe08af9f827001c581c7bdce631de23ddf283af70a7e370b"
+      ]
+    },
+    "0x7b62f97caf70f736fb4a31d8db7001ea1cb88162": {
+      "rewardNetwork": 0,
+      "collateralRpl": "5100075504367374724",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "389539595778406",
+      "merkleProof": [
+        "0xf341e45483c269b7277d64510f81efbb8428221b16cf26ed3cffba04115b5326",
+        "0xe153edc265652aed33f1f87ca403926e21418b3950ababc9449b8fd639a6afac",
+        "0x726dd2b9d2a2616df0f94b150d9ceca51095b929953bca872f4ce3d4f7703a59",
+        "0x6b6904df15cf45936b928ed3d7e096465f6b80d461846e21de637b9f200a5493",
+        "0xe58769b32a1beaf1ea27375a44095a0d1fb664ce2dd358e7fcbfb78c26a19344",
+        "0x69cac70082e48c1abad5eaebfdca6f680ccbf3d974bf5bd8de0a317ee2b93c72",
+        "0x887c22bd8750d34016ac3c66b5ff102dacdd73f6b014e710b51e8022af9a1968",
+        "0xbbf10945978758dabe08af9f827001c581c7bdce631de23ddf283af70a7e370b"
+      ]
+    },
+    "0x7f1e6e06bda5fa4251b73cf933040efac5d39983": {
+      "rewardNetwork": 0,
+      "collateralRpl": "41278556725354699725",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "0",
+      "merkleProof": [
+        "0x29819b544f8a0bf65fcfd6c7e6dac64607f3e84a3cc7c5b39fef94da0219da60",
+        "0x22768dd9c1b46b53fa274f31c6e38c7f0053254d38b6b3dd75c1e08145aeeddd",
+        "0xda92d7b4065e9e10a355d89e2f10941d98cf1c3baf3aa70ae72a0d24c0c67cde",
+        "0xa112473f8f9208e67f940dcd9a87b6aaa0e6c58682929eae5c025858bf5fd44a",
+        "0x19fd6b432049b25e08f235bcb5d149cbbd1820867ce21d9e7094398f47a9ec8b",
+        "0xc0719256ee0195bed64a7a06092dd1b8ae9e663555cc5c410ea2c0626edec74a",
+        "0x25dee15aa950d4bc956c30260bd6723ce2996507e4ec9c147ca69b3c3f562055",
+        "0x2e7ba1ed1654174d200f2d508e4a4669d8d35a07e52e87e9f5562e204ed8f462"
+      ]
+    },
+    "0x8098e464d13b0b8935d604bbe16d4147b1f82a39": {
+      "rewardNetwork": 0,
+      "collateralRpl": "4247371686235532453",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "126856965284157",
+      "merkleProof": [
+        "0xd02c141ae1abe83b10260d653b22b7d2c42b895b06b5db5f128509a85d6d38c6",
+        "0xe5f163825c88bb69a89c43b447efa55f616644ab4fda8858305edfa2e84477df",
+        "0x7fce7ae64a054972ca42227405063a1c81bf1787a7d5176fd124061c23bb385a",
+        "0x224f5b986fcc3a84c7ae72de9a557711b5cc40e5afca71dc6f8653952ae6b8b8",
+        "0x9a06fb6cfae1f2fe451f3abf4f4ffea4374d6721b9b629e557fae39ba6de6f00",
+        "0x1416882ddc4de7e911b49598602dc577af88dd8f1fd8a08f64b3619a700c1c95",
+        "0x887c22bd8750d34016ac3c66b5ff102dacdd73f6b014e710b51e8022af9a1968",
+        "0xbbf10945978758dabe08af9f827001c581c7bdce631de23ddf283af70a7e370b"
+      ]
+    },
+    "0x82772e11a4d4de08be008177de0125765b9c71d7": {
+      "rewardNetwork": 0,
+      "collateralRpl": "1025139761427882542",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "0",
+      "merkleProof": [
+        "0x13f9a943e3b68778cddfef6744ca88422ac143ed031793d4e5c061a9fffd03f9",
+        "0x23ee973447b557f5fe60190591f4e9b7885ed6b7509dd9c448af5834f876daae",
+        "0x02325cdde2fd2f2f05163a79c5a069ebfa8d0a77c5c167429f503cf077f5cc24",
+        "0x56650f9a782a645e0f4919b473924eaadb499f530567e03e19f5fce3987815e2",
+        "0x63069c0b5ef895906424354831f8aded9da062a7a297eddc7e946aba07bea2a6",
+        "0xc0719256ee0195bed64a7a06092dd1b8ae9e663555cc5c410ea2c0626edec74a",
+        "0x25dee15aa950d4bc956c30260bd6723ce2996507e4ec9c147ca69b3c3f562055",
+        "0x2e7ba1ed1654174d200f2d508e4a4669d8d35a07e52e87e9f5562e204ed8f462"
+      ]
+    },
+    "0x828b4e1c4f15f9be9c9407226b5e9171cb9c2518": {
+      "rewardNetwork": 0,
+      "collateralRpl": "33975254750175358918",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "0",
+      "merkleProof": [
+        "0x16600bfe7fe9d21d9dcc8150b2104794acc721ca024d0f0b98dc9d28c967a426",
+        "0xa2583e8e836f2e89d2f27a931c41577a99e0b4d87a17b25df07651f06f5775ee",
+        "0x02325cdde2fd2f2f05163a79c5a069ebfa8d0a77c5c167429f503cf077f5cc24",
+        "0x56650f9a782a645e0f4919b473924eaadb499f530567e03e19f5fce3987815e2",
+        "0x63069c0b5ef895906424354831f8aded9da062a7a297eddc7e946aba07bea2a6",
+        "0xc0719256ee0195bed64a7a06092dd1b8ae9e663555cc5c410ea2c0626edec74a",
+        "0x25dee15aa950d4bc956c30260bd6723ce2996507e4ec9c147ca69b3c3f562055",
+        "0x2e7ba1ed1654174d200f2d508e4a4669d8d35a07e52e87e9f5562e204ed8f462"
+      ]
+    },
+    "0x8336f6c48777f4d712f183542ca58b195f65c7b9": {
+      "rewardNetwork": 0,
+      "collateralRpl": "4811643686006143931",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "253156037628780",
+      "merkleProof": [
+        "0xb247a0598a07c6cbd02a1e4c7f9a9d69eec82df72c3cd92fe45756e7fe44be72",
+        "0x95f092a79d5cb20b70f518b26df1f69023f8cf0d650b4969bec695d7ee6a192a",
+        "0xb261268f8ce135b48ddce7d2dc077e1ec2fd098fe58f36389d4ef13f4593d2e4",
+        "0xcab7788f22873f5833cef3a3c637e2607b5fbfdfa65ec8c409bbf62ed0df5637",
+        "0x501fcec32e3b276160788b1a7224604273bc8bc1163edb5af868bde2ae210836",
+        "0x289501ce40609cea14a3122692233813d5f7f884fba18f7f1a6edd2d0067bad7",
+        "0x9dd3bc641717f32bb0dbc529f728579ea73848f2b77ebd9f878d77b7442fc276",
+        "0x2e7ba1ed1654174d200f2d508e4a4669d8d35a07e52e87e9f5562e204ed8f462"
+      ]
+    },
+    "0x83c80e6b5fb378aa64571c962de3c961bc506088": {
+      "rewardNetwork": 0,
+      "collateralRpl": "1369980210881702810",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "0",
+      "merkleProof": [
+        "0x7b759decb5d136475e5eac93c728f5d2e3fc7f4605cadac3dc343d55e4e34afa",
+        "0x32f672feb9e88476714d17094a4cc74deabfaf8f5323d3d1c66b666324ff47b6",
+        "0x9643c32ab4d648789c16529d919b96df74bff96eafa3edb1340234af91c90e52",
+        "0xfa98ae1a696cf6b59ef4e5f25edb6cf423a50e1194667a8a373481fa724a81c4",
+        "0x73aafd5f3cd113010a21744e726d4d818bfa11fbf14682e00cee12954a5d767f",
+        "0x3b94b2ea6c41f120c5393833b13fa3ea774a6801503c36c8e9338e5ebc60ad08",
+        "0x9dd3bc641717f32bb0dbc529f728579ea73848f2b77ebd9f878d77b7442fc276",
+        "0x2e7ba1ed1654174d200f2d508e4a4669d8d35a07e52e87e9f5562e204ed8f462"
+      ]
+    },
+    "0x83fa05210ca7ab6c08b8f8a25dddfbec1fe6ddbe": {
+      "rewardNetwork": 0,
+      "collateralRpl": "2135707836308088433",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "0",
+      "merkleProof": [
+        "0x430c955965b7a7fb4a76928aae0f39ca26f652fb888827398a4b9c4b6cb5b16d",
+        "0x0b6cbf3fd3a396ac35b04d7c81d658f1d74ba6f4901f4d03bc89f316eddabdcb",
+        "0xffdcb1930042b96205076118b54219aeea8d9782c042730a09d0a386012fc291",
+        "0x2e88c436a4f82c6c5434ce743b524924016a271edea17c99aa9e5e147f887469",
+        "0x448dbf81ba87f4a54d198064f8c89f7f0ecc08c550c7d9d0dfa2198934867291",
+        "0xf25d14e224551306655fa44c1cb1dbea818bf7c7754fc772f2b5185dddfb8685",
+        "0x25dee15aa950d4bc956c30260bd6723ce2996507e4ec9c147ca69b3c3f562055",
+        "0x2e7ba1ed1654174d200f2d508e4a4669d8d35a07e52e87e9f5562e204ed8f462"
+      ]
+    },
+    "0x83fafb58393311affb742bb8b61737ddab74d575": {
+      "rewardNetwork": 0,
+      "collateralRpl": "484986840778492547356",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "4499816998830947",
+      "merkleProof": [
+        "0x5d693206f88a62722d7f77ee31ece58616120efc4defe523e0e44873f7bf0d0d",
+        "0x59b1382fb36707b15cb3871a7d21f627610550482229ec9cb001df427c8e0587",
+        "0xa85955f72c5c3fc1404895c255252750b226fad9a0c860a7d2719bb432cbeb6f",
+        "0xc1c0d71d60a5981979b1a2d70cd4571a9ec81a65057286784bb412a7efdea68c",
+        "0xd07bdc3759cc3ef78628ba3d208a0a21deee0f25f93b78d45699e8b3a9cebe66",
+        "0xf25d14e224551306655fa44c1cb1dbea818bf7c7754fc772f2b5185dddfb8685",
+        "0x25dee15aa950d4bc956c30260bd6723ce2996507e4ec9c147ca69b3c3f562055",
+        "0x2e7ba1ed1654174d200f2d508e4a4669d8d35a07e52e87e9f5562e204ed8f462"
+      ]
+    },
+    "0x8834fd1aa0e8f46744bec1349ca717bc0b90ed1b": {
+      "rewardNetwork": 0,
+      "collateralRpl": "845745366664328663",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "0",
+      "merkleProof": [
+        "0xe3a947eb574b1e3835b1fb3b15b4b702d939aaaecdc85a58cd6e9c165877bd1b",
+        "0xb722d43855c5bbac1dc1a6284151373d9bcdcbe473899e0ef5fd541eecc760f9",
+        "0xdd7e49d23918ce0be28a99d04dc9d3d2f32dd90466e189ae9f87fac372c81081",
+        "0x826dc84b0c7000f17e6bc36c73667cfa57c01efbbbed8c6fd6faf4f0a4def54f",
+        "0x600c9e63285ca4ccc31b71657b0c0222aefd0a7411ee55facbaa1a48ee018ff9",
+        "0x1416882ddc4de7e911b49598602dc577af88dd8f1fd8a08f64b3619a700c1c95",
+        "0x887c22bd8750d34016ac3c66b5ff102dacdd73f6b014e710b51e8022af9a1968",
+        "0xbbf10945978758dabe08af9f827001c581c7bdce631de23ddf283af70a7e370b"
+      ]
+    },
+    "0x8971ac2859a5c1b67ba7719dfd10dfbae42f9360": {
+      "rewardNetwork": 0,
+      "collateralRpl": "0",
+      "oracleDaoRpl": "44600174007777809514",
+      "smoothingPoolEth": "0",
+      "merkleProof": [
+        "0xec36866292d80f265f38fe272ba821afca0685644f05cf55070e83191831179a",
+        "0xaa96fb20fd6802fb7f971b487f4baaf1dd49dbb94c0a3bb3249c21c83bcc9053",
+        "0x3824f0bf6f3e061a04386b2c7ef40d4b4b617de75320b5182de39a02d6a9cfcb",
+        "0x826dc84b0c7000f17e6bc36c73667cfa57c01efbbbed8c6fd6faf4f0a4def54f",
+        "0x600c9e63285ca4ccc31b71657b0c0222aefd0a7411ee55facbaa1a48ee018ff9",
+        "0x1416882ddc4de7e911b49598602dc577af88dd8f1fd8a08f64b3619a700c1c95",
+        "0x887c22bd8750d34016ac3c66b5ff102dacdd73f6b014e710b51e8022af9a1968",
+        "0xbbf10945978758dabe08af9f827001c581c7bdce631de23ddf283af70a7e370b"
+      ]
+    },
+    "0x8aa88d96d44aaef613cb280f9c5cc9fc2cafadd4": {
+      "rewardNetwork": 0,
+      "collateralRpl": "845745366664328663",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "0",
+      "merkleProof": [
+        "0x5f9876841e41f30caea0fef3d526df1b21fb20ae0f6ea78683005adfb24acaaa",
+        "0xdaae37ac674fe272fbf90247f576565b27da04de2a5b07eefa81452641ffc19c",
+        "0xef60f3eb154dfa1b217fb946929ddb43423c0a9ddf3a69a9c3945d8c7330d5f4",
+        "0xdf1ca47d541d44105b622f851799f316bd50547c4531e1ee0f355623dda2800b",
+        "0x4f04114514d08c99c207e0c15e0ba29ac496946b6ae484aea008c86fe9cff4ad",
+        "0x3b94b2ea6c41f120c5393833b13fa3ea774a6801503c36c8e9338e5ebc60ad08",
+        "0x9dd3bc641717f32bb0dbc529f728579ea73848f2b77ebd9f878d77b7442fc276",
+        "0x2e7ba1ed1654174d200f2d508e4a4669d8d35a07e52e87e9f5562e204ed8f462"
+      ]
+    },
+    "0x8c1cdd610c32f1f6bf0d1796e4addd84b5f515fb": {
+      "rewardNetwork": 0,
+      "collateralRpl": "2537236099992985991",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "0",
+      "merkleProof": [
+        "0x00a28126b0edc28a184f6ed3c230e95d9f473be54de5d9e3d2d7fd06fa809423",
+        "0x026f3fce392cf788fbe0d205562b58c683bedb0c92d2c1515e7e9c9aa9a59c2e",
+        "0x60c1d6aa3a87708b995f91d941b487f15d291e0eafac031a2aa418a3ee90092a",
+        "0x314929c23353c6f7f66c84e6a91e8bd6ca5816fd002a361329fbb927b0dbd130",
+        "0x63069c0b5ef895906424354831f8aded9da062a7a297eddc7e946aba07bea2a6",
+        "0xc0719256ee0195bed64a7a06092dd1b8ae9e663555cc5c410ea2c0626edec74a",
+        "0x25dee15aa950d4bc956c30260bd6723ce2996507e4ec9c147ca69b3c3f562055",
+        "0x2e7ba1ed1654174d200f2d508e4a4669d8d35a07e52e87e9f5562e204ed8f462"
+      ]
+    },
+    "0x8d8b9d2e5577ad98d7e57ce866418756151b6301": {
+      "rewardNetwork": 0,
+      "collateralRpl": "3912702831953988680",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "0",
+      "merkleProof": [
+        "0x1a834a8230393554bfb6786825fe8cc60733ddedfd91aecc1067868896d5c9f0",
+        "0x7bec0b827240a466a039d0dd5be8d61702bfef14c7a5106b2b4a442ab3d03e97",
+        "0x1262eec031deb521bb45bb4f31e2c51470210b3e892cbc6ae195a999008544ac",
+        "0x56650f9a782a645e0f4919b473924eaadb499f530567e03e19f5fce3987815e2",
+        "0x63069c0b5ef895906424354831f8aded9da062a7a297eddc7e946aba07bea2a6",
+        "0xc0719256ee0195bed64a7a06092dd1b8ae9e663555cc5c410ea2c0626edec74a",
+        "0x25dee15aa950d4bc956c30260bd6723ce2996507e4ec9c147ca69b3c3f562055",
+        "0x2e7ba1ed1654174d200f2d508e4a4669d8d35a07e52e87e9f5562e204ed8f462"
+      ]
+    },
+    "0x8df3589695ffef20347e39a3e0a88985393e4348": {
+      "rewardNetwork": 0,
+      "collateralRpl": "845745366664328663",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "0",
+      "merkleProof": [
+        "0x2de48290ede272741cee0537ff1e212d44d7f1b23c92988e7c2f9e3dc96f3c46",
+        "0x78b44d191dc79117a5de740782f29ae470512eff856e19f93978be5389277dd5",
+        "0x8f89f6f69c49c0efc5d155b4112abd947879a35186d9977f4356a9ec1b4515dc",
+        "0xce7e683ee2f24373c9958bb84340e07b40426437956ff85d3632095b2aadf898",
+        "0x448dbf81ba87f4a54d198064f8c89f7f0ecc08c550c7d9d0dfa2198934867291",
+        "0xf25d14e224551306655fa44c1cb1dbea818bf7c7754fc772f2b5185dddfb8685",
+        "0x25dee15aa950d4bc956c30260bd6723ce2996507e4ec9c147ca69b3c3f562055",
+        "0x2e7ba1ed1654174d200f2d508e4a4669d8d35a07e52e87e9f5562e204ed8f462"
+      ]
+    },
+    "0x8e2c52a145454e2f039e1a759538057475b2abda": {
+      "rewardNetwork": 0,
+      "collateralRpl": "1915356133091399061",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "59085045316338",
+      "merkleProof": [
+        "0x7edcadaf3627dcbd62a07a05d2db885988563d3cf34e660d8228539a15c685b7",
+        "0x1b84b8776815e7f3cbadd84f0ee62b5a7ed3104a6e12d4814a4728ee26de6a02",
+        "0x527f844043dc70e31fd241e58bf9dcb08e97ebcdd6b0d8508b849b6214b97739",
+        "0xae4cfb1af4646f38b5bfecabfe2b3db43392bd3eba27614658172014617dc0eb",
+        "0xd52cdc9e03999d8c6ce42bf05145e7127be774c0ad1bc9d28645b8218352da3c",
+        "0x289501ce40609cea14a3122692233813d5f7f884fba18f7f1a6edd2d0067bad7",
+        "0x9dd3bc641717f32bb0dbc529f728579ea73848f2b77ebd9f878d77b7442fc276",
+        "0x2e7ba1ed1654174d200f2d508e4a4669d8d35a07e52e87e9f5562e204ed8f462"
+      ]
+    },
+    "0x8fe16afaea018038d38af8f381c80082b2b4ef9e": {
+      "rewardNetwork": 0,
+      "collateralRpl": "845745366664328663",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "0",
+      "merkleProof": [
+        "0x756b48aaf223c9a67d05aa9e1eec60a4c8af948888894ea66d6cd6750fb751e5",
+        "0xe94cb8608afb30e9219649089f9b542534c685372aba6b76256c78c8fa435e63",
+        "0x4cc92e0cce9782028a884a5a4404ea65fa19dc98c825324feb6899582ae6af01",
+        "0x8fbe1c6dcf2147130398b6a7ff6124d23942721e802e9b2ee0799f17aefa482b",
+        "0x73aafd5f3cd113010a21744e726d4d818bfa11fbf14682e00cee12954a5d767f",
+        "0x3b94b2ea6c41f120c5393833b13fa3ea774a6801503c36c8e9338e5ebc60ad08",
+        "0x9dd3bc641717f32bb0dbc529f728579ea73848f2b77ebd9f878d77b7442fc276",
+        "0x2e7ba1ed1654174d200f2d508e4a4669d8d35a07e52e87e9f5562e204ed8f462"
+      ]
+    },
+    "0x903d46ecb2646336783ddef64e86d3267511832b": {
+      "rewardNetwork": 0,
+      "collateralRpl": "3440161152492499202",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "0",
+      "merkleProof": [
+        "0xfa6a4dd4c99db172194c13614707eb2a6b014790a3337351c2d1b0eee3678c0d",
+        "0xea503efe199ce5e42c1072aebb963d05f175174a8825a3deef04ea48d4db5d10",
+        "0xc854d1967b72564ae05a57498ece4b50da9f0d364e8212072ed86d2fefe2817d",
+        "0x6b6904df15cf45936b928ed3d7e096465f6b80d461846e21de637b9f200a5493",
+        "0xe58769b32a1beaf1ea27375a44095a0d1fb664ce2dd358e7fcbfb78c26a19344",
+        "0x69cac70082e48c1abad5eaebfdca6f680ccbf3d974bf5bd8de0a317ee2b93c72",
+        "0x887c22bd8750d34016ac3c66b5ff102dacdd73f6b014e710b51e8022af9a1968",
+        "0xbbf10945978758dabe08af9f827001c581c7bdce631de23ddf283af70a7e370b"
+      ]
+    },
+    "0x94742dbedd55fc407d46fac252e1576fba874284": {
+      "rewardNetwork": 0,
+      "collateralRpl": "4432176772419612487",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "0",
+      "merkleProof": [
+        "0x1c6466c1be08133d68bed6b14e9cfe133dd260c9cfe1078bfcd43d6f90d65fca",
+        "0x238874e630d39293d154f65a5a2209b8170fd556288b8f61f221e63ceb3e178a",
+        "0xa0a7c33f67bab25b7fb8e3b7708b0cb0d32ea872c0784733a34fc97c3453813a",
+        "0x8fa16fa47b725ccaa94c86b1252665d0411b80f3db7704b0c1e8ef296bda7639",
+        "0x19fd6b432049b25e08f235bcb5d149cbbd1820867ce21d9e7094398f47a9ec8b",
+        "0xc0719256ee0195bed64a7a06092dd1b8ae9e663555cc5c410ea2c0626edec74a",
+        "0x25dee15aa950d4bc956c30260bd6723ce2996507e4ec9c147ca69b3c3f562055",
+        "0x2e7ba1ed1654174d200f2d508e4a4669d8d35a07e52e87e9f5562e204ed8f462"
+      ]
+    },
+    "0x94977c670916d30642d4748ffc7c9f0ba44c0d16": {
+      "rewardNetwork": 0,
+      "collateralRpl": "1014894439997194396",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "0",
+      "merkleProof": [
+        "0x13bd348035fb0d8722476e9c4e93e4696119b0c4687459f676b13b45bf7bcf37",
+        "0xfebb1a7c5f2645f674a8d84d7efb5e97e6bb1d499ee6729f51b8d5f6da0e7269",
+        "0xb9195e714215f0b93537ad99330dac17c52d9f9f54343ab5c47202479551a071",
+        "0x314929c23353c6f7f66c84e6a91e8bd6ca5816fd002a361329fbb927b0dbd130",
+        "0x63069c0b5ef895906424354831f8aded9da062a7a297eddc7e946aba07bea2a6",
+        "0xc0719256ee0195bed64a7a06092dd1b8ae9e663555cc5c410ea2c0626edec74a",
+        "0x25dee15aa950d4bc956c30260bd6723ce2996507e4ec9c147ca69b3c3f562055",
+        "0x2e7ba1ed1654174d200f2d508e4a4669d8d35a07e52e87e9f5562e204ed8f462"
+      ]
+    },
+    "0x95d4ee12d8691d3c9e0a3c9e578e2331793ddfe8": {
+      "rewardNetwork": 0,
+      "collateralRpl": "828564660579976136",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "0",
+      "merkleProof": [
+        "0xf7246ef2f4690de684d3f7eaeb683c6aa93a8cae31b881e9d7c22c15dc003c3c",
+        "0xea503efe199ce5e42c1072aebb963d05f175174a8825a3deef04ea48d4db5d10",
+        "0xc854d1967b72564ae05a57498ece4b50da9f0d364e8212072ed86d2fefe2817d",
+        "0x6b6904df15cf45936b928ed3d7e096465f6b80d461846e21de637b9f200a5493",
+        "0xe58769b32a1beaf1ea27375a44095a0d1fb664ce2dd358e7fcbfb78c26a19344",
+        "0x69cac70082e48c1abad5eaebfdca6f680ccbf3d974bf5bd8de0a317ee2b93c72",
+        "0x887c22bd8750d34016ac3c66b5ff102dacdd73f6b014e710b51e8022af9a1968",
+        "0xbbf10945978758dabe08af9f827001c581c7bdce631de23ddf283af70a7e370b"
+      ]
+    },
+    "0x98c278320806991925668dbd43ad903d9400ab72": {
+      "rewardNetwork": 0,
+      "collateralRpl": "8496194784857597015",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "0",
+      "merkleProof": [
+        "0xf18688964d375b446c7aa0b7f388284600f2b8448077984395c45041f87e12f5",
+        "0xe153edc265652aed33f1f87ca403926e21418b3950ababc9449b8fd639a6afac",
+        "0x726dd2b9d2a2616df0f94b150d9ceca51095b929953bca872f4ce3d4f7703a59",
+        "0x6b6904df15cf45936b928ed3d7e096465f6b80d461846e21de637b9f200a5493",
+        "0xe58769b32a1beaf1ea27375a44095a0d1fb664ce2dd358e7fcbfb78c26a19344",
+        "0x69cac70082e48c1abad5eaebfdca6f680ccbf3d974bf5bd8de0a317ee2b93c72",
+        "0x887c22bd8750d34016ac3c66b5ff102dacdd73f6b014e710b51e8022af9a1968",
+        "0xbbf10945978758dabe08af9f827001c581c7bdce631de23ddf283af70a7e370b"
+      ]
+    },
+    "0x9a65abeea7c427421f2d3a3328ab440df3912d9f": {
+      "rewardNetwork": 0,
+      "collateralRpl": "188192719806266442576",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "4705167624994498",
+      "merkleProof": [
+        "0xd1940de0d1a17a7471520e61a0026fd7fe3849c6754cc703db3a139b99cd4c2d",
+        "0x86c166f2bc55797f90390efe0e0ae5ab9253a7fc32f22ecde8ed9d7b93454302",
+        "0x7fce7ae64a054972ca42227405063a1c81bf1787a7d5176fd124061c23bb385a",
+        "0x224f5b986fcc3a84c7ae72de9a557711b5cc40e5afca71dc6f8653952ae6b8b8",
+        "0x9a06fb6cfae1f2fe451f3abf4f4ffea4374d6721b9b629e557fae39ba6de6f00",
+        "0x1416882ddc4de7e911b49598602dc577af88dd8f1fd8a08f64b3619a700c1c95",
+        "0x887c22bd8750d34016ac3c66b5ff102dacdd73f6b014e710b51e8022af9a1968",
+        "0xbbf10945978758dabe08af9f827001c581c7bdce631de23ddf283af70a7e370b"
+      ]
+    },
+    "0x9a8a32cc8541cc28b0a1812606ee5bf5ab7dcd9a": {
+      "rewardNetwork": 0,
+      "collateralRpl": "4088034962128514517",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "36635031606668",
+      "merkleProof": [
+        "0x1e77627c63396d52e676e2387a8e5f9f3d71ada4299a13b88030cfc7f776e2df",
+        "0x238874e630d39293d154f65a5a2209b8170fd556288b8f61f221e63ceb3e178a",
+        "0xa0a7c33f67bab25b7fb8e3b7708b0cb0d32ea872c0784733a34fc97c3453813a",
+        "0x8fa16fa47b725ccaa94c86b1252665d0411b80f3db7704b0c1e8ef296bda7639",
+        "0x19fd6b432049b25e08f235bcb5d149cbbd1820867ce21d9e7094398f47a9ec8b",
+        "0xc0719256ee0195bed64a7a06092dd1b8ae9e663555cc5c410ea2c0626edec74a",
+        "0x25dee15aa950d4bc956c30260bd6723ce2996507e4ec9c147ca69b3c3f562055",
+        "0x2e7ba1ed1654174d200f2d508e4a4669d8d35a07e52e87e9f5562e204ed8f462"
+      ]
+    },
+    "0x9ddd5f08f8355f7bde27e393efa73238b38fc14d": {
+      "rewardNetwork": 0,
+      "collateralRpl": "684990105440851405",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "0",
+      "merkleProof": [
+        "0x5cb34a6c3043bc6ff54c14e7b91a4f04f4cdf8897e2a26d8995518878f2d4da5",
+        "0xc1f1a2a549b000aea1e507587a3bdcca17e9bafbb4ac5b18709d81777b87bc4b",
+        "0xa85955f72c5c3fc1404895c255252750b226fad9a0c860a7d2719bb432cbeb6f",
+        "0xc1c0d71d60a5981979b1a2d70cd4571a9ec81a65057286784bb412a7efdea68c",
+        "0xd07bdc3759cc3ef78628ba3d208a0a21deee0f25f93b78d45699e8b3a9cebe66",
+        "0xf25d14e224551306655fa44c1cb1dbea818bf7c7754fc772f2b5185dddfb8685",
+        "0x25dee15aa950d4bc956c30260bd6723ce2996507e4ec9c147ca69b3c3f562055",
+        "0x2e7ba1ed1654174d200f2d508e4a4669d8d35a07e52e87e9f5562e204ed8f462"
+      ]
+    },
+    "0x9e1d3f084c1da40775c1e702b15a1c5b01df6cc8": {
+      "rewardNetwork": 0,
+      "collateralRpl": "25982890332395863803",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "0",
+      "merkleProof": [
+        "0x7f35bcd06e40d88374bb32eceebdc43090d48f2bc0210eccbd296c4ed8287987",
+        "0x1b84b8776815e7f3cbadd84f0ee62b5a7ed3104a6e12d4814a4728ee26de6a02",
+        "0x527f844043dc70e31fd241e58bf9dcb08e97ebcdd6b0d8508b849b6214b97739",
+        "0xae4cfb1af4646f38b5bfecabfe2b3db43392bd3eba27614658172014617dc0eb",
+        "0xd52cdc9e03999d8c6ce42bf05145e7127be774c0ad1bc9d28645b8218352da3c",
+        "0x289501ce40609cea14a3122692233813d5f7f884fba18f7f1a6edd2d0067bad7",
+        "0x9dd3bc641717f32bb0dbc529f728579ea73848f2b77ebd9f878d77b7442fc276",
+        "0x2e7ba1ed1654174d200f2d508e4a4669d8d35a07e52e87e9f5562e204ed8f462"
+      ]
+    },
+    "0x9f3e21d0fa2f3dd523df3d8986ab22182dfe91c3": {
+      "rewardNetwork": 0,
+      "collateralRpl": "657146165856147048",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "0",
+      "merkleProof": [
+        "0x95884af931133c816d0e0ef81d655328e4fa4a9e0a36e792a8874184673783b3",
+        "0x3ad84e48b9689d73cf3ace2f9bd4aba65549b6d79c11e87855b1dc941235475c",
+        "0x09b10fff83920b773645f43318692e36b542c2bed101609e9ca78c0257ad87f1",
+        "0xe89848099b289343b1699b912a601488b8987f2d3d267e6428fa51d574b4f592",
+        "0x501fcec32e3b276160788b1a7224604273bc8bc1163edb5af868bde2ae210836",
+        "0x289501ce40609cea14a3122692233813d5f7f884fba18f7f1a6edd2d0067bad7",
+        "0x9dd3bc641717f32bb0dbc529f728579ea73848f2b77ebd9f878d77b7442fc276",
+        "0x2e7ba1ed1654174d200f2d508e4a4669d8d35a07e52e87e9f5562e204ed8f462"
+      ]
+    },
+    "0x9f512272c2ea2d59452653e7318880f51b04005f": {
+      "rewardNetwork": 0,
+      "collateralRpl": "1004745495597222452",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "0",
+      "merkleProof": [
+        "0x38994de872868c6b7259589e4a7d67bd2d54dbafa8294ce56c2c0c6840bedbcd",
+        "0xd647511326651b7d2c98f49c0b08edd56ed3cbccf26b4719383fdc2e980b5cf0",
+        "0x8f5f26c771d4ebae9383f710efc682c2f94bf9b06eab9b43332fd98b9664bb62",
+        "0x2e88c436a4f82c6c5434ce743b524924016a271edea17c99aa9e5e147f887469",
+        "0x448dbf81ba87f4a54d198064f8c89f7f0ecc08c550c7d9d0dfa2198934867291",
+        "0xf25d14e224551306655fa44c1cb1dbea818bf7c7754fc772f2b5185dddfb8685",
+        "0x25dee15aa950d4bc956c30260bd6723ce2996507e4ec9c147ca69b3c3f562055",
+        "0x2e7ba1ed1654174d200f2d508e4a4669d8d35a07e52e87e9f5562e204ed8f462"
+      ]
+    },
+    "0xa107015daba9828c8636acdd61f715bf9ca0491e": {
+      "rewardNetwork": 0,
+      "collateralRpl": "3711920467731160899",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "0",
+      "merkleProof": [
+        "0x7f477f6f5ce4dc8a03f42c4b0e3e18a788dd0c03bb9719efe86f49552cfc08c9",
+        "0xad98bbd0b0e82828c0f2c874a945f8532932fb0eb312f60a39f793f535b6ef40",
+        "0x527f844043dc70e31fd241e58bf9dcb08e97ebcdd6b0d8508b849b6214b97739",
+        "0xae4cfb1af4646f38b5bfecabfe2b3db43392bd3eba27614658172014617dc0eb",
+        "0xd52cdc9e03999d8c6ce42bf05145e7127be774c0ad1bc9d28645b8218352da3c",
+        "0x289501ce40609cea14a3122692233813d5f7f884fba18f7f1a6edd2d0067bad7",
+        "0x9dd3bc641717f32bb0dbc529f728579ea73848f2b77ebd9f878d77b7442fc276",
+        "0x2e7ba1ed1654174d200f2d508e4a4669d8d35a07e52e87e9f5562e204ed8f462"
+      ]
+    },
+    "0xa74808feb48453a66ffd90c83f77888b27c4cd25": {
+      "rewardNetwork": 0,
+      "collateralRpl": "1025139761427882542",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "0",
+      "merkleProof": [
+        "0x2ad03e1bcd31ad8b342fca34fbfe42a0ab7441b40e1dd8ee78a6009789688fe1",
+        "0x382c6f41e1a6456f2ea999c6671b4e7d2632df1e95735bca04cf88dcf1f8c493",
+        "0xda92d7b4065e9e10a355d89e2f10941d98cf1c3baf3aa70ae72a0d24c0c67cde",
+        "0xa112473f8f9208e67f940dcd9a87b6aaa0e6c58682929eae5c025858bf5fd44a",
+        "0x19fd6b432049b25e08f235bcb5d149cbbd1820867ce21d9e7094398f47a9ec8b",
+        "0xc0719256ee0195bed64a7a06092dd1b8ae9e663555cc5c410ea2c0626edec74a",
+        "0x25dee15aa950d4bc956c30260bd6723ce2996507e4ec9c147ca69b3c3f562055",
+        "0x2e7ba1ed1654174d200f2d508e4a4669d8d35a07e52e87e9f5562e204ed8f462"
+      ]
+    },
+    "0xa8f063f5fffbe9639cf05fb129d3b49fb1876e4f": {
+      "rewardNetwork": 0,
+      "collateralRpl": "1280447450319797556",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "36716806230790",
+      "merkleProof": [
+        "0xc8709df4623df711f768bd8e0ba43eda4997711846cc65ed53ba080bffd356c9",
+        "0xe5f163825c88bb69a89c43b447efa55f616644ab4fda8858305edfa2e84477df",
+        "0x7fce7ae64a054972ca42227405063a1c81bf1787a7d5176fd124061c23bb385a",
+        "0x224f5b986fcc3a84c7ae72de9a557711b5cc40e5afca71dc6f8653952ae6b8b8",
+        "0x9a06fb6cfae1f2fe451f3abf4f4ffea4374d6721b9b629e557fae39ba6de6f00",
+        "0x1416882ddc4de7e911b49598602dc577af88dd8f1fd8a08f64b3619a700c1c95",
+        "0x887c22bd8750d34016ac3c66b5ff102dacdd73f6b014e710b51e8022af9a1968",
+        "0xbbf10945978758dabe08af9f827001c581c7bdce631de23ddf283af70a7e370b"
+      ]
+    },
+    "0xabdd4c95d859498799e3cc2dff8bf2e2a49c8dc4": {
+      "rewardNetwork": 0,
+      "collateralRpl": "1025139761427882542",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "0",
+      "merkleProof": [
+        "0x292d928d25c30ee173c5ca4a8cf95ba85d4e6128d5e022c17a7bb47b5c46a60a",
+        "0x3b94dd0269043a9ad0ded1d375158088c9554c66f497ca7d545b8e5e2676fb3b",
+        "0x108df52407b68e5d16ffecfb15b6aeaf1ea89df8f7f3e1a0f77391fc9d76df37",
+        "0xa112473f8f9208e67f940dcd9a87b6aaa0e6c58682929eae5c025858bf5fd44a",
+        "0x19fd6b432049b25e08f235bcb5d149cbbd1820867ce21d9e7094398f47a9ec8b",
+        "0xc0719256ee0195bed64a7a06092dd1b8ae9e663555cc5c410ea2c0626edec74a",
+        "0x25dee15aa950d4bc956c30260bd6723ce2996507e4ec9c147ca69b3c3f562055",
+        "0x2e7ba1ed1654174d200f2d508e4a4669d8d35a07e52e87e9f5562e204ed8f462"
+      ]
+    },
+    "0xae24f7bac4bcf96910def78c3126f2a39a58b916": {
+      "rewardNetwork": 0,
+      "collateralRpl": "1025139761427882542",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "0",
+      "merkleProof": [
+        "0x413e778e7ced1a512440ea45d34232c60a6ec79a342975d8e5d4a7731e370882",
+        "0x8d581a3a96da1e9a4d7a82abb9dfa9d23baa9f1b46d8b5ce1cc0c77e68efc7dc",
+        "0xffdcb1930042b96205076118b54219aeea8d9782c042730a09d0a386012fc291",
+        "0x2e88c436a4f82c6c5434ce743b524924016a271edea17c99aa9e5e147f887469",
+        "0x448dbf81ba87f4a54d198064f8c89f7f0ecc08c550c7d9d0dfa2198934867291",
+        "0xf25d14e224551306655fa44c1cb1dbea818bf7c7754fc772f2b5185dddfb8685",
+        "0x25dee15aa950d4bc956c30260bd6723ce2996507e4ec9c147ca69b3c3f562055",
+        "0x2e7ba1ed1654174d200f2d508e4a4669d8d35a07e52e87e9f5562e204ed8f462"
+      ]
+    },
+    "0xae3d42d59b2c83e013b5498fe69c859c90964aca": {
+      "rewardNetwork": 0,
+      "collateralRpl": "4150870711507073809",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "121447153420784",
+      "merkleProof": [
+        "0x4de5d7083de7ea9c3a9c9438de5865c77a98acc13c72ae31437a047ac60f7dd6",
+        "0xad5e938dd5ee3aa41fce3ebe2b08a8359417ff63a26624f9863ca934100e7f4f",
+        "0xd66dc9bd3442516aad6eda51b61ba4eeb75feb046a815af64c5104194ae2a5cd",
+        "0xc7c7424fba44ce8725e4c630c67a6b0f25d9e574c7be697a86c7f20045cf572c",
+        "0xd07bdc3759cc3ef78628ba3d208a0a21deee0f25f93b78d45699e8b3a9cebe66",
+        "0xf25d14e224551306655fa44c1cb1dbea818bf7c7754fc772f2b5185dddfb8685",
+        "0x25dee15aa950d4bc956c30260bd6723ce2996507e4ec9c147ca69b3c3f562055",
+        "0x2e7ba1ed1654174d200f2d508e4a4669d8d35a07e52e87e9f5562e204ed8f462"
+      ]
+    },
+    "0xaed4112cc1f8aa30f06efaf0f1a1450c4b123a21": {
+      "rewardNetwork": 0,
+      "collateralRpl": "1353192586662925861",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "0",
+      "merkleProof": [
+        "0x82b2e8d568f64b7d29bd82ae2c578a9ef67b6229daae8b6a9326e6880f787e9a",
+        "0xe246a9ff687c96d323dc80ee573997407a7938320db9ce7c01131a94edc1aeed",
+        "0x4608521c9cdd1548d0fec89c614f63c7e8a698125ea8c57d8172d2c354613984",
+        "0xae4cfb1af4646f38b5bfecabfe2b3db43392bd3eba27614658172014617dc0eb",
+        "0xd52cdc9e03999d8c6ce42bf05145e7127be774c0ad1bc9d28645b8218352da3c",
+        "0x289501ce40609cea14a3122692233813d5f7f884fba18f7f1a6edd2d0067bad7",
+        "0x9dd3bc641717f32bb0dbc529f728579ea73848f2b77ebd9f878d77b7442fc276",
+        "0x2e7ba1ed1654174d200f2d508e4a4669d8d35a07e52e87e9f5562e204ed8f462"
+      ]
+    },
+    "0xaf30e6e9d389f9141932eae876cae8e411564b43": {
+      "rewardNetwork": 0,
+      "collateralRpl": "0",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "6088537282247521",
+      "merkleProof": [
+        "0xdff5d8757fd1fea507c853daeec5a8cb6e00670385f5b19bb44ce463601a7c54",
+        "0xfc08f4f3d66c7411fe26d8ab5bfb11ab48e46d8e357b26a0e5779c0e52fadb7f",
+        "0x0480479a347c77f21a738ceefb31b621f124d30c7a89bbd169d2d222d3477781",
+        "0x985ac110d815ce75b3ec5d0b2ff48897d5d7e5e8960372a51ba64c86b56618f9",
+        "0x600c9e63285ca4ccc31b71657b0c0222aefd0a7411ee55facbaa1a48ee018ff9",
+        "0x1416882ddc4de7e911b49598602dc577af88dd8f1fd8a08f64b3619a700c1c95",
+        "0x887c22bd8750d34016ac3c66b5ff102dacdd73f6b014e710b51e8022af9a1968",
+        "0xbbf10945978758dabe08af9f827001c581c7bdce631de23ddf283af70a7e370b"
+      ]
+    },
+    "0xb17f38afdda59869a26f6ce182e6961ff4bb77ce": {
+      "rewardNetwork": 0,
+      "collateralRpl": "1725320547995230473",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "0",
+      "merkleProof": [
+        "0x10b6857d8ea2b6bcdca0adf2ef2dad7a178716c64cd1655065f716d4b2fc6b94",
+        "0x90acb062ed3774605426ee69f3c7a66fdfdcf63e3b3582b1b2ef40c2767d34df",
+        "0xb9195e714215f0b93537ad99330dac17c52d9f9f54343ab5c47202479551a071",
+        "0x314929c23353c6f7f66c84e6a91e8bd6ca5816fd002a361329fbb927b0dbd130",
+        "0x63069c0b5ef895906424354831f8aded9da062a7a297eddc7e946aba07bea2a6",
+        "0xc0719256ee0195bed64a7a06092dd1b8ae9e663555cc5c410ea2c0626edec74a",
+        "0x25dee15aa950d4bc956c30260bd6723ce2996507e4ec9c147ca69b3c3f562055",
+        "0x2e7ba1ed1654174d200f2d508e4a4669d8d35a07e52e87e9f5562e204ed8f462"
+      ]
+    },
+    "0xb70b791455786ac3607147b2f4175688447efafc": {
+      "rewardNetwork": 0,
+      "collateralRpl": "339143892032395794133",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "0",
+      "merkleProof": [
+        "0xab863edb784908b7a25226e5ca638cd74578699e2e305f97740dcaebb097f8e4",
+        "0xf6577b94caa45cb8416d4160c9a873ea4b6a6f6b2e881f0ace32ef3704afaba2",
+        "0x6b7c759f902defd69cb22e1864d5ac3c9993d334cab714544bfbbb7c3c0be5ff",
+        "0xcab7788f22873f5833cef3a3c637e2607b5fbfdfa65ec8c409bbf62ed0df5637",
+        "0x501fcec32e3b276160788b1a7224604273bc8bc1163edb5af868bde2ae210836",
+        "0x289501ce40609cea14a3122692233813d5f7f884fba18f7f1a6edd2d0067bad7",
+        "0x9dd3bc641717f32bb0dbc529f728579ea73848f2b77ebd9f878d77b7442fc276",
+        "0x2e7ba1ed1654174d200f2d508e4a4669d8d35a07e52e87e9f5562e204ed8f462"
+      ]
+    },
+    "0xbc956b4de8187483c0fbbf04a241215db83774d9": {
+      "rewardNetwork": 0,
+      "collateralRpl": "633847426512501368",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "0",
+      "merkleProof": [
+        "0x62efbc6f539d2cc52187dd10a9dfbb563586322dcd98d6783dd572a5c4a60813",
+        "0x5e3b4d4f9f26503e506aafde795fcb5bf0aa9bfc7ad869d34dd743b1ce8b889c",
+        "0x8b5ea48cf7e69da31b54d1f99c4c5cdb4941b3394c85bb5fb6cbe1fa0984330d",
+        "0xdf1ca47d541d44105b622f851799f316bd50547c4531e1ee0f355623dda2800b",
+        "0x4f04114514d08c99c207e0c15e0ba29ac496946b6ae484aea008c86fe9cff4ad",
+        "0x3b94b2ea6c41f120c5393833b13fa3ea774a6801503c36c8e9338e5ebc60ad08",
+        "0x9dd3bc641717f32bb0dbc529f728579ea73848f2b77ebd9f878d77b7442fc276",
+        "0x2e7ba1ed1654174d200f2d508e4a4669d8d35a07e52e87e9f5562e204ed8f462"
+      ]
+    },
+    "0xbd3f35367f7662ad5f9f704a0d946935b73f3b99": {
+      "rewardNetwork": 0,
+      "collateralRpl": "2791310722447029913",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "0",
+      "merkleProof": [
+        "0x7a541e559558cf52be30fc2d4e83858d1aa8041847a2ca097a07b1b151a14969",
+        "0x32f672feb9e88476714d17094a4cc74deabfaf8f5323d3d1c66b666324ff47b6",
+        "0x9643c32ab4d648789c16529d919b96df74bff96eafa3edb1340234af91c90e52",
+        "0xfa98ae1a696cf6b59ef4e5f25edb6cf423a50e1194667a8a373481fa724a81c4",
+        "0x73aafd5f3cd113010a21744e726d4d818bfa11fbf14682e00cee12954a5d767f",
+        "0x3b94b2ea6c41f120c5393833b13fa3ea774a6801503c36c8e9338e5ebc60ad08",
+        "0x9dd3bc641717f32bb0dbc529f728579ea73848f2b77ebd9f878d77b7442fc276",
+        "0x2e7ba1ed1654174d200f2d508e4a4669d8d35a07e52e87e9f5562e204ed8f462"
+      ]
+    },
+    "0xbdf355d7fc0ba7de68ace49f545291d35fd74716": {
+      "rewardNetwork": 0,
+      "collateralRpl": "4113556601453332708",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "126496946118651",
+      "merkleProof": [
+        "0xc365cd0ecc2e868381fab91aef5cccecbde322023361b79e231dede5bac63887",
+        "0xfcbb804224330371a4123f29ea79b44beec2cee5b6ede43d9c177527e0413245",
+        "0x64f0864b1494760298631904055f6e3634449f7de77c84e43cb53965a8c8c94f",
+        "0x2da06216e1e6774d38182371520bd66577aff07801d03256336bb2903dad076a",
+        "0x9a06fb6cfae1f2fe451f3abf4f4ffea4374d6721b9b629e557fae39ba6de6f00",
+        "0x1416882ddc4de7e911b49598602dc577af88dd8f1fd8a08f64b3619a700c1c95",
+        "0x887c22bd8750d34016ac3c66b5ff102dacdd73f6b014e710b51e8022af9a1968",
+        "0xbbf10945978758dabe08af9f827001c581c7bdce631de23ddf283af70a7e370b"
+      ]
+    },
+    "0xc300e975bb7f333ae904fe5358d27811f236ec29": {
+      "rewardNetwork": 0,
+      "collateralRpl": "7077305390874067943",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "0",
+      "merkleProof": [
+        "0x75cc28f1c40f174b1a8b206a983481db025ae507f8571e517647c8cabc331ae0",
+        "0xcffdef64bce74baaae992d082739f5e9ab0efe1487f4507028fa0caf5d4a055f",
+        "0x9bf6b20c950acdca34459e211f1e12072085b276804fe73acd5ea36ff458be17",
+        "0xfa98ae1a696cf6b59ef4e5f25edb6cf423a50e1194667a8a373481fa724a81c4",
+        "0x73aafd5f3cd113010a21744e726d4d818bfa11fbf14682e00cee12954a5d767f",
+        "0x3b94b2ea6c41f120c5393833b13fa3ea774a6801503c36c8e9338e5ebc60ad08",
+        "0x9dd3bc641717f32bb0dbc529f728579ea73848f2b77ebd9f878d77b7442fc276",
+        "0x2e7ba1ed1654174d200f2d508e4a4669d8d35a07e52e87e9f5562e204ed8f462"
+      ]
+    },
+    "0xc4365a50a85b304070803063c0f4a5f78c978fd5": {
+      "rewardNetwork": 0,
+      "collateralRpl": "1427062719668440394",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "0",
+      "merkleProof": [
+        "0xd61c245c784318ded9651b81b694c749c3266a13ab0419b1fffe0f56ae9a6ee9",
+        "0xac79bcafaff53fed7328e3e09e07e308a6e6e6d3797ff0ce92cfb2432340380a",
+        "0x117b5406ff97074ab3ed34c494dceae40d856befc5dfb6d607643a90451ba76c",
+        "0x224f5b986fcc3a84c7ae72de9a557711b5cc40e5afca71dc6f8653952ae6b8b8",
+        "0x9a06fb6cfae1f2fe451f3abf4f4ffea4374d6721b9b629e557fae39ba6de6f00",
+        "0x1416882ddc4de7e911b49598602dc577af88dd8f1fd8a08f64b3619a700c1c95",
+        "0x887c22bd8750d34016ac3c66b5ff102dacdd73f6b014e710b51e8022af9a1968",
+        "0xbbf10945978758dabe08af9f827001c581c7bdce631de23ddf283af70a7e370b"
+      ]
+    },
+    "0xc526991c16fdda8897a3571fe42ea14a3ec26f28": {
+      "rewardNetwork": 0,
+      "collateralRpl": "2135707836308088433",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "0",
+      "merkleProof": [
+        "0x73baa583f52bd3846468669d4a42a2415dacdf04e561d82efa621b77306c4c33",
+        "0x201e271e959cf3f79fbfe64bde806bbeb05c43dc59e9cf1e731b0e09b39d82fd",
+        "0x4cc92e0cce9782028a884a5a4404ea65fa19dc98c825324feb6899582ae6af01",
+        "0x8fbe1c6dcf2147130398b6a7ff6124d23942721e802e9b2ee0799f17aefa482b",
+        "0x73aafd5f3cd113010a21744e726d4d818bfa11fbf14682e00cee12954a5d767f",
+        "0x3b94b2ea6c41f120c5393833b13fa3ea774a6801503c36c8e9338e5ebc60ad08",
+        "0x9dd3bc641717f32bb0dbc529f728579ea73848f2b77ebd9f878d77b7442fc276",
+        "0x2e7ba1ed1654174d200f2d508e4a4669d8d35a07e52e87e9f5562e204ed8f462"
+      ]
+    },
+    "0xc80ed2a9cd0e18ab662ede167cbc96b7c5b59970": {
+      "rewardNetwork": 0,
+      "collateralRpl": "10678539181540442169",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "0",
+      "merkleProof": [
+        "0xb90b89dba9fbbabcc3434b2fa5b6bc20db51501bb3daa0ac99a23330d8fdba44",
+        "0xb80c9e715fe5c84c4d018e552c04ba37e0f41db4c1af2174fea6e565e4118aa1",
+        "0x4969bced5a5599a685ae6a21de60ce1f24658cb327d7fb6b5f6b5b9df9ba9d7a",
+        "0x2da06216e1e6774d38182371520bd66577aff07801d03256336bb2903dad076a",
+        "0x9a06fb6cfae1f2fe451f3abf4f4ffea4374d6721b9b629e557fae39ba6de6f00",
+        "0x1416882ddc4de7e911b49598602dc577af88dd8f1fd8a08f64b3619a700c1c95",
+        "0x887c22bd8750d34016ac3c66b5ff102dacdd73f6b014e710b51e8022af9a1968",
+        "0xbbf10945978758dabe08af9f827001c581c7bdce631de23ddf283af70a7e370b"
+      ]
+    },
+    "0xc83733daedf9cbc74f2975c4d137fb847666e8d3": {
+      "rewardNetwork": 0,
+      "collateralRpl": "2135707836308088433",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "0",
+      "merkleProof": [
+        "0x3dc6b020c3b9cedee64e39f22350fa9eeae009a7c9a211e9ea2c1dd993d4d2be",
+        "0x8c674d7a34fb13eb69be09aa23636550d87a0ec568f048ea8056bcd439886853",
+        "0x8f5f26c771d4ebae9383f710efc682c2f94bf9b06eab9b43332fd98b9664bb62",
+        "0x2e88c436a4f82c6c5434ce743b524924016a271edea17c99aa9e5e147f887469",
+        "0x448dbf81ba87f4a54d198064f8c89f7f0ecc08c550c7d9d0dfa2198934867291",
+        "0xf25d14e224551306655fa44c1cb1dbea818bf7c7754fc772f2b5185dddfb8685",
+        "0x25dee15aa950d4bc956c30260bd6723ce2996507e4ec9c147ca69b3c3f562055",
+        "0x2e7ba1ed1654174d200f2d508e4a4669d8d35a07e52e87e9f5562e204ed8f462"
+      ]
+    },
+    "0xc8651a27ef025eedfa10bde31f31e587f6451b61": {
+      "rewardNetwork": 0,
+      "collateralRpl": "33957889012573763881",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "0",
+      "merkleProof": [
+        "0xd4583d6fa09f85d856a1495acc70ab811b5006f94f1b82ce722c52260d00068a",
+        "0x86c166f2bc55797f90390efe0e0ae5ab9253a7fc32f22ecde8ed9d7b93454302",
+        "0x7fce7ae64a054972ca42227405063a1c81bf1787a7d5176fd124061c23bb385a",
+        "0x224f5b986fcc3a84c7ae72de9a557711b5cc40e5afca71dc6f8653952ae6b8b8",
+        "0x9a06fb6cfae1f2fe451f3abf4f4ffea4374d6721b9b629e557fae39ba6de6f00",
+        "0x1416882ddc4de7e911b49598602dc577af88dd8f1fd8a08f64b3619a700c1c95",
+        "0x887c22bd8750d34016ac3c66b5ff102dacdd73f6b014e710b51e8022af9a1968",
+        "0xbbf10945978758dabe08af9f827001c581c7bdce631de23ddf283af70a7e370b"
+      ]
+    },
+    "0xc8d7f5d6f8a218e211b851d63856a9f7243c7e3d": {
+      "rewardNetwork": 0,
+      "collateralRpl": "845745366664328663",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "0",
+      "merkleProof": [
+        "0xea51cb9dbea624e19ae835c62bb2aa982c9905712c566f8b89df6e99f7c1998f",
+        "0xaa96fb20fd6802fb7f971b487f4baaf1dd49dbb94c0a3bb3249c21c83bcc9053",
+        "0x3824f0bf6f3e061a04386b2c7ef40d4b4b617de75320b5182de39a02d6a9cfcb",
+        "0x826dc84b0c7000f17e6bc36c73667cfa57c01efbbbed8c6fd6faf4f0a4def54f",
+        "0x600c9e63285ca4ccc31b71657b0c0222aefd0a7411ee55facbaa1a48ee018ff9",
+        "0x1416882ddc4de7e911b49598602dc577af88dd8f1fd8a08f64b3619a700c1c95",
+        "0x887c22bd8750d34016ac3c66b5ff102dacdd73f6b014e710b51e8022af9a1968",
+        "0xbbf10945978758dabe08af9f827001c581c7bdce631de23ddf283af70a7e370b"
+      ]
+    },
+    "0xc99024062df9db65a0cd2b6a748f8ff8c24a606c": {
+      "rewardNetwork": 0,
+      "collateralRpl": "2135707836308088433",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "0",
+      "merkleProof": [
+        "0x774d7529491ac525bf65a711125d95963bf1260b65bbdaed8737030d81a38da5",
+        "0xdb7361ff1da2415df02e907d481ccf3a2a4687c4d9261675ab304436ba392c33",
+        "0x9bf6b20c950acdca34459e211f1e12072085b276804fe73acd5ea36ff458be17",
+        "0xfa98ae1a696cf6b59ef4e5f25edb6cf423a50e1194667a8a373481fa724a81c4",
+        "0x73aafd5f3cd113010a21744e726d4d818bfa11fbf14682e00cee12954a5d767f",
+        "0x3b94b2ea6c41f120c5393833b13fa3ea774a6801503c36c8e9338e5ebc60ad08",
+        "0x9dd3bc641717f32bb0dbc529f728579ea73848f2b77ebd9f878d77b7442fc276",
+        "0x2e7ba1ed1654174d200f2d508e4a4669d8d35a07e52e87e9f5562e204ed8f462"
+      ]
+    },
+    "0xcb1b21b386fcc25a16a0a374480b9c9e04088593": {
+      "rewardNetwork": 0,
+      "collateralRpl": "1975906986610923810",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "0",
+      "merkleProof": [
+        "0x2b3878e29a1714d68e10b8ec7b77483fec4f7bad3393085f278a959cef7eaa5e",
+        "0x382c6f41e1a6456f2ea999c6671b4e7d2632df1e95735bca04cf88dcf1f8c493",
+        "0xda92d7b4065e9e10a355d89e2f10941d98cf1c3baf3aa70ae72a0d24c0c67cde",
+        "0xa112473f8f9208e67f940dcd9a87b6aaa0e6c58682929eae5c025858bf5fd44a",
+        "0x19fd6b432049b25e08f235bcb5d149cbbd1820867ce21d9e7094398f47a9ec8b",
+        "0xc0719256ee0195bed64a7a06092dd1b8ae9e663555cc5c410ea2c0626edec74a",
+        "0x25dee15aa950d4bc956c30260bd6723ce2996507e4ec9c147ca69b3c3f562055",
+        "0x2e7ba1ed1654174d200f2d508e4a4669d8d35a07e52e87e9f5562e204ed8f462"
+      ]
+    },
+    "0xcc4adf1fa3338a2695ac4c9238c2969eb5a35bbd": {
+      "rewardNetwork": 0,
+      "collateralRpl": "6575988045382823871",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "0",
+      "merkleProof": [
+        "0x9300c405c909f6a5ae747fd0b39ad6e8fabb110f7e97f69375ead53f82399b03",
+        "0x0525f03a1c649d17338218ea7f85f3fdd4927bbb9c8a4408b53ed6ac6c8abe8a",
+        "0x84af23bedc3b6695db48168e726d34562b8eca593b1126c6899659abd2bfeb7e",
+        "0x9c39a78adb7399282e3e7f574670cb8d9a47fc81ff28cd86b988b0a90f3f8a60",
+        "0xd52cdc9e03999d8c6ce42bf05145e7127be774c0ad1bc9d28645b8218352da3c",
+        "0x289501ce40609cea14a3122692233813d5f7f884fba18f7f1a6edd2d0067bad7",
+        "0x9dd3bc641717f32bb0dbc529f728579ea73848f2b77ebd9f878d77b7442fc276",
+        "0x2e7ba1ed1654174d200f2d508e4a4669d8d35a07e52e87e9f5562e204ed8f462"
+      ]
+    },
+    "0xcdbff890f1b81f75303f900ee140ec0cec08b702": {
+      "rewardNetwork": 0,
+      "collateralRpl": "3250485143313808204",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "0",
+      "merkleProof": [
+        "0x754abb759bc3f95a208899e9ab6c9f11e3843b11988c6e2359327eb1c217c069",
+        "0xe94cb8608afb30e9219649089f9b542534c685372aba6b76256c78c8fa435e63",
+        "0x4cc92e0cce9782028a884a5a4404ea65fa19dc98c825324feb6899582ae6af01",
+        "0x8fbe1c6dcf2147130398b6a7ff6124d23942721e802e9b2ee0799f17aefa482b",
+        "0x73aafd5f3cd113010a21744e726d4d818bfa11fbf14682e00cee12954a5d767f",
+        "0x3b94b2ea6c41f120c5393833b13fa3ea774a6801503c36c8e9338e5ebc60ad08",
+        "0x9dd3bc641717f32bb0dbc529f728579ea73848f2b77ebd9f878d77b7442fc276",
+        "0x2e7ba1ed1654174d200f2d508e4a4669d8d35a07e52e87e9f5562e204ed8f462"
+      ]
+    },
+    "0xcdece803a5de5928af2ffa5bab579dd714554843": {
+      "rewardNetwork": 0,
+      "collateralRpl": "1725320547995230473",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "0",
+      "merkleProof": [
+        "0x12f2ff20029349701ddabad77e0294b600e76d41b45fa06484fa2248b12ac08e",
+        "0xfebb1a7c5f2645f674a8d84d7efb5e97e6bb1d499ee6729f51b8d5f6da0e7269",
+        "0xb9195e714215f0b93537ad99330dac17c52d9f9f54343ab5c47202479551a071",
+        "0x314929c23353c6f7f66c84e6a91e8bd6ca5816fd002a361329fbb927b0dbd130",
+        "0x63069c0b5ef895906424354831f8aded9da062a7a297eddc7e946aba07bea2a6",
+        "0xc0719256ee0195bed64a7a06092dd1b8ae9e663555cc5c410ea2c0626edec74a",
+        "0x25dee15aa950d4bc956c30260bd6723ce2996507e4ec9c147ca69b3c3f562055",
+        "0x2e7ba1ed1654174d200f2d508e4a4669d8d35a07e52e87e9f5562e204ed8f462"
+      ]
+    },
+    "0xce1bfcd11d82700fb3ae7e8eb40a6369a0eb894d": {
+      "rewardNetwork": 0,
+      "collateralRpl": "36021747079754946152",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "0",
+      "merkleProof": [
+        "0x200331c4433027b257fd9a80c82f9f8b75a9cd6c74056850561ecdece4b99fa6",
+        "0xca96a2964f136cea9c850877b2a558cda9b0b311519751f7337db9bbeed313f8",
+        "0xa0a7c33f67bab25b7fb8e3b7708b0cb0d32ea872c0784733a34fc97c3453813a",
+        "0x8fa16fa47b725ccaa94c86b1252665d0411b80f3db7704b0c1e8ef296bda7639",
+        "0x19fd6b432049b25e08f235bcb5d149cbbd1820867ce21d9e7094398f47a9ec8b",
+        "0xc0719256ee0195bed64a7a06092dd1b8ae9e663555cc5c410ea2c0626edec74a",
+        "0x25dee15aa950d4bc956c30260bd6723ce2996507e4ec9c147ca69b3c3f562055",
+        "0x2e7ba1ed1654174d200f2d508e4a4669d8d35a07e52e87e9f5562e204ed8f462"
+      ]
+    },
+    "0xcef2b184c4dadf2f790b83dedd3ed954e3263386": {
+      "rewardNetwork": 0,
+      "collateralRpl": "2347789137860176370",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "93391227768433",
+      "merkleProof": [
+        "0xee5b70150b39486899ef3c4e8cfe250b648c254e14c029cc7114ae373bcc653b",
+        "0x7c87217a28ff2c506ce331c7f0cdc8bc43fd11800e7ffaa7279167d5c2e8cf3f",
+        "0x3824f0bf6f3e061a04386b2c7ef40d4b4b617de75320b5182de39a02d6a9cfcb",
+        "0x826dc84b0c7000f17e6bc36c73667cfa57c01efbbbed8c6fd6faf4f0a4def54f",
+        "0x600c9e63285ca4ccc31b71657b0c0222aefd0a7411ee55facbaa1a48ee018ff9",
+        "0x1416882ddc4de7e911b49598602dc577af88dd8f1fd8a08f64b3619a700c1c95",
+        "0x887c22bd8750d34016ac3c66b5ff102dacdd73f6b014e710b51e8022af9a1968",
+        "0xbbf10945978758dabe08af9f827001c581c7bdce631de23ddf283af70a7e370b"
+      ]
+    },
+    "0xd1320927467c77d81ce1beb7bde454de68d9507b": {
+      "rewardNetwork": 0,
+      "collateralRpl": "677564626931762404",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "0",
+      "merkleProof": [
+        "0xdff1940ca2af0d4310a4448b1eb520867bbf7b46f818ff8a369ef7ea65feb174",
+        "0x8b3e8baffab48386fbde7a3ace020759a96076fa335f221e7905b9ad9c049dfc",
+        "0x0480479a347c77f21a738ceefb31b621f124d30c7a89bbd169d2d222d3477781",
+        "0x985ac110d815ce75b3ec5d0b2ff48897d5d7e5e8960372a51ba64c86b56618f9",
+        "0x600c9e63285ca4ccc31b71657b0c0222aefd0a7411ee55facbaa1a48ee018ff9",
+        "0x1416882ddc4de7e911b49598602dc577af88dd8f1fd8a08f64b3619a700c1c95",
+        "0x887c22bd8750d34016ac3c66b5ff102dacdd73f6b014e710b51e8022af9a1968",
+        "0xbbf10945978758dabe08af9f827001c581c7bdce631de23ddf283af70a7e370b"
+      ]
+    },
+    "0xd1583f8bd50e6b3dcaeedd0b94418a86045206db": {
+      "rewardNetwork": 0,
+      "collateralRpl": "10365389343138108680",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "164262774225836",
+      "merkleProof": [
+        "0x0ca25fafa3f7a1070f140ee08524a76d750ed30b8c80a02e0578fc113d65414a",
+        "0x90acb062ed3774605426ee69f3c7a66fdfdcf63e3b3582b1b2ef40c2767d34df",
+        "0xb9195e714215f0b93537ad99330dac17c52d9f9f54343ab5c47202479551a071",
+        "0x314929c23353c6f7f66c84e6a91e8bd6ca5816fd002a361329fbb927b0dbd130",
+        "0x63069c0b5ef895906424354831f8aded9da062a7a297eddc7e946aba07bea2a6",
+        "0xc0719256ee0195bed64a7a06092dd1b8ae9e663555cc5c410ea2c0626edec74a",
+        "0x25dee15aa950d4bc956c30260bd6723ce2996507e4ec9c147ca69b3c3f562055",
+        "0x2e7ba1ed1654174d200f2d508e4a4669d8d35a07e52e87e9f5562e204ed8f462"
+      ]
+    },
+    "0xd595aac3d7beceaadf4cfcc1a4a8c6df905991c5": {
+      "rewardNetwork": 0,
+      "collateralRpl": "845745366664328663",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "0",
+      "merkleProof": [
+        "0x944c776894e184d0febc757e9e4f31b6213fc9a03c5cd815f68dc200365139d9",
+        "0xf5e0003b8339f24c03e78579cf7adfd311005669c8aa1d645b67e2b0f9a1c552",
+        "0x1a4671b7a779ddc398a270766ec6274e3e1a5a100ea64a972bf0091d7c335355",
+        "0x9c39a78adb7399282e3e7f574670cb8d9a47fc81ff28cd86b988b0a90f3f8a60",
+        "0xd52cdc9e03999d8c6ce42bf05145e7127be774c0ad1bc9d28645b8218352da3c",
+        "0x289501ce40609cea14a3122692233813d5f7f884fba18f7f1a6edd2d0067bad7",
+        "0x9dd3bc641717f32bb0dbc529f728579ea73848f2b77ebd9f878d77b7442fc276",
+        "0x2e7ba1ed1654174d200f2d508e4a4669d8d35a07e52e87e9f5562e204ed8f462"
+      ]
+    },
+    "0xd6ac1955d2364cffc41ce5c00bc590f76fb7e533": {
+      "rewardNetwork": 0,
+      "collateralRpl": "1691490733328657327",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "0",
+      "merkleProof": [
+        "0xd582dafef7c1d352959ee51ead3192d3e80a1983ec144db78f38fd3977634378",
+        "0x39c966487b0874820d4a6831ce42380e4654c7ca51ca4b7e580fc32e6efda792",
+        "0x117b5406ff97074ab3ed34c494dceae40d856befc5dfb6d607643a90451ba76c",
+        "0x224f5b986fcc3a84c7ae72de9a557711b5cc40e5afca71dc6f8653952ae6b8b8",
+        "0x9a06fb6cfae1f2fe451f3abf4f4ffea4374d6721b9b629e557fae39ba6de6f00",
+        "0x1416882ddc4de7e911b49598602dc577af88dd8f1fd8a08f64b3619a700c1c95",
+        "0x887c22bd8750d34016ac3c66b5ff102dacdd73f6b014e710b51e8022af9a1968",
+        "0xbbf10945978758dabe08af9f827001c581c7bdce631de23ddf283af70a7e370b"
+      ]
+    },
+    "0xd6f2f1db722d4cd62e2bd123d5da84cb21676d47": {
+      "rewardNetwork": 0,
+      "collateralRpl": "2114300804764783820",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "95670551446425",
+      "merkleProof": [
+        "0x16519df6a5bc7cfe96d1e4f43f418368f22004403c31bac98241abab8d4360de",
+        "0x23ee973447b557f5fe60190591f4e9b7885ed6b7509dd9c448af5834f876daae",
+        "0x02325cdde2fd2f2f05163a79c5a069ebfa8d0a77c5c167429f503cf077f5cc24",
+        "0x56650f9a782a645e0f4919b473924eaadb499f530567e03e19f5fce3987815e2",
+        "0x63069c0b5ef895906424354831f8aded9da062a7a297eddc7e946aba07bea2a6",
+        "0xc0719256ee0195bed64a7a06092dd1b8ae9e663555cc5c410ea2c0626edec74a",
+        "0x25dee15aa950d4bc956c30260bd6723ce2996507e4ec9c147ca69b3c3f562055",
+        "0x2e7ba1ed1654174d200f2d508e4a4669d8d35a07e52e87e9f5562e204ed8f462"
+      ]
+    },
+    "0xd9cbf2af5f3bd16bf1423fd5f94cd1333a3123b6": {
+      "rewardNetwork": 0,
+      "collateralRpl": "0",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "4688201956382",
+      "merkleProof": [
+        "0x1a9bc35fb71b0c2789cc1eb21463babe12b76bd5936f29a04de4df2b4c38f3bf",
+        "0x0a30d866480a389dfafeb60688cf02d9ceff8b596ce789f0dca6f4c1266e8059",
+        "0x1262eec031deb521bb45bb4f31e2c51470210b3e892cbc6ae195a999008544ac",
+        "0x56650f9a782a645e0f4919b473924eaadb499f530567e03e19f5fce3987815e2",
+        "0x63069c0b5ef895906424354831f8aded9da062a7a297eddc7e946aba07bea2a6",
+        "0xc0719256ee0195bed64a7a06092dd1b8ae9e663555cc5c410ea2c0626edec74a",
+        "0x25dee15aa950d4bc956c30260bd6723ce2996507e4ec9c147ca69b3c3f562055",
+        "0x2e7ba1ed1654174d200f2d508e4a4669d8d35a07e52e87e9f5562e204ed8f462"
+      ]
+    },
+    "0xdb2ffb9ae8b83fe1b5e97ec5d7333319c0a76492": {
+      "rewardNetwork": 0,
+      "collateralRpl": "5105333688726150547",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "235158480359026",
+      "merkleProof": [
+        "0x933bc31e08e934b493cd5d56d533addeb1cf120504b82bd241074850336f3938",
+        "0x0525f03a1c649d17338218ea7f85f3fdd4927bbb9c8a4408b53ed6ac6c8abe8a",
+        "0x84af23bedc3b6695db48168e726d34562b8eca593b1126c6899659abd2bfeb7e",
+        "0x9c39a78adb7399282e3e7f574670cb8d9a47fc81ff28cd86b988b0a90f3f8a60",
+        "0xd52cdc9e03999d8c6ce42bf05145e7127be774c0ad1bc9d28645b8218352da3c",
+        "0x289501ce40609cea14a3122692233813d5f7f884fba18f7f1a6edd2d0067bad7",
+        "0x9dd3bc641717f32bb0dbc529f728579ea73848f2b77ebd9f878d77b7442fc276",
+        "0x2e7ba1ed1654174d200f2d508e4a4669d8d35a07e52e87e9f5562e204ed8f462"
+      ]
+    },
+    "0xdb5f44cf4e2676da828a7068f29467d4887175ce": {
+      "rewardNetwork": 0,
+      "collateralRpl": "3382981466657314654",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "0",
+      "merkleProof": [
+        "0xe20d920bb3f11305d7049bacef3bfeeac9baa6c85c52cd2ed19b3aaaec609861",
+        "0xfc08f4f3d66c7411fe26d8ab5bfb11ab48e46d8e357b26a0e5779c0e52fadb7f",
+        "0x0480479a347c77f21a738ceefb31b621f124d30c7a89bbd169d2d222d3477781",
+        "0x985ac110d815ce75b3ec5d0b2ff48897d5d7e5e8960372a51ba64c86b56618f9",
+        "0x600c9e63285ca4ccc31b71657b0c0222aefd0a7411ee55facbaa1a48ee018ff9",
+        "0x1416882ddc4de7e911b49598602dc577af88dd8f1fd8a08f64b3619a700c1c95",
+        "0x887c22bd8750d34016ac3c66b5ff102dacdd73f6b014e710b51e8022af9a1968",
+        "0xbbf10945978758dabe08af9f827001c581c7bdce631de23ddf283af70a7e370b"
+      ]
+    },
+    "0xdb8ff1096948d855dba007865d9c6d6feb700393": {
+      "rewardNetwork": 0,
+      "collateralRpl": "2981453202972417096",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "0",
+      "merkleProof": [
+        "0x37e8b5797e0ef1b4bc4764f7af57f3f303991b416512a50af435cc68f88cbc35",
+        "0xce8048d07b24bead8b1eff523c19bac7a84b1a7607a8255ae5edef479012e612",
+        "0x609a2e77235439766685d60ecea0ce71aa082fd4e9f88b8d1921232f81436553",
+        "0xce7e683ee2f24373c9958bb84340e07b40426437956ff85d3632095b2aadf898",
+        "0x448dbf81ba87f4a54d198064f8c89f7f0ecc08c550c7d9d0dfa2198934867291",
+        "0xf25d14e224551306655fa44c1cb1dbea818bf7c7754fc772f2b5185dddfb8685",
+        "0x25dee15aa950d4bc956c30260bd6723ce2996507e4ec9c147ca69b3c3f562055",
+        "0x2e7ba1ed1654174d200f2d508e4a4669d8d35a07e52e87e9f5562e204ed8f462"
+      ]
+    },
+    "0xdbc624b9e6ee5073a1eceaa7a705e555bbd34602": {
+      "rewardNetwork": 0,
+      "collateralRpl": "2050279522855765085",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "0",
+      "merkleProof": [
+        "0x4aae1068d39b9f7f36a4898a06e30c88a0a84d85a833da74ebe0efc091ca9004",
+        "0x389da963785acbc24e05b47a5323be78da244a67d90beb9ed54e6ece873a07c7",
+        "0xfe0ffa0ead565b352912e4029038061308574802b173df26d56ab85136c5d0d0",
+        "0xc7c7424fba44ce8725e4c630c67a6b0f25d9e574c7be697a86c7f20045cf572c",
+        "0xd07bdc3759cc3ef78628ba3d208a0a21deee0f25f93b78d45699e8b3a9cebe66",
+        "0xf25d14e224551306655fa44c1cb1dbea818bf7c7754fc772f2b5185dddfb8685",
+        "0x25dee15aa950d4bc956c30260bd6723ce2996507e4ec9c147ca69b3c3f562055",
+        "0x2e7ba1ed1654174d200f2d508e4a4669d8d35a07e52e87e9f5562e204ed8f462"
+      ]
+    },
+    "0xdbf8ffee215bca19ef6d0854c332fafeec1562fb": {
+      "rewardNetwork": 0,
+      "collateralRpl": "25372360999929859910",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "1006021371586186",
+      "merkleProof": [
+        "0x736ff447a6c2834b62e2e5775e88a0ad249893ff23fd9fea13dff97f426e4238",
+        "0x201e271e959cf3f79fbfe64bde806bbeb05c43dc59e9cf1e731b0e09b39d82fd",
+        "0x4cc92e0cce9782028a884a5a4404ea65fa19dc98c825324feb6899582ae6af01",
+        "0x8fbe1c6dcf2147130398b6a7ff6124d23942721e802e9b2ee0799f17aefa482b",
+        "0x73aafd5f3cd113010a21744e726d4d818bfa11fbf14682e00cee12954a5d767f",
+        "0x3b94b2ea6c41f120c5393833b13fa3ea774a6801503c36c8e9338e5ebc60ad08",
+        "0x9dd3bc641717f32bb0dbc529f728579ea73848f2b77ebd9f878d77b7442fc276",
+        "0x2e7ba1ed1654174d200f2d508e4a4669d8d35a07e52e87e9f5562e204ed8f462"
+      ]
+    },
+    "0xde969e57aa67d0a4256ec4e8e731944980a12dab": {
+      "rewardNetwork": 0,
+      "collateralRpl": "11009513246737112461",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "0",
+      "merkleProof": [
+        "0x3376ea373ade7e8575bb61b176b07e31c08f8682db3710163504f10eba784e71",
+        "0x0d6393e9cfb772893e46535037fcbbc49f0898457dc00ee398eb49fad61b8776",
+        "0x8f89f6f69c49c0efc5d155b4112abd947879a35186d9977f4356a9ec1b4515dc",
+        "0xce7e683ee2f24373c9958bb84340e07b40426437956ff85d3632095b2aadf898",
+        "0x448dbf81ba87f4a54d198064f8c89f7f0ecc08c550c7d9d0dfa2198934867291",
+        "0xf25d14e224551306655fa44c1cb1dbea818bf7c7754fc772f2b5185dddfb8685",
+        "0x25dee15aa950d4bc956c30260bd6723ce2996507e4ec9c147ca69b3c3f562055",
+        "0x2e7ba1ed1654174d200f2d508e4a4669d8d35a07e52e87e9f5562e204ed8f462"
+      ]
+    },
+    "0xe12c096db3c5b99a0de3b27d093b335409445b96": {
+      "rewardNetwork": 0,
+      "collateralRpl": "1025139761427882542",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "0",
+      "merkleProof": [
+        "0x69c78d63cc53639b0470b24dde64cc0bafb7a869dd33b2383487e2277b0c269f",
+        "0x98c8cb9ff8463fad2baadaa433cabab2b545e7f181ea719d63b3a20cb4229ba0",
+        "0xa2e1a3ec807e69cb69f1ac4ec847648a6bfe7bcf34d228b01003629b4bcb69b8",
+        "0x2e0365e929851557b4a522fca5bf8c2eb5f40cf4666c540cd0b1b006b212887c",
+        "0x4f04114514d08c99c207e0c15e0ba29ac496946b6ae484aea008c86fe9cff4ad",
+        "0x3b94b2ea6c41f120c5393833b13fa3ea774a6801503c36c8e9338e5ebc60ad08",
+        "0x9dd3bc641717f32bb0dbc529f728579ea73848f2b77ebd9f878d77b7442fc276",
+        "0x2e7ba1ed1654174d200f2d508e4a4669d8d35a07e52e87e9f5562e204ed8f462"
+      ]
+    },
+    "0xe30bf43c1b41e44697a7f183f4e7e5fc9754f3a7": {
+      "rewardNetwork": 0,
+      "collateralRpl": "854573677377484208",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "0",
+      "merkleProof": [
+        "0x90f7290da4a1604d082214c6a4633b7a3748551308aee0ac07eeba1e936b067e",
+        "0x2658097e24177e00564b785f791e8f30dda8d7eb1ffeb075469f42e7ebad8481",
+        "0x84af23bedc3b6695db48168e726d34562b8eca593b1126c6899659abd2bfeb7e",
+        "0x9c39a78adb7399282e3e7f574670cb8d9a47fc81ff28cd86b988b0a90f3f8a60",
+        "0xd52cdc9e03999d8c6ce42bf05145e7127be774c0ad1bc9d28645b8218352da3c",
+        "0x289501ce40609cea14a3122692233813d5f7f884fba18f7f1a6edd2d0067bad7",
+        "0x9dd3bc641717f32bb0dbc529f728579ea73848f2b77ebd9f878d77b7442fc276",
+        "0x2e7ba1ed1654174d200f2d508e4a4669d8d35a07e52e87e9f5562e204ed8f462"
+      ]
+    },
+    "0xe64e8ed71738aec4bdb9d764f6fdf06118934b2b": {
+      "rewardNetwork": 0,
+      "collateralRpl": "4107295123431205433",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "0",
+      "merkleProof": [
+        "0xb916f09e74bbf3f5a950ebab6ab8b839eb3e5156b0c8532558369c8f45fcd4bb",
+        "0xb80c9e715fe5c84c4d018e552c04ba37e0f41db4c1af2174fea6e565e4118aa1",
+        "0x4969bced5a5599a685ae6a21de60ce1f24658cb327d7fb6b5f6b5b9df9ba9d7a",
+        "0x2da06216e1e6774d38182371520bd66577aff07801d03256336bb2903dad076a",
+        "0x9a06fb6cfae1f2fe451f3abf4f4ffea4374d6721b9b629e557fae39ba6de6f00",
+        "0x1416882ddc4de7e911b49598602dc577af88dd8f1fd8a08f64b3619a700c1c95",
+        "0x887c22bd8750d34016ac3c66b5ff102dacdd73f6b014e710b51e8022af9a1968",
+        "0xbbf10945978758dabe08af9f827001c581c7bdce631de23ddf283af70a7e370b"
+      ]
+    },
+    "0xe8a346cd465c65ead196b902230b6752d2dacf36": {
+      "rewardNetwork": 0,
+      "collateralRpl": "710426107998036077",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "0",
+      "merkleProof": [
+        "0x02a5f4358b9fa34ee0f057385309683850354d0d35d12920c6737cea5a803faf",
+        "0xf0bf166b0c9feb872bff42aeda3b1f9618571533f05c63c463c82c19b99ddcfe",
+        "0x60c1d6aa3a87708b995f91d941b487f15d291e0eafac031a2aa418a3ee90092a",
+        "0x314929c23353c6f7f66c84e6a91e8bd6ca5816fd002a361329fbb927b0dbd130",
+        "0x63069c0b5ef895906424354831f8aded9da062a7a297eddc7e946aba07bea2a6",
+        "0xc0719256ee0195bed64a7a06092dd1b8ae9e663555cc5c410ea2c0626edec74a",
+        "0x25dee15aa950d4bc956c30260bd6723ce2996507e4ec9c147ca69b3c3f562055",
+        "0x2e7ba1ed1654174d200f2d508e4a4669d8d35a07e52e87e9f5562e204ed8f462"
+      ]
+    },
+    "0xec7fc32f66a78f6e2a41dd2cd80d707a4e32e16e": {
+      "rewardNetwork": 0,
+      "collateralRpl": "1726176376208283854",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "0",
+      "merkleProof": [
+        "0xbff3a2cb52efa75948d1022dd679096ed11d0e26c31e5d49fe81dd9de1d4ab39",
+        "0xf01d8524e16c5860407476eb53041a775c0adcf77168db71748ff64defc2c092",
+        "0x4969bced5a5599a685ae6a21de60ce1f24658cb327d7fb6b5f6b5b9df9ba9d7a",
+        "0x2da06216e1e6774d38182371520bd66577aff07801d03256336bb2903dad076a",
+        "0x9a06fb6cfae1f2fe451f3abf4f4ffea4374d6721b9b629e557fae39ba6de6f00",
+        "0x1416882ddc4de7e911b49598602dc577af88dd8f1fd8a08f64b3619a700c1c95",
+        "0x887c22bd8750d34016ac3c66b5ff102dacdd73f6b014e710b51e8022af9a1968",
+        "0xbbf10945978758dabe08af9f827001c581c7bdce631de23ddf283af70a7e370b"
+      ]
+    },
+    "0xeec85cd328cc3661251f01ae938b22dfbad6b4e0": {
+      "rewardNetwork": 0,
+      "collateralRpl": "0",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "83377591380571",
+      "merkleProof": [
+        "0xb3962a2af4e85b071837e6d87667bc11d2b5a69d4a044bc0211643ca8457e0e9",
+        "0x95f092a79d5cb20b70f518b26df1f69023f8cf0d650b4969bec695d7ee6a192a",
+        "0xb261268f8ce135b48ddce7d2dc077e1ec2fd098fe58f36389d4ef13f4593d2e4",
+        "0xcab7788f22873f5833cef3a3c637e2607b5fbfdfa65ec8c409bbf62ed0df5637",
+        "0x501fcec32e3b276160788b1a7224604273bc8bc1163edb5af868bde2ae210836",
+        "0x289501ce40609cea14a3122692233813d5f7f884fba18f7f1a6edd2d0067bad7",
+        "0x9dd3bc641717f32bb0dbc529f728579ea73848f2b77ebd9f878d77b7442fc276",
+        "0x2e7ba1ed1654174d200f2d508e4a4669d8d35a07e52e87e9f5562e204ed8f462"
+      ]
+    },
+    "0xf091799a5e2fddc316d66e60dada2e3dd23d2d26": {
+      "rewardNetwork": 0,
+      "collateralRpl": "3557683733256506592",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "71585181881676",
+      "merkleProof": [
+        "0x935b53b5a55bad10f85b2afd1dfa3a358ea41e4007c2d097110c26ddcba337fd",
+        "0x9bae7e2427a30d7ba7c939de35e8c26dd82bd7c3241ed89d18692e72d12afb91",
+        "0x1a4671b7a779ddc398a270766ec6274e3e1a5a100ea64a972bf0091d7c335355",
+        "0x9c39a78adb7399282e3e7f574670cb8d9a47fc81ff28cd86b988b0a90f3f8a60",
+        "0xd52cdc9e03999d8c6ce42bf05145e7127be774c0ad1bc9d28645b8218352da3c",
+        "0x289501ce40609cea14a3122692233813d5f7f884fba18f7f1a6edd2d0067bad7",
+        "0x9dd3bc641717f32bb0dbc529f728579ea73848f2b77ebd9f878d77b7442fc276",
+        "0x2e7ba1ed1654174d200f2d508e4a4669d8d35a07e52e87e9f5562e204ed8f462"
+      ]
+    },
+    "0xf19bfac17476a2a65316fcd0736322069896effd": {
+      "rewardNetwork": 0,
+      "collateralRpl": "2135707836308088433",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "0",
+      "merkleProof": [
+        "0xd740bfd10422d8f638a9d709f56347db0343d7630438e2eeaf9ec34d117cbcd9",
+        "0xa86d25dfdeadd4ba36efee510d5e7eecd0e0e31c7349c84d424834abec7c07da",
+        "0xa769f5f2da9167f14d819b43e4f3668fa97f8a3c1a7f226a1e4384d7c5fd3a9e",
+        "0x985ac110d815ce75b3ec5d0b2ff48897d5d7e5e8960372a51ba64c86b56618f9",
+        "0x600c9e63285ca4ccc31b71657b0c0222aefd0a7411ee55facbaa1a48ee018ff9",
+        "0x1416882ddc4de7e911b49598602dc577af88dd8f1fd8a08f64b3619a700c1c95",
+        "0x887c22bd8750d34016ac3c66b5ff102dacdd73f6b014e710b51e8022af9a1968",
+        "0xbbf10945978758dabe08af9f827001c581c7bdce631de23ddf283af70a7e370b"
+      ]
+    },
+    "0xf2fefdf642e2b45327bec091a5aa9af41200f66c": {
+      "rewardNetwork": 0,
+      "collateralRpl": "0",
+      "oracleDaoRpl": "44600174007777809514",
+      "smoothingPoolEth": "0",
+      "merkleProof": [
+        "0x01f6446cd026cc8f2bf141a2ec7c5b4d3d7d02f29394669ef7e0b4adee76df79",
+        "0xf0bf166b0c9feb872bff42aeda3b1f9618571533f05c63c463c82c19b99ddcfe",
+        "0x60c1d6aa3a87708b995f91d941b487f15d291e0eafac031a2aa418a3ee90092a",
+        "0x314929c23353c6f7f66c84e6a91e8bd6ca5816fd002a361329fbb927b0dbd130",
+        "0x63069c0b5ef895906424354831f8aded9da062a7a297eddc7e946aba07bea2a6",
+        "0xc0719256ee0195bed64a7a06092dd1b8ae9e663555cc5c410ea2c0626edec74a",
+        "0x25dee15aa950d4bc956c30260bd6723ce2996507e4ec9c147ca69b3c3f562055",
+        "0x2e7ba1ed1654174d200f2d508e4a4669d8d35a07e52e87e9f5562e204ed8f462"
+      ]
+    },
+    "0xf74361608c0f0130041333da797e150e6db3aa6f": {
+      "rewardNetwork": 0,
+      "collateralRpl": "1726176376208283854",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "0",
+      "merkleProof": [
+        "0x61fe6f7ecac4238a47a730def919d43302e718cd7336a2c7b952f2f8b54cc408",
+        "0x72783fce7f487fbcf4e3f6cefb6e33b256d943dc1126403c2d1096f8b4867f1c",
+        "0x8b5ea48cf7e69da31b54d1f99c4c5cdb4941b3394c85bb5fb6cbe1fa0984330d",
+        "0xdf1ca47d541d44105b622f851799f316bd50547c4531e1ee0f355623dda2800b",
+        "0x4f04114514d08c99c207e0c15e0ba29ac496946b6ae484aea008c86fe9cff4ad",
+        "0x3b94b2ea6c41f120c5393833b13fa3ea774a6801503c36c8e9338e5ebc60ad08",
+        "0x9dd3bc641717f32bb0dbc529f728579ea73848f2b77ebd9f878d77b7442fc276",
+        "0x2e7ba1ed1654174d200f2d508e4a4669d8d35a07e52e87e9f5562e204ed8f462"
+      ]
+    },
+    "0xf755bf6172becf10c4febc80db20cc1172bdc4b9": {
+      "rewardNetwork": 0,
+      "collateralRpl": "3452352752416567708",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "0",
+      "merkleProof": [
+        "0x85fe3b9619cd42cca82a5b05f27810bae535e4d625164f79ebb446675c169892",
+        "0xec3110a1e53694c46730ef7729e3eb93cb5108974a9e19e5a373faf167cd07dd",
+        "0x4608521c9cdd1548d0fec89c614f63c7e8a698125ea8c57d8172d2c354613984",
+        "0xae4cfb1af4646f38b5bfecabfe2b3db43392bd3eba27614658172014617dc0eb",
+        "0xd52cdc9e03999d8c6ce42bf05145e7127be774c0ad1bc9d28645b8218352da3c",
+        "0x289501ce40609cea14a3122692233813d5f7f884fba18f7f1a6edd2d0067bad7",
+        "0x9dd3bc641717f32bb0dbc529f728579ea73848f2b77ebd9f878d77b7442fc276",
+        "0x2e7ba1ed1654174d200f2d508e4a4669d8d35a07e52e87e9f5562e204ed8f462"
+      ]
+    },
+    "0xf7b213629cee137c37559e540dbe95fc43034a3b": {
+      "rewardNetwork": 0,
+      "collateralRpl": "4736174053320240516",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "73270063213336",
+      "merkleProof": [
+        "0x226540f4fe6e25d39da566321311b2889744dfabf3547c74ac7c73ad1a6abe4c",
+        "0x06c6ccc8ee1be0fadd77a8034f7cca60f74c3aa7b9949421396e359d191edcf2",
+        "0x69011470b8b506d9efe78597a5509fd595d64288b4086118a0db46b8b637d5f6",
+        "0x8fa16fa47b725ccaa94c86b1252665d0411b80f3db7704b0c1e8ef296bda7639",
+        "0x19fd6b432049b25e08f235bcb5d149cbbd1820867ce21d9e7094398f47a9ec8b",
+        "0xc0719256ee0195bed64a7a06092dd1b8ae9e663555cc5c410ea2c0626edec74a",
+        "0x25dee15aa950d4bc956c30260bd6723ce2996507e4ec9c147ca69b3c3f562055",
+        "0x2e7ba1ed1654174d200f2d508e4a4669d8d35a07e52e87e9f5562e204ed8f462"
+      ]
+    },
+    "0xf92f25c1e05a0e139c16de09a2a00e2879ddcf1c": {
+      "rewardNetwork": 0,
+      "collateralRpl": "1726176376208283854",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "0",
+      "merkleProof": [
+        "0xbcc04872de7f9c1bf64e3a526dd0b89234b8636fb4dee77135e17ce9bb151995",
+        "0xf01d8524e16c5860407476eb53041a775c0adcf77168db71748ff64defc2c092",
+        "0x4969bced5a5599a685ae6a21de60ce1f24658cb327d7fb6b5f6b5b9df9ba9d7a",
+        "0x2da06216e1e6774d38182371520bd66577aff07801d03256336bb2903dad076a",
+        "0x9a06fb6cfae1f2fe451f3abf4f4ffea4374d6721b9b629e557fae39ba6de6f00",
+        "0x1416882ddc4de7e911b49598602dc577af88dd8f1fd8a08f64b3619a700c1c95",
+        "0x887c22bd8750d34016ac3c66b5ff102dacdd73f6b014e710b51e8022af9a1968",
+        "0xbbf10945978758dabe08af9f827001c581c7bdce631de23ddf283af70a7e370b"
+      ]
+    },
+    "0xf9553f3fe4fa71ebcbdaa71f615f62616cc6f563": {
+      "rewardNetwork": 0,
+      "collateralRpl": "684990105440851405",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "0",
+      "merkleProof": [
+        "0x0000000000000000000000000000000000000000000000000000000000000000",
+        "0xad3228b676f7d3cd4284a5443f17f1962b36e491b30a40b2405849e597ba5fb5",
+        "0xb4c11951957c6f8f642c4af61cd6b24640fec6dc7fc607ee8206a99e92410d30",
+        "0x3a10f56feef6a3410f2c271abf13056867e1f856dd500319359e2d5542b16122",
+        "0xe58769b32a1beaf1ea27375a44095a0d1fb664ce2dd358e7fcbfb78c26a19344",
+        "0x69cac70082e48c1abad5eaebfdca6f680ccbf3d974bf5bd8de0a317ee2b93c72",
+        "0x887c22bd8750d34016ac3c66b5ff102dacdd73f6b014e710b51e8022af9a1968",
+        "0xbbf10945978758dabe08af9f827001c581c7bdce631de23ddf283af70a7e370b"
+      ]
+    },
+    "0xfb52eb62b5e8a04071db67c48f15e7e4e16b96da": {
+      "rewardNetwork": 0,
+      "collateralRpl": "845745366664328663",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "0",
+      "merkleProof": [
+        "0xfc84a64fce0be759b6e1cb5911c00ab8796ade2a9ac98cca9a2eddeb22bd2bc4",
+        "0xfb27374f884a387606e303fe9f7a2828f76d545d8f186c648e46747151eb8b0e",
+        "0xc854d1967b72564ae05a57498ece4b50da9f0d364e8212072ed86d2fefe2817d",
+        "0x6b6904df15cf45936b928ed3d7e096465f6b80d461846e21de637b9f200a5493",
+        "0xe58769b32a1beaf1ea27375a44095a0d1fb664ce2dd358e7fcbfb78c26a19344",
+        "0x69cac70082e48c1abad5eaebfdca6f680ccbf3d974bf5bd8de0a317ee2b93c72",
+        "0x887c22bd8750d34016ac3c66b5ff102dacdd73f6b014e710b51e8022af9a1968",
+        "0xbbf10945978758dabe08af9f827001c581c7bdce631de23ddf283af70a7e370b"
+      ]
+    },
+    "0xfb7912a67a74a662999fcf4f96ce5b117e50c7cb": {
+      "rewardNetwork": 0,
+      "collateralRpl": "1184043513330060129",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "0",
+      "merkleProof": [
+        "0xf3b1c5d7715ac12b2e876a366c33d384aaae47b9ba81808894b490e653dc804d",
+        "0x8858c50e30d79c3aad3697e612c8ae1b9d47e309610af156aab5a36df550da60",
+        "0x726dd2b9d2a2616df0f94b150d9ceca51095b929953bca872f4ce3d4f7703a59",
+        "0x6b6904df15cf45936b928ed3d7e096465f6b80d461846e21de637b9f200a5493",
+        "0xe58769b32a1beaf1ea27375a44095a0d1fb664ce2dd358e7fcbfb78c26a19344",
+        "0x69cac70082e48c1abad5eaebfdca6f680ccbf3d974bf5bd8de0a317ee2b93c72",
+        "0x887c22bd8750d34016ac3c66b5ff102dacdd73f6b014e710b51e8022af9a1968",
+        "0xbbf10945978758dabe08af9f827001c581c7bdce631de23ddf283af70a7e370b"
+      ]
+    },
+    "0xfcc7f4852ca61b153f45c0c4bb991e6ca4778b5c": {
+      "rewardNetwork": 0,
+      "collateralRpl": "2141448206602172830",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "0",
+      "merkleProof": [
+        "0x555d9cb04f1fb140bb9c37fac45a52f46a5ff79fadf991bbc31eae838e5600c4",
+        "0xdf397f699f79bc51235c7ec90ed2946251bf537b69c7693f0840784b4cbb19d6",
+        "0xeb98c743775f55759f152dce089863664e7bec4a25d61bb6bd273e5d57902e55",
+        "0xc1c0d71d60a5981979b1a2d70cd4571a9ec81a65057286784bb412a7efdea68c",
+        "0xd07bdc3759cc3ef78628ba3d208a0a21deee0f25f93b78d45699e8b3a9cebe66",
+        "0xf25d14e224551306655fa44c1cb1dbea818bf7c7754fc772f2b5185dddfb8685",
+        "0x25dee15aa950d4bc956c30260bd6723ce2996507e4ec9c147ca69b3c3f562055",
+        "0x2e7ba1ed1654174d200f2d508e4a4669d8d35a07e52e87e9f5562e204ed8f462"
+      ]
+    },
+    "0xfe139f25c435a6ae51efe0f792432e12770d608f": {
+      "rewardNetwork": 0,
+      "collateralRpl": "338298146665731465",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "0",
+      "merkleProof": [
+        "0x5f5fcaa4dc69628bf54a0cd769ffa2267aa828fdd61ef5f60b420c7ebe6959d4",
+        "0xdaae37ac674fe272fbf90247f576565b27da04de2a5b07eefa81452641ffc19c",
+        "0xef60f3eb154dfa1b217fb946929ddb43423c0a9ddf3a69a9c3945d8c7330d5f4",
+        "0xdf1ca47d541d44105b622f851799f316bd50547c4531e1ee0f355623dda2800b",
+        "0x4f04114514d08c99c207e0c15e0ba29ac496946b6ae484aea008c86fe9cff4ad",
+        "0x3b94b2ea6c41f120c5393833b13fa3ea774a6801503c36c8e9338e5ebc60ad08",
+        "0x9dd3bc641717f32bb0dbc529f728579ea73848f2b77ebd9f878d77b7442fc276",
+        "0x2e7ba1ed1654174d200f2d508e4a4669d8d35a07e52e87e9f5562e204ed8f462"
+      ]
+    },
+    "0xfe162c6d5c9d5a387f87b27ee3c5334acab0afb2": {
+      "rewardNetwork": 0,
+      "collateralRpl": "3759935532014112064",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "0",
+      "merkleProof": [
+        "0xde06723610e8c68a937045583bdcbba5e0a5856f2ba9f1a6c5bb7dff6ee3e4ff",
+        "0x8b3e8baffab48386fbde7a3ace020759a96076fa335f221e7905b9ad9c049dfc",
+        "0x0480479a347c77f21a738ceefb31b621f124d30c7a89bbd169d2d222d3477781",
+        "0x985ac110d815ce75b3ec5d0b2ff48897d5d7e5e8960372a51ba64c86b56618f9",
+        "0x600c9e63285ca4ccc31b71657b0c0222aefd0a7411ee55facbaa1a48ee018ff9",
+        "0x1416882ddc4de7e911b49598602dc577af88dd8f1fd8a08f64b3619a700c1c95",
+        "0x887c22bd8750d34016ac3c66b5ff102dacdd73f6b014e710b51e8022af9a1968",
+        "0xbbf10945978758dabe08af9f827001c581c7bdce631de23ddf283af70a7e370b"
+      ]
+    },
+    "0xff6168fbd41fef0ed2e2bf3d494c15de29cc753c": {
+      "rewardNetwork": 0,
+      "collateralRpl": "1966395675661129040",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "0",
+      "merkleProof": [
+        "0x96de9e47835579195dca1a4d9a0766ca6adbfa09c8869f64edb3b4777dbf1388",
+        "0x3ad84e48b9689d73cf3ace2f9bd4aba65549b6d79c11e87855b1dc941235475c",
+        "0x09b10fff83920b773645f43318692e36b542c2bed101609e9ca78c0257ad87f1",
+        "0xe89848099b289343b1699b912a601488b8987f2d3d267e6428fa51d574b4f592",
+        "0x501fcec32e3b276160788b1a7224604273bc8bc1163edb5af868bde2ae210836",
+        "0x289501ce40609cea14a3122692233813d5f7f884fba18f7f1a6edd2d0067bad7",
+        "0x9dd3bc641717f32bb0dbc529f728579ea73848f2b77ebd9f878d77b7442fc276",
+        "0x2e7ba1ed1654174d200f2d508e4a4669d8d35a07e52e87e9f5562e204ed8f462"
+      ]
+    }
+  }
+}
