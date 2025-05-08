@@ -1,0 +1,4299 @@
+{
+  "rewardsFileVersion": 3,
+  "rulesetVersion": 10,
+  "index": 13,
+  "network": "testnet",
+  "startTime": "2025-05-06T00:00:24Z",
+  "endTime": "2025-05-08T00:00:12Z",
+  "consensusStartBlock": 356352,
+  "consensusEndBlock": 370751,
+  "executionStartBlock": 332431,
+  "executionEndBlock": 346295,
+  "minipoolPerformance": {
+    "0x003e84757dba10f9cd68dfc29589113ec718ad68": {
+      "pubkey": "a6beff3149e46a98fd90ccdfd7b312cdd7f876882075dfd2c4bb496e4cdb9a626cab2802c3632b9c65b895b4576720f7",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "147624018706029194550",
+      "missingAttestationSlots": [],
+      "ethEarned": "3922096701195",
+      "consensusIncome": "4429747000000000",
+      "bonusEthEarned": "7429001694238",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x003f3a78ae14e79af874be11fe19d5c9f5ab9895": {
+      "pubkey": "a3091f1292260b0042223e0a9bc77570752ef81bb73efd3b53d28189420188c6ef01f56947f4ae638a035934d725344e",
+      "successfulAttestations": 449,
+      "missedAttestations": 1,
+      "attestationScore": "147295965331126907451",
+      "missingAttestationSlots": [
+        358693
+      ],
+      "ethEarned": "3913380930748",
+      "consensusIncome": "4439650000000000",
+      "bonusEthEarned": "7445609731622",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x004980d9cc1e6a7f4f9f583ffcdc790754a7836c": {
+      "pubkey": "b6cd10f691f925efd91c363e4eba6e7bd21b274e33ff7be0c0c343137e6a0a43026e96667c05fdcf182c1561fed52fc8",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "147624018706029194550",
+      "missingAttestationSlots": [],
+      "ethEarned": "3922096701195",
+      "consensusIncome": "4475472000000000",
+      "bonusEthEarned": "7505685780816",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x01a96f50bccd1057a1c4531d460e7db885e51f47": {
+      "pubkey": "98da03d09764cf143d73e610622f56e03623c8f479b3d7812ab3872c83b2713344db31a4570310eadbddf810585ea2ce",
+      "successfulAttestations": 448,
+      "missedAttestations": 2,
+      "attestationScore": "146967911956224620352",
+      "missingAttestationSlots": [
+        358693,
+        359185
+      ],
+      "ethEarned": "3904665160301",
+      "consensusIncome": "4434929000000000",
+      "bonusEthEarned": "7437692277871",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x02163b2802a2507cd123d7abdd8d5a5dbae7a5d7": {
+      "pubkey": "87db8ae3dff7c96b6e87f506a19b80b78481af65089f1b4fcdc046317360ee5fe6c07c42739b86265373948a0d70cf0d",
+      "successfulAttestations": 449,
+      "missedAttestations": 1,
+      "attestationScore": "147295965331126907451",
+      "missingAttestationSlots": [
+        358699
+      ],
+      "ethEarned": "3913380930748",
+      "consensusIncome": "4439305000000000",
+      "bonusEthEarned": "7445031142013",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x02408d94d54d35b897b4594902c133b976606c08": {
+      "pubkey": "8070b116494ff47ea2dd06938f598d05c417e4babe815dba46e7a1b3bcc4205a7baa4dc4eac784219b968c947249d903",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "151382154403767240900",
+      "missingAttestationSlots": [],
+      "ethEarned": "4021943404678",
+      "consensusIncome": "4492945000000000",
+      "bonusEthEarned": "9086717181151",
+      "effectiveCommission": "115206383418569603"
+    },
+    "0x028f68eb054243f4239e46f22ae1ef7c116fd502": {
+      "pubkey": "a76eab6dbd1706711636305bb8c6d6e814ac2a5c45721fdea293b611dbf351211ef9c11e12e03903bf108fc7f9fe38cb",
+      "successfulAttestations": 449,
+      "missedAttestations": 1,
+      "attestationScore": "147295965331126907451",
+      "missingAttestationSlots": [
+        358698
+      ],
+      "ethEarned": "3913380930748",
+      "consensusIncome": "4425206000000000",
+      "bonusEthEarned": "7421386113327",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x0377fc4775fb13ad6075ce791012686e99dec6fa": {
+      "pubkey": "8159b179b27d431bb6ef46d6e7a5b2388e2bda8a3cd9e85d04bb38ab3fc316419a6c516abb8659c6f387cfee33032e11",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "147624018706029194550",
+      "missingAttestationSlots": [],
+      "ethEarned": "3922096701195",
+      "consensusIncome": "4503056000000000",
+      "bonusEthEarned": "7551946116392",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x047f5cfb83e96634234e7f0d39fb92dfea408494": {
+      "pubkey": "970c77981f89afaaf4aeae532721deb49322910499b7f250586bd8d445dd3e7e065419ff18e27b34061e19cf50050ec5",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "147624018706029194550",
+      "missingAttestationSlots": [],
+      "ethEarned": "3922096701195",
+      "consensusIncome": "4473245000000000",
+      "bonusEthEarned": "7501950942964",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x04949567a8a5cc7882e197de4d851b247c35ca00": {
+      "pubkey": "aa313d8159c6a0845d5057054d688fb4537369240f2c29718ea44dbbbe715c4271a1fadcff9acd2db6dcd15cd4f6d71d",
+      "successfulAttestations": 449,
+      "missedAttestations": 1,
+      "attestationScore": "147295965331126907451",
+      "missingAttestationSlots": [
+        359188
+      ],
+      "ethEarned": "3913380930748",
+      "consensusIncome": "4455422000000000",
+      "bonusEthEarned": "7472060500644",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x058f6655cb41aa18d19d46072a2a9bd6026768ca": {
+      "pubkey": "ae91d81cc074e02a28f62d722cfca537d31c0f8e5d8ef8f09e55f7a45607c8946936f96a8f06dbd5f420d982ae3d99d7",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "147624018706029194550",
+      "missingAttestationSlots": [],
+      "ethEarned": "3922096701195",
+      "consensusIncome": "4454423000000000",
+      "bonusEthEarned": "7470385106385",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x05c47a118d7900aa26f9f93505fe9b9352499003": {
+      "pubkey": "ad0b44ff7fc495306bb9ac57ca305cb9bf1172759f17fc86e56b59d5d89d8434edd4dcd4092100421b9de123e8270274",
+      "successfulAttestations": 449,
+      "missedAttestations": 1,
+      "attestationScore": "147295965331126907451",
+      "missingAttestationSlots": [
+        359191
+      ],
+      "ethEarned": "3913380930748",
+      "consensusIncome": "4455508000000000",
+      "bonusEthEarned": "7472204728778",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x082d0fee67ce1984ef0936b3070b37f98e37310e": {
+      "pubkey": "8803ee015c67078af2725e4f964050e2ce514b4471aa4c4a69a6e62541fbc718bd1845e09c58cfc5e9c8c55dc4796cc1",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "146250000000000000000",
+      "missingAttestationSlots": [],
+      "ethEarned": "3885591569567",
+      "consensusIncome": "2097207000000000",
+      "bonusEthEarned": "3252348671878",
+      "effectiveCommission": "100000000000000000"
+    },
+    "0x08bb6a2c9e61b96355e7b5d1527570f17f9bbdf4": {
+      "pubkey": "86c233321d257a25e047f7a9742d472c4ae2cc5b616cfaf4046c6a8a207d811056bc9f621b40421118c84ff56e361c7c",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "147624018706029194550",
+      "missingAttestationSlots": [],
+      "ethEarned": "3922096701195",
+      "consensusIncome": "4465993000000000",
+      "bonusEthEarned": "7489788821676",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x098774dd7adf3bf2ce58e4dc4eae988f975ccb6f": {
+      "pubkey": "864b1d399514e71f4f3c2eacad12f2009ae901b2ac417ce110d8047f874d3aafc937dea7756f7acc84d13947379dbbe3",
+      "successfulAttestations": 449,
+      "missedAttestations": 1,
+      "attestationScore": "147295965331126907451",
+      "missingAttestationSlots": [
+        359184
+      ],
+      "ethEarned": "3913380930748",
+      "consensusIncome": "4427489000000000",
+      "bonusEthEarned": "7425214867174",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x0a5ce11f99af426dab164857c984e49aae2858e1": {
+      "pubkey": "8f0a1529f9d4a8cbad4d8021bf99e660e0931b32257e62511b81c8c64465e5f34449ef8f313a646c3a99df614e666e88",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "146250000000000000000",
+      "missingAttestationSlots": [],
+      "ethEarned": "3885591569567",
+      "consensusIncome": "4443245000000000",
+      "bonusEthEarned": "6890584465235",
+      "effectiveCommission": "100000000000000000"
+    },
+    "0x0ad1b257abf2aa1f181d6280cd8a08178c655450": {
+      "pubkey": "995680524ddfee36b802ba171db286fd0ba33e27e2aecfe817450ed3fc78be78e1d4095f17e562e4468fadb9e68b4faa",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "147624018706029194550",
+      "missingAttestationSlots": [],
+      "ethEarned": "3922096701195",
+      "consensusIncome": "4447284000000000",
+      "bonusEthEarned": "7458412494157",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x0adb0298c1cc8ea612110ab9b944f77ad496c59e": {
+      "pubkey": "ad14a0d5d54372e488d2843bf431c1d1be0842423fd4bef03affc3be0210b7ac10ea4f82b438cba95d40779b6fe33389",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "157914128512470245850",
+      "missingAttestationSlots": [],
+      "ethEarned": "4195485856161",
+      "consensusIncome": "4473828000000000",
+      "bonusEthEarned": "11733619716257",
+      "effectiveCommission": "134560380777689618"
+    },
+    "0x0cbca287b249127ccda09d751dbb1d7325f7e069": {
+      "pubkey": "94b68279ffea4374136a7bb3816183eb380e741a0e5a18289bd4a1d06fdca7ab1dcf0f417117949a4311f91f1e58d75a",
+      "successfulAttestations": 449,
+      "missedAttestations": 1,
+      "attestationScore": "147295965331126907451",
+      "missingAttestationSlots": [
+        359188
+      ],
+      "ethEarned": "3913380930748",
+      "consensusIncome": "4440875000000000",
+      "bonusEthEarned": "7447664144002",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x0e13c993f4571b772169fa67cc1d4fe3e5820531": {
+      "pubkey": "88d7e49ea6e5ac41091dddcd4a57eb7621d7bc4ae21c2a39039688dd4cc04efc4053edec311f7d8d1bd5f7fbb455a35b",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "147624018706029194550",
+      "missingAttestationSlots": [],
+      "ethEarned": "3922096701195",
+      "consensusIncome": "4464281000000000",
+      "bonusEthEarned": "7486917675559",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x0f83f7e4458dd792d5c7e7b3b9e34e63f9ce102f": {
+      "pubkey": "b4ed998cbf877510463fbce1f12149ca3104f4d05f1aec5879597432ca6c96f07eeb11d316e848cfdf429f62bdff3244",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "147624018706029194550",
+      "missingAttestationSlots": [],
+      "ethEarned": "3922096701195",
+      "consensusIncome": "4474994000000000",
+      "bonusEthEarned": "7504884140720",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x1063423147a7ed3290a9f86fd9dfe06edf52be74": {
+      "pubkey": "af4e21a6922ca0701055477e73326edf0aef4a9bf7fbd2efd1174274136ec61ef7dd9c97ee21077a3b92ffa874537eeb",
+      "successfulAttestations": 448,
+      "missedAttestations": 2,
+      "attestationScore": "146967911956224620352",
+      "missingAttestationSlots": [
+        358699,
+        359185
+      ],
+      "ethEarned": "3904665160301",
+      "consensusIncome": "4438313000000000",
+      "bonusEthEarned": "7443367487253",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x10b2e935114494fa3fe93f104da65547ef422d24": {
+      "pubkey": "a5990fb993e7512d42a8bd34f483b52ccc111a3527e93d5c71b5f249ae508291be5c4b599bd2ee326faed6f870ee936d",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "147624018706029194550",
+      "missingAttestationSlots": [],
+      "ethEarned": "3922096701195",
+      "consensusIncome": "4469901000000000",
+      "bonusEthEarned": "7496342816435",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x10f39104472b23086ab77fe3e9bb0d00f8be2e16": {
+      "pubkey": "a8142f6afd5228b20443a0dc6f2f4083018defa006cee52de1ba2e97c9c09413c16766598d318143f03315f43c625130",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "146250000000000000000",
+      "missingAttestationSlots": [],
+      "ethEarned": "3885591569567",
+      "consensusIncome": "4461889000000000",
+      "bonusEthEarned": "6919497580935",
+      "effectiveCommission": "100000000000000000"
+    },
+    "0x111247a014dad3b4251e9f7f7d9fa693dff506c6": {
+      "pubkey": "86c86f7b49a06a5e2e85501650947226ab85dc1717e8fb5a33bfed2f767b242a4c47d64d0f89b3704b0a6b55782cbb70",
+      "successfulAttestations": 449,
+      "missedAttestations": 1,
+      "attestationScore": "147295965331126907451",
+      "missingAttestationSlots": [
+        358691
+      ],
+      "ethEarned": "3913380930748",
+      "consensusIncome": "4436496000000000",
+      "bonusEthEarned": "7440320248646",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x1117dd62419b13cd3caab87a7c47c23f43d49272": {
+      "pubkey": "ae916666d64405ccfa0327538002660920824449b512c02425cfa048e5f4bbe51903878a7229f11cbf5fbea1ddeba674",
+      "successfulAttestations": 449,
+      "missedAttestations": 1,
+      "attestationScore": "147295965331126907451",
+      "missingAttestationSlots": [
+        359192
+      ],
+      "ethEarned": "3913380930748",
+      "consensusIncome": "2360534000000000",
+      "bonusEthEarned": "3958783895628",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x11bdb54e863c5ab10cc5be9e72230e671d75a7eb": {
+      "pubkey": "adbaf6141fdfc66fffbf7b30cf2fe10f668931bdc6c2ace008015fd04435e8dfb5ec38f1ca257137948c62394ee4877e",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "147624018706029194550",
+      "missingAttestationSlots": [],
+      "ethEarned": "3922096701195",
+      "consensusIncome": "4463902000000000",
+      "bonusEthEarned": "7486282065525",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x132557ebfcf54e2baa8b8eb1fdbb13b10affe6a9": {
+      "pubkey": "ac3e42f45370630a1c8e517e026848b0775f35133801ff895ae02c96497cbe98fc77176d292fc9ce46410cd431217c4c",
+      "successfulAttestations": 445,
+      "missedAttestations": 5,
+      "attestationScore": "148712757341538920025",
+      "missingAttestationSlots": [
+        358400,
+        359136,
+        359971,
+        360192,
+        363008
+      ],
+      "ethEarned": "3951022469835",
+      "consensusIncome": "2267069000000000",
+      "bonusEthEarned": "4376991181468",
+      "effectiveCommission": "112247962072026727"
+    },
+    "0x1568b51ee7c126765ab8c3ee0454bfbea35c14f9": {
+      "pubkey": "872d1b83b586cc5030ef70f3b7d0229ce89fda819d41f5d9fa184534ce7feb85c4d370c4597ddef711e5e86a4dd87a1f",
+      "successfulAttestations": 449,
+      "missedAttestations": 1,
+      "attestationScore": "147295965331126907451",
+      "missingAttestationSlots": [
+        359191
+      ],
+      "ethEarned": "3913380930748",
+      "consensusIncome": "4442494000000000",
+      "bonusEthEarned": "7450379322485",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x16ee25824f9987c4c2df7cd8b6d7412565ad0e6a": {
+      "pubkey": "a253753522b40f4ad806fcd096fef47d9cc755218f15fc6d90861256187a7019c7b7b57c404e18aa71da097a0689752d",
+      "successfulAttestations": 449,
+      "missedAttestations": 1,
+      "attestationScore": "145925000000000000000",
+      "missingAttestationSlots": [
+        360914
+      ],
+      "ethEarned": "3876956921635",
+      "consensusIncome": "2369852000000000",
+      "bonusEthEarned": "3675166545195",
+      "effectiveCommission": "100000000000000000"
+    },
+    "0x186b72044bc667d2f21daca7ec0aaec1f59d5de3": {
+      "pubkey": "b2a221d8f88ec838839f696a518dac45b23af9e5c8e8ff1860d237c209a4d01e9a3650cef5b8b4597d60a32cad219cf5",
+      "successfulAttestations": 222,
+      "missedAttestations": 228,
+      "attestationScore": "72150000000000000000",
+      "missingAttestationSlots": [
+        356360,
+        356397,
+        356435,
+        356474,
+        356488,
+        356533,
+        356560,
+        356605,
+        356619,
+        356644,
+        356701,
+        356710,
+        356743,
+        356770,
+        356803,
+        356848,
+        356876,
+        356920,
+        356946,
+        356965,
+        356997,
+        357035,
+        357079,
+        357090,
+        357148,
+        357172,
+        357199,
+        357217,
+        357257,
+        357307,
+        357324,
+        357362,
+        357403,
+        357427,
+        357441,
+        357490,
+        357521,
+        357567,
+        357580,
+        357616,
+        357661,
+        357676,
+        357708,
+        357758,
+        357786,
+        357807,
+        357848,
+        357883,
+        357892,
+        357945,
+        357961,
+        358008,
+        358040,
+        358050,
+        358082,
+        358139,
+        358154,
+        358195,
+        358213,
+        358271,
+        358294,
+        358307,
+        358344,
+        358376,
+        358408,
+        358438,
+        358469,
+        358500,
+        358536,
+        358589,
+        358613,
+        358628,
+        358657,
+        358701,
+        358734,
+        358775,
+        358796,
+        358828,
+        358855,
+        358894,
+        358939,
+        358956,
+        358994,
+        359023,
+        359059,
+        359077,
+        359122,
+        359136,
+        359186,
+        359212,
+        359242,
+        359268,
+        359301,
+        359335,
+        359376,
+        359413,
+        359453,
+        359475,
+        359507,
+        359545,
+        359564,
+        359598,
+        359647,
+        359670,
+        359701,
+        359731,
+        359752,
+        359796,
+        359809,
+        359866,
+        359899,
+        359923,
+        359946,
+        359986,
+        360021,
+        360062,
+        360070,
+        360124,
+        360147,
+        360190,
+        360210,
+        360255,
+        360269,
+        360299,
+        360320,
+        360362,
+        360415,
+        360419,
+        360475,
+        360492,
+        360533,
+        360546,
+        360598,
+        360625,
+        360657,
+        360683,
+        360727,
+        360749,
+        360778,
+        360802,
+        360841,
+        360876,
+        360912,
+        360945,
+        360973,
+        361021,
+        361039,
+        361074,
+        361108,
+        361133,
+        361160,
+        361214,
+        361232,
+        361248,
+        361281,
+        361315,
+        361353,
+        361387,
+        361408,
+        361445,
+        361501,
+        361531,
+        361547,
+        361570,
+        361605,
+        361651,
+        361671,
+        361696,
+        361747,
+        361789,
+        361821,
+        361849,
+        361861,
+        361893,
+        361949,
+        361977,
+        361984,
+        362026,
+        362062,
+        362102,
+        362138,
+        362164,
+        362178,
+        362228,
+        362251,
+        362303,
+        362311,
+        362351,
+        362396,
+        362428,
+        362434,
+        362492,
+        362519,
+        362530,
+        362582,
+        362620,
+        362629,
+        362682,
+        362689,
+        362729,
+        362766,
+        362788,
+        362831,
+        362865,
+        362894,
+        362941,
+        362954,
+        362990,
+        363010,
+        363062,
+        363101,
+        363107,
+        363157,
+        363177,
+        363212,
+        363254,
+        363294,
+        363305,
+        363334,
+        363372,
+        363398,
+        363455,
+        363474,
+        363502,
+        363548,
+        363573,
+        363603,
+        363634
+      ],
+      "ethEarned": "1916891840986",
+      "consensusIncome": "0",
+      "bonusEthEarned": "0",
+      "effectiveCommission": "100000000000000000"
+    },
+    "0x18dd005fe8f2f5bca171b8df544831902a96de74": {
+      "pubkey": "a8e488ce5f4c8b706f93a56777edd605d457434f9806ffff4738f83a263e2c3d0826736fb3401d1b0329cd8476dfc2c4",
+      "successfulAttestations": 449,
+      "missedAttestations": 1,
+      "attestationScore": "147295965331126907451",
+      "missingAttestationSlots": [
+        358695
+      ],
+      "ethEarned": "3913380930748",
+      "consensusIncome": "4480475000000000",
+      "bonusEthEarned": "7514076168682",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x191d60ad012a25db183ccba4c60e9484c4c948c8": {
+      "pubkey": "928416344633a7c35136976132948d71ece4ed0ea940d172039b4cf9f3a5a5a0ba9e94bb75572a2e211f20cb351cefbd",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "147624018706029194550",
+      "missingAttestationSlots": [],
+      "ethEarned": "3922096701195",
+      "consensusIncome": "4470787000000000",
+      "bonusEthEarned": "7497828701634",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x1a3cc7505e2a09c73eda4a63dfb81b037807c03e": {
+      "pubkey": "b9818c1edf7e8a607a6f238fc2987f379ed698bfb074f20066a4ef4f43c9bba86f3d5550a34c6362df78dfd8e1c3d532",
+      "successfulAttestations": 449,
+      "missedAttestations": 1,
+      "attestationScore": "147295965331126907451",
+      "missingAttestationSlots": [
+        359191
+      ],
+      "ethEarned": "3913380930748",
+      "consensusIncome": "4468842000000000",
+      "bonusEthEarned": "7494566797896",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x1a8f499e85ae95126a312b8ef26cda00973ed389": {
+      "pubkey": "b72038c1d6edd4b75ebed6ee0654da66af88f602b5673532c333628ee086640fdee730b964018895eb05febbbb7b27dc",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "147624018706029194550",
+      "missingAttestationSlots": [],
+      "ethEarned": "3922096701195",
+      "consensusIncome": "2385025000000000",
+      "bonusEthEarned": "3999857049578",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x1ad309fef335851d499282bd7cfe8f36d0b860dc": {
+      "pubkey": "a171234b20b031ee9f28d2e01e2051de39de66f70fd6952dc7e45c66f55347568ab6e8b3909a5c8071d59e0125551350",
+      "successfulAttestations": 449,
+      "missedAttestations": 1,
+      "attestationScore": "147295965331126907451",
+      "missingAttestationSlots": [
+        359189
+      ],
+      "ethEarned": "3913380930748",
+      "consensusIncome": "4442769000000000",
+      "bonusEthEarned": "7450840517101",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x1b327dd2860dec7c7b53e90967dd08ac47bcad6d": {
+      "pubkey": "a51ef3ac3e96fe9ed06ba64e0ccf298fc65c4939120c9742a10328e019ba3d56b32dd68090a3af210c66caff4566b824",
+      "successfulAttestations": 449,
+      "missedAttestations": 1,
+      "attestationScore": "147295965331126907451",
+      "missingAttestationSlots": [
+        359187
+      ],
+      "ethEarned": "3913380930748",
+      "consensusIncome": "4433112000000000",
+      "bonusEthEarned": "7434645039264",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x1dfa2458d3f72d63fe134244d46a7e04f3996d3f": {
+      "pubkey": "ad2a06486b7025cca6d869298debd5c2a057326b82230f5b76c44b37d43e38fe51c6fc09767f53bde7f2df099db75bed",
+      "successfulAttestations": 448,
+      "missedAttestations": 2,
+      "attestationScore": "146967911956224620352",
+      "missingAttestationSlots": [
+        358691,
+        359191
+      ],
+      "ethEarned": "3904665160301",
+      "consensusIncome": "4447521000000000",
+      "bonusEthEarned": "7458809960063",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x1e23ed04266f8857f8e7429c2891c9e859518b5a": {
+      "pubkey": "988ccf8fbdea1668b9910c6bb2df860ffb52fadd7db6719a1579f3576291bf804f97465b3e2d78eb592c9b6ed7ef7f47",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "147624018706029194550",
+      "missingAttestationSlots": [],
+      "ethEarned": "3922096701195",
+      "consensusIncome": "4491776000000000",
+      "bonusEthEarned": "7533028751786",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x1e732bce0747c704ba9c50f1b351c32e54162ccf": {
+      "pubkey": "84f53944c46dc73003a272417905e5ae95be4384032033fb598df6da39328b50578282c7844ad19d09594e04a8b03770",
+      "successfulAttestations": 449,
+      "missedAttestations": 1,
+      "attestationScore": "147295965331126907451",
+      "missingAttestationSlots": [
+        359184
+      ],
+      "ethEarned": "3913380930748",
+      "consensusIncome": "4454197000000000",
+      "bonusEthEarned": "7470006088264",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x1ed17ff17b487d8e5f9ed6d1929a098415989f94": {
+      "pubkey": "b5fe640509beffaf1e20115e33e19386fa0191cd43e2189a9ad39b13a30ef6b1e104c0e50154eafb41e9531f88d43636",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "147624018706029194550",
+      "missingAttestationSlots": [],
+      "ethEarned": "3922096701195",
+      "consensusIncome": "4458766000000000",
+      "bonusEthEarned": "7477668627172",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x1fc2b81dbe22809024bdd7e5fb3a48cf487b6adb": {
+      "pubkey": "b3f3a75fba00b24c5b285e9cd1d0c5f9fd516e96abfbfca686ca867ccf8f5c4309bfefb51c2f29d459b90387a125b4b7",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "147624018706029194550",
+      "missingAttestationSlots": [],
+      "ethEarned": "3922096701195",
+      "consensusIncome": "4485452000000000",
+      "bonusEthEarned": "7522422952693",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x2084516064f5142cc8b24c053002ad20ec1cdb1d": {
+      "pubkey": "95b306716c4f143549d07a610b939d094fee7e769cf315cc8bc9714ff011de84ccd0d4ba412b2a13928250316be5bb75",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "147624018706029194550",
+      "missingAttestationSlots": [],
+      "ethEarned": "3922096701195",
+      "consensusIncome": "4450920000000000",
+      "bonusEthEarned": "7464510325514",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x20c36e9531c83c7e100a5a19c15fccbf42a6e663": {
+      "pubkey": "8925d03ad807e63ad3d4ce960b7a5443add0df98fd19ea54cebaa856f21215fe9897761f8052e4da9de078ccccabd570",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "147624018706029194550",
+      "missingAttestationSlots": [],
+      "ethEarned": "3922096701195",
+      "consensusIncome": "4495927000000000",
+      "bonusEthEarned": "7539990274878",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x2162b3b82ea7c2d842b3642ed6d9866ef9b37673": {
+      "pubkey": "90aed4532d943b191caa9c9e250479249809ff4d7d0595163e8c41a80e99a6927a30edf2d856420d8df5e45732d1a212",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "147624018706029194550",
+      "missingAttestationSlots": [],
+      "ethEarned": "3922096701195",
+      "consensusIncome": "4463433000000000",
+      "bonusEthEarned": "7485495519071",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x216b0b9b5e0e38bde0abbad2caa6826b5b780406": {
+      "pubkey": "a59535af4c6a59dba58be104064d89ad0c894e8b9413a47925594da88e30bf3ebe43e753e69f89c8e29c2f42f089d95c",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "147624018706029194550",
+      "missingAttestationSlots": [],
+      "ethEarned": "3922096701195",
+      "consensusIncome": "4476302000000000",
+      "bonusEthEarned": "7507077750020",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x22a0db9b5126c5b26e7295e56711c79c73a94607": {
+      "pubkey": "b7e5eabab1374be18fe65f3fbf3b88dc7824b9252c26a024d4b4df0e9f9743ceb54f8dfb153c8aaca568759498142903",
+      "successfulAttestations": 449,
+      "missedAttestations": 1,
+      "attestationScore": "147295965331126907451",
+      "missingAttestationSlots": [
+        358692
+      ],
+      "ethEarned": "3913380930748",
+      "consensusIncome": "4459293000000000",
+      "bonusEthEarned": "7478552443763",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x23450dbf993f796a8881af73bf20e06eab110d17": {
+      "pubkey": "8462c364b5e4172f4954a655bc51521914980148588c0cce6711feab0f9c83aba5d723d14244e7a2b95d2707b46e9b30",
+      "successfulAttestations": 449,
+      "missedAttestations": 1,
+      "attestationScore": "147295965331126907451",
+      "missingAttestationSlots": [
+        359189
+      ],
+      "ethEarned": "3913380930748",
+      "consensusIncome": "4473773000000000",
+      "bonusEthEarned": "7502836436626",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x23d966d15892a8c8c7508dd9bcccf35f3211eaa3": {
+      "pubkey": "b8e7002ce65fe1111fd77cf0d8aa2efbd3b43b9ab3a8a1d29a620cd290e5c3c90930981463ae8cb762b03694c85e891a",
+      "successfulAttestations": 448,
+      "missedAttestations": 2,
+      "attestationScore": "146967911956224620352",
+      "missingAttestationSlots": [
+        358692,
+        359192
+      ],
+      "ethEarned": "3904665160301",
+      "consensusIncome": "4426475000000000",
+      "bonusEthEarned": "7423514316845",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x240cb561fd3a84273aaca9f48c0fd5295b1db97c": {
+      "pubkey": "abb18ae5ee10cc517060f33aad9216b65beb78d890cce4d5e654f536f0ff787eac688ef2bc6224d04fe2d56b41a79c60",
+      "successfulAttestations": 449,
+      "missedAttestations": 1,
+      "attestationScore": "147295965331126907451",
+      "missingAttestationSlots": [
+        358694
+      ],
+      "ethEarned": "3913380930748",
+      "consensusIncome": "4455060000000000",
+      "bonusEthEarned": "7471453400822",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x2498018507b527bdc9807816501b85388fc5f580": {
+      "pubkey": "8cc599e01da7e49607b7d6358d772c2c78b59d34ac3c1c380f5deac5860435912846195a4efd33855a8f3af0fd215a17",
+      "successfulAttestations": 449,
+      "missedAttestations": 1,
+      "attestationScore": "147295965331126907451",
+      "missingAttestationSlots": [
+        359190
+      ],
+      "ethEarned": "3913380930748",
+      "consensusIncome": "4435839000000000",
+      "bonusEthEarned": "7439218412782",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x24b63f3e0193cd9018ef0e3542dbfc697ea34f6f": {
+      "pubkey": "a12014d7c10a5d1a23c13d6982e72d276bf204b0d667dcedb02c2991d44e7b5fbd4934feadf8998af02b93f0f061c309",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "147624018706029194550",
+      "missingAttestationSlots": [],
+      "ethEarned": "3922096701195",
+      "consensusIncome": "4438769000000000",
+      "bonusEthEarned": "7444132231780",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x2502c190418fa9b3b1b108231a251540c5ebd808": {
+      "pubkey": "b2e81d0b7ee6be6b23c40db5351e4237d3406d450702757f18641c5a66c7edc89c2185bce631d0f3fa57fcf553d5b701",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "147624018706029194550",
+      "missingAttestationSlots": [],
+      "ethEarned": "3922096701195",
+      "consensusIncome": "4469265000000000",
+      "bonusEthEarned": "7495276199069",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x25665b0deb677e068e30944f894b88a73b093a67": {
+      "pubkey": "8b7d8348a2c0a40a6ab5a8caa6c3acd3eee84a1032305db74e62a6764b1825f4cadb1fd96280cb762b51bc57ee5dd718",
+      "successfulAttestations": 449,
+      "missedAttestations": 1,
+      "attestationScore": "147295965331126907451",
+      "missingAttestationSlots": [
+        358698
+      ],
+      "ethEarned": "3913380930748",
+      "consensusIncome": "4465761000000000",
+      "bonusEthEarned": "7489399741128",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x257a4a1ff5cd59cea274f2877f91526138b72482": {
+      "pubkey": "85e59dd6a9e7b8a53696607b0a68467e9ae3da5d8a6af0a1ce7e4ae3dca7712faf5340bc9185d9b5405bc7d3d3e89d80",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "147624018706029194550",
+      "missingAttestationSlots": [],
+      "ethEarned": "3922096701195",
+      "consensusIncome": "4456287000000000",
+      "bonusEthEarned": "7473511167344",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x258c1f5fe50919de4723553a251d07192de502a4": {
+      "pubkey": "a499aed10d9bec37d1ed16f08e6b5c39e78bb3d948b494af7baf093a0860eb007b443459c3800bbce044340c24058b61",
+      "successfulAttestations": 449,
+      "missedAttestations": 1,
+      "attestationScore": "147295965331126907451",
+      "missingAttestationSlots": [
+        359185
+      ],
+      "ethEarned": "3913380930748",
+      "consensusIncome": "4484353000000000",
+      "bonusEthEarned": "7520579851301",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x26975f2074fbb554f2bf6336f39395c0f1d131ea": {
+      "pubkey": "9142b82a48fe83dcef48f712028ba32421d3d0547a938563eeaebfae760923276ab5878f19745a0f52a947a13088d091",
+      "successfulAttestations": 449,
+      "missedAttestations": 1,
+      "attestationScore": "147295965331126907451",
+      "missingAttestationSlots": [
+        359186
+      ],
+      "ethEarned": "3913380930748",
+      "consensusIncome": "4454387000000000",
+      "bonusEthEarned": "7470324731817",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x291bb41cc544fd6103c5d1bffade0a08d44cbad0": {
+      "pubkey": "b9dcb04a097372209e300ef20bc8b5407820c892ba42cf716387f92be30dc43a6c8f159106f8500f0b6abc9792c8e96c",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "147624018706029194550",
+      "missingAttestationSlots": [],
+      "ethEarned": "3922096701195",
+      "consensusIncome": "4472614000000000",
+      "bonusEthEarned": "7500892710954",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x29c49f7009f273818b924eafa13533f8100dee49": {
+      "pubkey": "8c97909b655e03b667cbcaed0ab5600041609ee08dc14b3bee9fbc42e64628e0daecc7d35e93c36152c3b262636efd9e",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "147624018706029194550",
+      "missingAttestationSlots": [],
+      "ethEarned": "3922096701195",
+      "consensusIncome": "4474418000000000",
+      "bonusEthEarned": "7503918147634",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x2a11a1a0ac47ab595a4946bdb048cca5bd2b0ba2": {
+      "pubkey": "920c9db1eb22e3223c4b090155328fe091d8515c2f6190ee9b7dab26453487f368c38eaa6500c72b45131abdafde2f8e",
+      "successfulAttestations": 449,
+      "missedAttestations": 1,
+      "attestationScore": "147295965331126907451",
+      "missingAttestationSlots": [
+        359190
+      ],
+      "ethEarned": "3913380930748",
+      "consensusIncome": "4441295000000000",
+      "bonusEthEarned": "7448368513960",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x2c119b028eea42ce8f85f134ca9f8f980611b9c8": {
+      "pubkey": "a4a5df3d1fbcdec4cba8f462e7403b1a6565712306bd91d24c67ff15f7722612f702190a016ead92a5aea8d50e888046",
+      "successfulAttestations": 449,
+      "missedAttestations": 1,
+      "attestationScore": "147295965331126907451",
+      "missingAttestationSlots": [
+        359185
+      ],
+      "ethEarned": "3913380930748",
+      "consensusIncome": "4443534000000000",
+      "bonusEthEarned": "7452123476669",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x2dc130c41abd8568ea6cb3daff4b3cdca5a14306": {
+      "pubkey": "b182d60c1a2b7a138c6b2f8388f751b400840ae50d18fa708eca5c787ed08ba0b01c73600762b526dcde50be963da367",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "147624018706029194550",
+      "missingAttestationSlots": [],
+      "ethEarned": "3922096701195",
+      "consensusIncome": "4455360000000000",
+      "bonusEthEarned": "7471956522221",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x2e4625ec7367bcd8e7687d7ab884a4f3b8cf885e": {
+      "pubkey": "aa0b0095b9e2cd3e1496f69e732148610a5ddf7a8ba66661ccd7a5421774ae5ae7a7afc2350e27e8d7318364ed795f52",
+      "successfulAttestations": 449,
+      "missedAttestations": 1,
+      "attestationScore": "147295965331126907451",
+      "missingAttestationSlots": [
+        359191
+      ],
+      "ethEarned": "3913380930748",
+      "consensusIncome": "4451252000000000",
+      "bonusEthEarned": "7465067113196",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x30d2c3f7350774200ca91dba990194c66fbceb61": {
+      "pubkey": "86c3af2c3b00abd354308ba2e3436c3712a6574237589c27313930afb6074fb3f00702b0e3bec97842521b5935952224",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "147624018706029194550",
+      "missingAttestationSlots": [],
+      "ethEarned": "3922096701195",
+      "consensusIncome": "4477477000000000",
+      "bonusEthEarned": "7509048308834",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x311f0e55b96e5060b90184dbdc178b2d60460c3b": {
+      "pubkey": "a39c4553905f3d5350527efdc1ddcaa80af6aef358bd0df9727f3b0a4b8774a53c12bcd0972909380fefc8de543554e3",
+      "successfulAttestations": 449,
+      "missedAttestations": 1,
+      "attestationScore": "147295965331126907451",
+      "missingAttestationSlots": [
+        359189
+      ],
+      "ethEarned": "3913380930748",
+      "consensusIncome": "4462736000000000",
+      "bonusEthEarned": "7484326600353",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x31cfec3b5bac1904ba6931e08a82532b567465d1": {
+      "pubkey": "a8b7fb8d37215daa63cb557bc38398671537ea2d08f3612a73126781bb393d6a2436eb61e740d8ed326babc386e936a6",
+      "successfulAttestations": 448,
+      "missedAttestations": 2,
+      "attestationScore": "146967911956224620352",
+      "missingAttestationSlots": [
+        358698,
+        359185
+      ],
+      "ethEarned": "3904665160301",
+      "consensusIncome": "4437820000000000",
+      "bonusEthEarned": "7442540691087",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x33675e846a7eda0f34ac8ea0ceb84ed1f2846072": {
+      "pubkey": "a9479d922e689e1e406d75b93573a74995ebb0185b866f55413ad8a33b56c5bcb459e99a6e01b2fc017df1fae9defa2f",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "151382154403767240900",
+      "missingAttestationSlots": [],
+      "ethEarned": "4021943404678",
+      "consensusIncome": "4458094000000000",
+      "bonusEthEarned": "9016233082085",
+      "effectiveCommission": "115206383418569603"
+    },
+    "0x33fe39183184ccda08b278769bfe6f9e45758a47": {
+      "pubkey": "af2dda3ad89fa2756728509c9bfc36b86d00cd71c1ad3d8facf3aaf4e9a0c07e86fd1504191879da14065b4373fc66cd",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "147624018706029194550",
+      "missingAttestationSlots": [],
+      "ethEarned": "3922096701195",
+      "consensusIncome": "4464040000000000",
+      "bonusEthEarned": "7486513501368",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x342e5300bdd35d022c3267406b470a83e0de9074": {
+      "pubkey": "897cbe06e9d046ed002b0f3b6e9d4d345a73d8f85e1ab99883c18c00cc7c3b2852418f492f2343a67c1e6ba0200fae81",
+      "successfulAttestations": 449,
+      "missedAttestations": 1,
+      "attestationScore": "147295965331126907451",
+      "missingAttestationSlots": [
+        358696
+      ],
+      "ethEarned": "3913380930748",
+      "consensusIncome": "4455544000000000",
+      "bonusEthEarned": "7472265103346",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x346596ddd5d20239a98e249491e4c383987cbdd6": {
+      "pubkey": "a758f4dafd37dfc21094f142e2b662a38a685f166c81d8fd90d66991e6ba672a3a53be6501504fb37f634703b0cec960",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "147624018706029194550",
+      "missingAttestationSlots": [],
+      "ethEarned": "3922096701195",
+      "consensusIncome": "2382096000000000",
+      "bonusEthEarned": "3994944907652",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x34a5fab20deba8c336770fd033e2f6b9c8d1bff0": {
+      "pubkey": "b87c1d47ca4908219356fec3060455f149395f9322dc74b78944d82b9abbada1afae8ce8973a144948dc991e01a62a25",
+      "successfulAttestations": 449,
+      "missedAttestations": 1,
+      "attestationScore": "147295965331126907451",
+      "missingAttestationSlots": [
+        359185
+      ],
+      "ethEarned": "3913380930748",
+      "consensusIncome": "4461993000000000",
+      "bonusEthEarned": "7483080536355",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x3613f125a46bf6ff54020ff55a741c972bf8ac5a": {
+      "pubkey": "b32bb179fb4ad32c6ece00837df609bcdb5fe4986e0647104b53b60201283afc01e05171a2153eb717f36eaaf63a3917",
+      "successfulAttestations": 448,
+      "missedAttestations": 2,
+      "attestationScore": "146967911956224620352",
+      "missingAttestationSlots": [
+        358699,
+        359187
+      ],
+      "ethEarned": "3904665160301",
+      "consensusIncome": "4422124000000000",
+      "bonusEthEarned": "7416217379487",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x36e99d94415d425a958517e75d7c5f36be88adfe": {
+      "pubkey": "863c3a58b14eddf70f6f91a97e817b75303ec4a3cfd0ed8a8354a50da6f07560b2d4d803005c972107d4b62cd327318b",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "146250000000000000000",
+      "missingAttestationSlots": [],
+      "ethEarned": "3885591569567",
+      "consensusIncome": "4471028000000000",
+      "bonusEthEarned": "6933670342380",
+      "effectiveCommission": "100000000000000000"
+    },
+    "0x37d2007383950eb56e439695431ab608151462b9": {
+      "pubkey": "80440bad7da43d849b2bd12a49775022bbb0efd63a33d75c8c8e47d2159c3974aa2dd88d1e9ea5f1ae1dc11335a8228f",
+      "successfulAttestations": 449,
+      "missedAttestations": 1,
+      "attestationScore": "147295965331126907451",
+      "missingAttestationSlots": [
+        358699
+      ],
+      "ethEarned": "3913380930748",
+      "consensusIncome": "4450354000000000",
+      "bonusEthEarned": "7463561103142",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x38aba7dc297607813faec6cea36ca8852bcf84f0": {
+      "pubkey": "b6f3510f3f6d66817950d7c395999c2f228260e7e4a37803ba3e6fd69081f5bf77a40705701b07db48711dd150820762",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "147624018706029194550",
+      "missingAttestationSlots": [],
+      "ethEarned": "3922096701195",
+      "consensusIncome": "4470026000000000",
+      "bonusEthEarned": "7496552450351",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x39f47eea26995d13f37047ea58a92dc04f120006": {
+      "pubkey": "96f1e862e84c15703c881ff52ed25c2907e2150d0c6dc3ae538458039c15c84e689484d210a053f51edd0b947f64b04d",
+      "successfulAttestations": 449,
+      "missedAttestations": 1,
+      "attestationScore": "147295965331126907451",
+      "missingAttestationSlots": [
+        359186
+      ],
+      "ethEarned": "3913380930748",
+      "consensusIncome": "4473269000000000",
+      "bonusEthEarned": "7501991192676",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x3b6e068d3042f2164d18fcab0a844254e1903cc8": {
+      "pubkey": "82723d66ff6cf0264403994426e4fd5f42a0052e7dffc7862f77a0d4aaa2c8bc42aa010a980eaddf6f965ab513040f0d",
+      "successfulAttestations": 449,
+      "missedAttestations": 1,
+      "attestationScore": "147295965331126907451",
+      "missingAttestationSlots": [
+        358697
+      ],
+      "ethEarned": "3913380930748",
+      "consensusIncome": "4462465000000000",
+      "bonusEthEarned": "7483872114023",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x3c8f66dbf9812368f8cf09aa03e0273aaec95487": {
+      "pubkey": "8fe52842caafe57cd4d2f23cb21fb8e7d84f1538b3d240af56e151f8d89746bc23ee4a3e50cc6ea7344ce0e38b167da0",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "147624018706029194550",
+      "missingAttestationSlots": [],
+      "ethEarned": "3922096701195",
+      "consensusIncome": "4465290000000000",
+      "bonusEthEarned": "7488609840531",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x3e6a5d4e7a0c88963ccfa213f6882e30822814fc": {
+      "pubkey": "979aabf5aa5495fc26cee72010383f8e53ef81a9b0539fc98cd9e11e8f377a1cb65667b2b90777c381b10c0e503ecb08",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "146250000000000000000",
+      "missingAttestationSlots": [],
+      "ethEarned": "3885591569567",
+      "consensusIncome": "4478964000000000",
+      "bonusEthEarned": "6945977491393",
+      "effectiveCommission": "100000000000000000"
+    },
+    "0x3f2443618e6bac794b6f91c4a1c7062ca49f5f74": {
+      "pubkey": "a0e53014b99d0956b7913d26bc2a7fec792cd2a15fe741aa45cfe74bfb577042f8435683a547599a3610a1a28a146746",
+      "successfulAttestations": 449,
+      "missedAttestations": 1,
+      "attestationScore": "147295965331126907451",
+      "missingAttestationSlots": [
+        359188
+      ],
+      "ethEarned": "3913380930748",
+      "consensusIncome": "4475793000000000",
+      "bonusEthEarned": "7506224120713",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x3f932b05a25f12776cd956d1a973d41465a4798e": {
+      "pubkey": "932ccb3d2543938a7372ab9b81241bab9778d2d2eec899ff323be2496dda505bf28e2220aba85eb7a15f6ebfd3d45e54",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "147624018706029194550",
+      "missingAttestationSlots": [],
+      "ethEarned": "3922096701195",
+      "consensusIncome": "4474112000000000",
+      "bonusEthEarned": "7503404963807",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x3f951fb88c8c102b3b30d7a679a14b6154a58f14": {
+      "pubkey": "b91a522b49aa706ed24403275f81901ebd5134b5eb40ee27f79ed330238ae38eecbec93720bc5b2880a044df8db3a203",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "147624018706029194550",
+      "missingAttestationSlots": [],
+      "ethEarned": "3922096701195",
+      "consensusIncome": "4461753000000000",
+      "bonusEthEarned": "7482678039236",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x4037dab498c77672f53f6718b38552e40d4bf952": {
+      "pubkey": "b3810f3e46c1a23e448b483c3c2f77e229565253f9018c745a49d06a0cb62619403b7dcb6fc4293a094089d2d8779ef9",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "147624018706029194550",
+      "missingAttestationSlots": [],
+      "ethEarned": "3922096701195",
+      "consensusIncome": "4472960000000000",
+      "bonusEthEarned": "7501472977635",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x4078e155894ce0abe0bd9b97f10e829f3af5be05": {
+      "pubkey": "b7555414c353db8d9d364806a1a065f1dc09c9e2b3848678709935b3acb8c5767490b1487576089c58a0077031258c7d",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "147624018706029194550",
+      "missingAttestationSlots": [],
+      "ethEarned": "3922096701195",
+      "consensusIncome": "4483564000000000",
+      "bonusEthEarned": "7519256642021",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x44a253ff317737f6d6fceaacbe885b42b0ecea2d": {
+      "pubkey": "969c0a23cb8788ca1d945edf69a8dda2f60a870fa3c0ddd0ea9e58f794d48400cb09cf8fe21183a4415bd2eaf6e5f08e",
+      "successfulAttestations": 448,
+      "missedAttestations": 2,
+      "attestationScore": "146967911956224620352",
+      "missingAttestationSlots": [
+        358692,
+        359187
+      ],
+      "ethEarned": "3904665160301",
+      "consensusIncome": "4444274000000000",
+      "bonusEthEarned": "7453364509453",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x46955669ded6292789620e5fed0a77a0aa0d50a5": {
+      "pubkey": "ad4d4c1fb76b915489a57a6e340d2d028dbee969e6125da2568f9bae60ebe7a98d44aba00c3d58430588a29da1a2010d",
+      "successfulAttestations": 449,
+      "missedAttestations": 1,
+      "attestationScore": "147295965331126907451",
+      "missingAttestationSlots": [
+        358699
+      ],
+      "ethEarned": "3913380930748",
+      "consensusIncome": "4441146000000000",
+      "bonusEthEarned": "7448118630332",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x472328893d47fde9b6ff9b4ff9352cc0bbaada7a": {
+      "pubkey": "b05b3877fb5e3b4eff0be5f3c73c19f54eb9818926a3e9209f5d94763845ea002379498561f66a904dfcdd64a0dc5c00",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "147624018706029194550",
+      "missingAttestationSlots": [],
+      "ethEarned": "3922096701195",
+      "consensusIncome": "4458107000000000",
+      "bonusEthEarned": "7476563437165",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x47aee5b0a85cc53e7d497849ae8822a68ab72463": {
+      "pubkey": "a140ff01d109567ef431de4676be1727e5b8072eb8b453d19849e7b96d9a303f34e8b16ff237a566b3159377a16db3a0",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "147624018706029194550",
+      "missingAttestationSlots": [],
+      "ethEarned": "3922096701195",
+      "consensusIncome": "4457758000000000",
+      "bonusEthEarned": "7475978139271",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x47ceb5af023b82d7a0791e0ccc9732513447c01a": {
+      "pubkey": "831fd16b9045672a7f93f354a218180ad011d8be477f9bcee055ded6dcb9637aaad0650d15b9b5df623770f7f48ad728",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "151382154403767240900",
+      "missingAttestationSlots": [],
+      "ethEarned": "4021943404678",
+      "consensusIncome": "4475080000000000",
+      "bonusEthEarned": "9050586268700",
+      "effectiveCommission": "115206383418569603"
+    },
+    "0x4853ef0ed013ed9b5836bf3074b94ce647a75702": {
+      "pubkey": "855c800b932052502831aea7bceeed4ceb87404e06a839b5c6ed42e728bc2816d5396805adb059f1402297eebe80a686",
+      "successfulAttestations": 448,
+      "missedAttestations": 2,
+      "attestationScore": "146967911956224620352",
+      "missingAttestationSlots": [
+        358696,
+        359190
+      ],
+      "ethEarned": "3904665160301",
+      "consensusIncome": "4445472000000000",
+      "bonusEthEarned": "7455373640907",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x49442b152e5128bf652b099992570751bf9cc850": {
+      "pubkey": "83d8a141ba3b0b4488c85eb67cae75d67a53e7920910b9bb09415e8f1a529a55ffc88bfe0be9b97eb7cd20408f408690",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "147624018706029194550",
+      "missingAttestationSlots": [],
+      "ethEarned": "3922096701195",
+      "consensusIncome": "4476100000000000",
+      "bonusEthEarned": "7506738981612",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x4955f33f8fb5a9708868e5958a57f79bbb0daf0b": {
+      "pubkey": "a84cbb58e780dee88e3ba74ce92a7b1706fd3054f95446a066c659fc114dbfa18e45aca6ae41404744c97ab1d3573584",
+      "successfulAttestations": 449,
+      "missedAttestations": 1,
+      "attestationScore": "147295965331126907451",
+      "missingAttestationSlots": [
+        358695
+      ],
+      "ethEarned": "3913380930748",
+      "consensusIncome": "4442381000000000",
+      "bonusEthEarned": "7450189813425",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x4c23b0023c88e5d899e949cec2987443e176d78f": {
+      "pubkey": "8be9573fac1fc5253d922df6af36ffa52dba620671d6f530060f7759b9bdd7240e374114304f342a3eb5d6d174847add",
+      "successfulAttestations": 449,
+      "missedAttestations": 1,
+      "attestationScore": "147295965331126907451",
+      "missingAttestationSlots": [
+        358695
+      ],
+      "ethEarned": "3913380930748",
+      "consensusIncome": "4458276000000000",
+      "bonusEthEarned": "7476846862220",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x4d5438ee473620e8936594bc0448a105f54837c7": {
+      "pubkey": "8fe79c941f6ddf5a277d92948d8406e683862db6256e96ea028e5088dc5c5c20c16f601b648270d9d5ed1bbc6ebf7dd1",
+      "successfulAttestations": 449,
+      "missedAttestations": 1,
+      "attestationScore": "147295965331126907451",
+      "missingAttestationSlots": [
+        358694
+      ],
+      "ethEarned": "3913380930748",
+      "consensusIncome": "4461310000000000",
+      "bonusEthEarned": "7481935096636",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x4e79f0bbf0f5a66ca181034a710e67d0473e6851": {
+      "pubkey": "8f9c101fed0cd24212fcdc97deda636e9cd0d71f6552f1faa181909e866f374e2f101259505c8c62dc84438102c848fe",
+      "successfulAttestations": 448,
+      "missedAttestations": 2,
+      "attestationScore": "146967911956224620352",
+      "missingAttestationSlots": [
+        358698,
+        359187
+      ],
+      "ethEarned": "3904665160301",
+      "consensusIncome": "2352160000000000",
+      "bonusEthEarned": "3944740100308",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x4f1897246e7bffb7211f9b2226938dbcb397a10e": {
+      "pubkey": "a0db0b28c9fe5daa828df8bcf1968861ef15a73c93b4aa0b1b335467fa5ce543cb0d4a33a48db956e0e7527d4d043f86",
+      "successfulAttestations": 449,
+      "missedAttestations": 1,
+      "attestationScore": "147295965331126907451",
+      "missingAttestationSlots": [
+        359185
+      ],
+      "ethEarned": "3913380930748",
+      "consensusIncome": "4447150000000000",
+      "bonusEthEarned": "7458187766599",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x50733ccdfe95d340a64581e0fad893f51f243b50": {
+      "pubkey": "9742087859b1aa5cb4b717ba35c649204758a4a3750a9a57823b1e5e7b1cd5678d3c2c5d423f09de156f4a06225e4227",
+      "successfulAttestations": 449,
+      "missedAttestations": 1,
+      "attestationScore": "147295965331126907451",
+      "missingAttestationSlots": [
+        359186
+      ],
+      "ethEarned": "3913380930748",
+      "consensusIncome": "4473230000000000",
+      "bonusEthEarned": "7501925786894",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x528b32b32f7d173397bbfcb276b328f296050fd3": {
+      "pubkey": "b47919d57b2270e2902e47f1c1f062b7ff69ad9cf1a590a8b958be39a947141b8da7a95dc7a6990f7e79b0cb93af8153",
+      "successfulAttestations": 449,
+      "missedAttestations": 1,
+      "attestationScore": "147295965331126907451",
+      "missingAttestationSlots": [
+        358696
+      ],
+      "ethEarned": "3913380930748",
+      "consensusIncome": "4447323000000000",
+      "bonusEthEarned": "7458477899939",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x530c51b2cf9a42b3b28e5f15ecc2e83c45c7bc7a": {
+      "pubkey": "a0409630452648fb4ce049e6a14169762220c1216a4f7752cd2a6ce3a04442bce51948e16fda71aadd42af6a828ada59",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "147624018706029194550",
+      "missingAttestationSlots": [],
+      "ethEarned": "3922096701195",
+      "consensusIncome": "4432436000000000",
+      "bonusEthEarned": "7433511339045",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x543e6a0cf0cd15352729c9090710bb237116025c": {
+      "pubkey": "8ffc3623d7c9a8a57d31bebb328418e033f3af9f983e1339125feb40baee042871ec8db7abccef7cd08e705a6a535487",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "147624018706029194550",
+      "missingAttestationSlots": [],
+      "ethEarned": "3922096701195",
+      "consensusIncome": "4474768000000000",
+      "bonusEthEarned": "7504505122600",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x547468b3e2a8113ec4d4e5b7e0112496c75718c8": {
+      "pubkey": "b2a04b8ff0bb388d0eeee8b2a65d4531653f4ebe7f271bad1c3e635442ef8ee07b0dff1a02b6ab94d4b4f65bea776819",
+      "successfulAttestations": 449,
+      "missedAttestations": 1,
+      "attestationScore": "145925000000000000000",
+      "missingAttestationSlots": [
+        363521
+      ],
+      "ethEarned": "3876956921635",
+      "consensusIncome": "4446924000000000",
+      "bonusEthEarned": "6896289858533",
+      "effectiveCommission": "100000000000000000"
+    },
+    "0x54c56e42a1325bb156f24fa00380b704f9768ccd": {
+      "pubkey": "9695ed7a05feb7a87431b94ba11dd84a178d50e8168f7a331cb2fab52c2db517f100d52351e3f5220ca9819457b69740",
+      "successfulAttestations": 449,
+      "missedAttestations": 1,
+      "attestationScore": "147295965331126907451",
+      "missingAttestationSlots": [
+        359187
+      ],
+      "ethEarned": "3913380930748",
+      "consensusIncome": "4460915000000000",
+      "bonusEthEarned": "7481272653461",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x5587fa519d9ecfa250b8d42f8c70def062370921": {
+      "pubkey": "806e38582623f33e6144fba28d481326907ee563ee6b28bef817d91a909abcc7e75782965f9c5b736709a5525850c093",
+      "successfulAttestations": 449,
+      "missedAttestations": 1,
+      "attestationScore": "147295965331126907451",
+      "missingAttestationSlots": [
+        358691
+      ],
+      "ethEarned": "3913380930748",
+      "consensusIncome": "4433552000000000",
+      "bonusEthEarned": "7435382950650",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x55ab0221ded0c5c9b2944d2c49ee95531cf320f7": {
+      "pubkey": "875ca8a8369f409e031a70995249fee406e631220480ae7b56bf8f712bbcc1b68c10d4186ba2185d5bad36e099058b33",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "146250000000000000000",
+      "missingAttestationSlots": [],
+      "ethEarned": "3885591569567",
+      "consensusIncome": "2383612000000000",
+      "bonusEthEarned": "3696505553564",
+      "effectiveCommission": "100000000000000000"
+    },
+    "0x56013d368ff8657904d4bfba5c33d573bbb3640f": {
+      "pubkey": "aec69087a13b04452eff0fd84d57ecde708ca2870b3371cd7c795732b506dae5c26a9b1701364a4e0f42b2e9f31aa6d5",
+      "successfulAttestations": 448,
+      "missedAttestations": 2,
+      "attestationScore": "146967911956224620352",
+      "missingAttestationSlots": [
+        358697,
+        359191
+      ],
+      "ethEarned": "3904665160301",
+      "consensusIncome": "4441736000000000",
+      "bonusEthEarned": "7449108102417",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x5687845e9bbe437173923744356fe394bcecd3eb": {
+      "pubkey": "a69afed39c43d0f49c52e1f92e94600cc594797f8aa109e08e8e583ab87d37d834d0829b34dbd60fac83cabe281da0cc",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "147624018706029194550",
+      "missingAttestationSlots": [],
+      "ethEarned": "3922096701195",
+      "consensusIncome": "4467604000000000",
+      "bonusEthEarned": "7492490583589",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x57a7b410811f9b9912e5c37fac26994fd4208498": {
+      "pubkey": "abdc481274c69735d69e55c4f2568cc9b7d74955f5955065eca52fdcb9807c50d424708b1328d2ff616f7103de167b82",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "147624018706029194550",
+      "missingAttestationSlots": [],
+      "ethEarned": "3922096701195",
+      "consensusIncome": "4478729000000000",
+      "bonusEthEarned": "7511148002139",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x57b0960c9d2121aa7d76da6832df0e7fc958f633": {
+      "pubkey": "810284e98e03c6e1520a5c1f45a0ed51e4b75e110a29ce660fc82934438c4e75088db47b48fc6d8bb280d81a289a0998",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "147624018706029194550",
+      "missingAttestationSlots": [],
+      "ethEarned": "3922096701195",
+      "consensusIncome": "4460822000000000",
+      "bonusEthEarned": "7481116685827",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x59e9ac44699bc460f1b9e93b4e181d6b54a34b19": {
+      "pubkey": "8095922021b1fc00ac47ac1b359110ab50e831e8e10b816a443427dda903b873664f9c6a91bd36aba22901242f168057",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "147624018706029194550",
+      "missingAttestationSlots": [],
+      "ethEarned": "3922096701195",
+      "consensusIncome": "4462942000000000",
+      "bonusEthEarned": "7484672077047",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x5d10a047275d7457a80bc4c72c336dde97a14e27": {
+      "pubkey": "8d5f801935b8554d7513d0761f0f4da4a947a889927cf82786b79e23e21157a6f4e6c4ba32172140c7285a341b6c134d",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "152778143609640333000",
+      "missingAttestationSlots": [],
+      "ethEarned": "4059032251786",
+      "consensusIncome": "4483098000000000",
+      "bonusEthEarned": "9641940531270",
+      "effectiveCommission": "119342647732267654"
+    },
+    "0x5e83a67186f1563cdbb1e7e6942f9de4902e9e7b": {
+      "pubkey": "a095ade6cb5157dd7462bef3bc86e69e53b7730c8a25d8ea5ad756f056b4a433b0bf6b01baab66f08260cd81fc38c7e2",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "147624018706029194550",
+      "missingAttestationSlots": [],
+      "ethEarned": "3922096701195",
+      "consensusIncome": "4479638000000000",
+      "bonusEthEarned": "7512672459978",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x5ec515d6a3fe5b256cec353612146f74b7e587ef": {
+      "pubkey": "b13013db09ee2e69f122ad31deddec0ae56ca1742cab8d2725bc5337798a3c5ed8dea6a27830c7f4da1968a9a9f2ed7e",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "147624018706029194550",
+      "missingAttestationSlots": [],
+      "ethEarned": "3922096701195",
+      "consensusIncome": "4457441000000000",
+      "bonusEthEarned": "7475446507659",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x5ece4f36ebab145240e145d859ee2426dd057823": {
+      "pubkey": "b27deb86649efb5e4dc609eaae3be2b932252ca98a9265fa89cc4efe89b7eccd4ce148a97ef095d321fcf2e917b48756",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "147624018706029194550",
+      "missingAttestationSlots": [],
+      "ethEarned": "3922096701195",
+      "consensusIncome": "4446886000000000",
+      "bonusEthEarned": "7457745019768",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x5efb490e15272968b43367f852d2e750ceae9607": {
+      "pubkey": "850e14993149ea9b5ba9b70db3d45d5f510b808b186dd414c1bc742e1da9d370f265053361a94d5360a2b094197d27c5",
+      "successfulAttestations": 449,
+      "missedAttestations": 1,
+      "attestationScore": "147295965331126907451",
+      "missingAttestationSlots": [
+        359188
+      ],
+      "ethEarned": "3913380930748",
+      "consensusIncome": "4439497000000000",
+      "bonusEthEarned": "7445353139708",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x60b75f82e07f32e656224204701cc48c0025424b": {
+      "pubkey": "b41527e4ab6d78d80b357e63fe7c813119fc3d561f1da4eedbfb865e4006e3fa71b6c6fa865495f8c93c0ed6b810866f",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "147624018706029194550",
+      "missingAttestationSlots": [],
+      "ethEarned": "3922096701195",
+      "consensusIncome": "4444473000000000",
+      "bonusEthEarned": "7453698246648",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x610a8c1dff39ffdfdd386dc2d2fd15d4644e65dd": {
+      "pubkey": "a92e01860e020e4970d1b66be918fb1cd8e63113e9f4abc2c8a14d057dbc97bb92e562d22c7abffb794811ee96428494",
+      "successfulAttestations": 449,
+      "missedAttestations": 1,
+      "attestationScore": "147295965331126907451",
+      "missingAttestationSlots": [
+        359190
+      ],
+      "ethEarned": "3913380930748",
+      "consensusIncome": "4460051000000000",
+      "bonusEthEarned": "7479823663832",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x615b1020bb951cd32beb4bb280ffc21e9f6ad3d3": {
+      "pubkey": "ab376e5436ea0155e29e247885f2d2b18b296cd14862e297c2ae7884920dc76e33175edef327001c50288594d0d5da30",
+      "successfulAttestations": 449,
+      "missedAttestations": 1,
+      "attestationScore": "147295965331126907451",
+      "missingAttestationSlots": [
+        359186
+      ],
+      "ethEarned": "3913380930748",
+      "consensusIncome": "4458066000000000",
+      "bonusEthEarned": "7476494677241",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x61e83a40bdea7306476e6af06761986dc7342ddc": {
+      "pubkey": "b449a193580c21a4c01885e60921723cb28e3b0cd6145ed9090a7c3ac5f06e3f71e231eb6c3b49beab94412f99dd2f08",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "147624018706029194550",
+      "missingAttestationSlots": [],
+      "ethEarned": "3922096701195",
+      "consensusIncome": "4463156000000000",
+      "bonusEthEarned": "7485030970312",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x62095fabf39fc321e748673f492a368d16abed93": {
+      "pubkey": "a516af55ce4e9cd9f4f01c4580af85e7b94da1f1d0226ab831370a544a3ca3d485269fd6514af7a3b580a9c968c71754",
+      "successfulAttestations": 449,
+      "missedAttestations": 1,
+      "attestationScore": "147295965331126907451",
+      "missingAttestationSlots": [
+        359189
+      ],
+      "ethEarned": "3913380930748",
+      "consensusIncome": "4453121000000000",
+      "bonusEthEarned": "7468201559513",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x623abaa2c6731dafe7aa9ac247a4358df85e13c0": {
+      "pubkey": "a78755cb2c41e74993fddb996414bc5f101567f42325f05de3b4239f6e2b42c7da0929e8159370613bc68e420617b09e",
+      "successfulAttestations": 449,
+      "missedAttestations": 1,
+      "attestationScore": "147295965331126907451",
+      "missingAttestationSlots": [
+        359187
+      ],
+      "ethEarned": "3913380930748",
+      "consensusIncome": "4454582000000000",
+      "bonusEthEarned": "7470651760726",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x6355838c636f8a04f88408fbca36eb0ee5499749": {
+      "pubkey": "a0a058f6509b7309b63b65adc96232f4d2b3fccd726a40f02692caa05ff1560b431b7baabf768cace3d150367127e21d",
+      "successfulAttestations": 449,
+      "missedAttestations": 1,
+      "attestationScore": "147295965331126907451",
+      "missingAttestationSlots": [
+        358691
+      ],
+      "ethEarned": "3913380930748",
+      "consensusIncome": "4456207000000000",
+      "bonusEthEarned": "7473377001638",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x63a7303163a33935d46d8e896536c59c02fde6c6": {
+      "pubkey": "a605ac6cc8d2816acf661ecd04497ace70039ac8e7fa4c6653f4607345eb4dc3e120d6a96f522f941f303a40b08a032d",
+      "successfulAttestations": 448,
+      "missedAttestations": 2,
+      "attestationScore": "146967911956224620352",
+      "missingAttestationSlots": [
+        358699,
+        359186
+      ],
+      "ethEarned": "3904665160301",
+      "consensusIncome": "2363353000000000",
+      "bonusEthEarned": "3963511559708",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x642883e8eab0a5c82a973968b79f3a018ff5d6ce": {
+      "pubkey": "982f8654231ad6a4aa4d1e60e089f142ddb882f37bf89ff49a01d03b78a0a391f1c8ed76c0a88d9604e23db22af2e923",
+      "successfulAttestations": 449,
+      "missedAttestations": 1,
+      "attestationScore": "147295965331126907451",
+      "missingAttestationSlots": [
+        359190
+      ],
+      "ethEarned": "3913380930748",
+      "consensusIncome": "4462891000000000",
+      "bonusEthEarned": "7484586546410",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x645c11bdbf546f466b6cc8e55314bc26a4c359af": {
+      "pubkey": "8db585d12db48bbc912551a0759eb8efc8d264f466c02d8592398a2527754b44c32fe7c76b87af75b5aa0db53e649950",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "147624018706029194550",
+      "missingAttestationSlots": [],
+      "ethEarned": "3922096701195",
+      "consensusIncome": "2383394000000000",
+      "bonusEthEarned": "3997121746239",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x64723f712813e2a475f13b014c48cc2579872bcf": {
+      "pubkey": "81ff9d4b49ee82e344e7bcaddd9e711ba64b71b2c84730957c75849143007f96b8468d13d236d9f41c3ce773bed2c0fc",
+      "successfulAttestations": 449,
+      "missedAttestations": 1,
+      "attestationScore": "147295965331126907451",
+      "missingAttestationSlots": [
+        359192
+      ],
+      "ethEarned": "3913380930748",
+      "consensusIncome": "4460877000000000",
+      "bonusEthEarned": "7481208924750",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x654b90b4560a5af594ac86b06432a703c166f548": {
+      "pubkey": "a9c571142a423785bb25c16b90a51273b501cf9ca915bc07d6c0d511b535a6afc21e801c6533ff727bfa98732a101674",
+      "successfulAttestations": 448,
+      "missedAttestations": 2,
+      "attestationScore": "146967911956224620352",
+      "missingAttestationSlots": [
+        358691,
+        359186
+      ],
+      "ethEarned": "3904665160301",
+      "consensusIncome": "4449901000000000",
+      "bonusEthEarned": "7462801389829",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x6626522b9b2415fe48f5529e40d8f3214ecc6466": {
+      "pubkey": "842530e677794dbc960eb2e721e1bdf676490b1ae8427a7d0728e406ef20cca4e248d2fb2c7405c275179993e821f907",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "147624018706029194550",
+      "missingAttestationSlots": [],
+      "ethEarned": "3922096701195",
+      "consensusIncome": "4477425000000000",
+      "bonusEthEarned": "7508961101124",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x6879659400563193673d2d36c8bc2528a4443c6a": {
+      "pubkey": "ab5e38c36f1b5bfa4f82ecefc920c7d94203eed7464cbdce7c22ddf563b757fc49a0d183d928171b1c7985e75867d10e",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "147624018706029194550",
+      "missingAttestationSlots": [],
+      "ethEarned": "3922096701195",
+      "consensusIncome": "4446798000000000",
+      "bonusEthEarned": "7457597437491",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x68ff7c8e9fd2324dec3b94407bcb929616907057": {
+      "pubkey": "9385422b29b3b9b2dca45d5812e81ef292048c30dcb4a9fcc0141375860ef51f318701c3b5d313b386bb50bdd2ac9f7a",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "147624018706029194550",
+      "missingAttestationSlots": [],
+      "ethEarned": "3922096701195",
+      "consensusIncome": "4483750000000000",
+      "bonusEthEarned": "7519568577289",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x69b9729f77e08f61656c9aede11bdb8d34fbbfd3": {
+      "pubkey": "b9219ad31135cfa7e0972315df149b3e188ccd77ddf02b4db00cd1f4894fe17faa9860df30e7bb93557675bbff08d59c",
+      "successfulAttestations": 449,
+      "missedAttestations": 1,
+      "attestationScore": "147295965331126907451",
+      "missingAttestationSlots": [
+        359190
+      ],
+      "ethEarned": "3913380930748",
+      "consensusIncome": "4459821000000000",
+      "bonusEthEarned": "7479437937426",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x6a2307ca38e9cce193ba8f1b08c9bd7c80f0606e": {
+      "pubkey": "ae4de1f94c647e36fa3c6fd37ced92449c5436128f59bc41a734c003f4f242a8dd62a543f3d93412c32e8acaaffd7d2a",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "147624018706029194550",
+      "missingAttestationSlots": [],
+      "ethEarned": "3922096701195",
+      "consensusIncome": "4483865000000000",
+      "bonusEthEarned": "7519761440492",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x6a3bf09ccc9cc1b71d26620e5aa0494f9dad1db7": {
+      "pubkey": "a0a999016523506b65df83b94828da0193bfc6e3f7f0aa49b3ff3482440ea0605233173faaf342e607b4efb4cbbc8401",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "147624018706029194550",
+      "missingAttestationSlots": [],
+      "ethEarned": "3922096701195",
+      "consensusIncome": "4475833000000000",
+      "bonusEthEarned": "7506291203567",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x6a8f1ac8f47e98b0a2cafa0fd9cf31fc36caf147": {
+      "pubkey": "97a47ade8775fc8b1821afc1ed30b98647da2dd4c4bf554d208d1bf2c3f2bd82aadfccac2ef13561d0eab57cc223cb00",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "147624018706029194550",
+      "missingAttestationSlots": [],
+      "ethEarned": "3922096701195",
+      "consensusIncome": "4450889000000000",
+      "bonusEthEarned": "7464458336303",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x6b0cebd74aac3e6f8b870baa4b0dff0c5ecb0a30": {
+      "pubkey": "99546e838af47b158f8d197f496b99eb37940344f98bc85d4029fa585a2fc5ef19f32bc1157b63fc07ea7e59cd384245",
+      "successfulAttestations": 449,
+      "missedAttestations": 1,
+      "attestationScore": "145925000000000000000",
+      "missingAttestationSlots": [
+        363525
+      ],
+      "ethEarned": "3876956921635",
+      "consensusIncome": "4420522000000000",
+      "bonusEthEarned": "6855345636225",
+      "effectiveCommission": "100000000000000000"
+    },
+    "0x6c6e54b9c420fbe6d47479311267a619e5241cda": {
+      "pubkey": "b48ca806a3ceb251f23452d7ce3e5deed6341ad9003727ca27594ac34c8585bedf13773e17c58146c57dfeb56fc3a5f9",
+      "successfulAttestations": 449,
+      "missedAttestations": 1,
+      "attestationScore": "147295965331126907451",
+      "missingAttestationSlots": [
+        358698
+      ],
+      "ethEarned": "3913380930748",
+      "consensusIncome": "4438542000000000",
+      "bonusEthEarned": "7443751536588",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x6c88dbf5e4118101ef1dfb38e6eaa1de87018324": {
+      "pubkey": "b64c8ada870fa05d5b7c5a75fbbdc91df01c578af859bc373964dba0734724f170c8ab8b8b1a2d2dce9002ac1793392b",
+      "successfulAttestations": 449,
+      "missedAttestations": 1,
+      "attestationScore": "147295965331126907451",
+      "missingAttestationSlots": [
+        358694
+      ],
+      "ethEarned": "3913380930748",
+      "consensusIncome": "4417797000000000",
+      "bonusEthEarned": "7408960691841",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x6d05bf4fc2516911feb089d295b2fc56109370aa": {
+      "pubkey": "812dfb97efa738b0a61ced9f0913b06e6cf972ebed352b4c485773838e0a6eecdccc4c30f7ed4ad3fb1c483511939dd5",
+      "successfulAttestations": 449,
+      "missedAttestations": 1,
+      "attestationScore": "147295965331126907451",
+      "missingAttestationSlots": [
+        359190
+      ],
+      "ethEarned": "3913380930748",
+      "consensusIncome": "4448667000000000",
+      "bonusEthEarned": "7460731883807",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x6d3d1a96c54f1b45447d0a1224db5cf8ad8fc3ce": {
+      "pubkey": "8ab59fe263ee0a0d4e1c2c14157e8f4e80b91b8d290d42f0604b2865def2ad185917154b4bf486619ce6a47399ad9e63",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "147624018706029194550",
+      "missingAttestationSlots": [],
+      "ethEarned": "3922096701195",
+      "consensusIncome": "4458732000000000",
+      "bonusEthEarned": "7477611606747",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x6deb3e9d21fb48ca6cd9b20d703485079e212041": {
+      "pubkey": "ad1ffe1695476e0145d0b2ee353c9e24165d2615f488fe9c0cb6b319d5a24c76094946b62d569e49f37d7fe3668927ec",
+      "successfulAttestations": 449,
+      "missedAttestations": 1,
+      "attestationScore": "147295965331126907451",
+      "missingAttestationSlots": [
+        359189
+      ],
+      "ethEarned": "3913380930748",
+      "consensusIncome": "4437904000000000",
+      "bonusEthEarned": "7442681565079",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x6ee174e850bdd196809d0a9236dda3483163abc5": {
+      "pubkey": "a5fe69ceae7c7afbd0cd16eef3a2b8e16381b3e50e3363c69dbce04ab10876eff568d94f13be48db654df822b0e94181",
+      "successfulAttestations": 449,
+      "missedAttestations": 1,
+      "attestationScore": "147295965331126907451",
+      "missingAttestationSlots": [
+        358697
+      ],
+      "ethEarned": "3913380930748",
+      "consensusIncome": "4463745000000000",
+      "bonusEthEarned": "7486018765326",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x6f702c0f7a43eb8d210df5f2a56c56384ab1fa99": {
+      "pubkey": "ad24a6f0a0888ae33f873b75e7bbc32cd9de4725c0abba92ffce909ce5f251403ee906d98bbd6ce83e4a631d4c9ff286",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "147624018706029194550",
+      "missingAttestationSlots": [],
+      "ethEarned": "3922096701195",
+      "consensusIncome": "4467613000000000",
+      "bonusEthEarned": "7492505677231",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x71939efcf9af1471200042f491ab129d68a0381c": {
+      "pubkey": "ab0469778f95cac1363f95a2dccc70b0491729086f0b2c6a753abedf37005992f06f0ef3b43d9348635eb7ba720f9181",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "147624018706029194550",
+      "missingAttestationSlots": [],
+      "ethEarned": "3922096701195",
+      "consensusIncome": "4468572000000000",
+      "bonusEthEarned": "7494113988637",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x7228d8f393ee1885bcfb7784df1c5e0807e244aa": {
+      "pubkey": "992128373f66dfe6db9038adb159c1d902fd150b4185129b2304eddcff828c0391df4516215d3c9c857814fa52b3d7fe",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "159317331667052650650",
+      "missingAttestationSlots": [],
+      "ethEarned": "4232766364523",
+      "consensusIncome": "2389496000000000",
+      "bonusEthEarned": "6575123928679",
+      "effectiveCommission": "138718019754230077"
+    },
+    "0x7255882c03a9ac25ce12fab71a3bc0015030b3ab": {
+      "pubkey": "97d82a2008852e63565de6c7c5b45a0c98c3aac35554a061b9f1c30335fea53b84b2abdd86d9bb614b1e7b3c2097d93b",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "147624018706029194550",
+      "missingAttestationSlots": [],
+      "ethEarned": "3922096701195",
+      "consensusIncome": "4450162000000000",
+      "bonusEthEarned": "7463239105446",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x72a83537d4d27d8344743683c725bd3e4eba7175": {
+      "pubkey": "862d6f00a9d7de5c2c61bafd722efa67f912c7c13deba96354a2fd245cf395cf070d73d22bbb2cb4d8a3afb29987d419",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "147624018706029194550",
+      "missingAttestationSlots": [],
+      "ethEarned": "3922096701195",
+      "consensusIncome": "4439816000000000",
+      "bonusEthEarned": "7445888125463",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x74dfb2cf98cafd9fd44cda662379378b73b6390f": {
+      "pubkey": "aa359629eb703885d0ea3254d9709b97f7ab0070137efacc266e2fcc01b2addfb7b931898127189613c481eec42afc45",
+      "successfulAttestations": 449,
+      "missedAttestations": 1,
+      "attestationScore": "147295965331126907451",
+      "missingAttestationSlots": [
+        359187
+      ],
+      "ethEarned": "3913380930748",
+      "consensusIncome": "4421196000000000",
+      "bonusEthEarned": "7414661057292",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x75666df7efb296eec3f3dc49aa423d0293c44714": {
+      "pubkey": "8a57a40046ed1377ba848f0b7d19df4c207cd46e348f2feda414d9a1ea2597e81229dd2336a1ec2deb345badc020046d",
+      "successfulAttestations": 449,
+      "missedAttestations": 1,
+      "attestationScore": "147295965331126907451",
+      "missingAttestationSlots": [
+        358692
+      ],
+      "ethEarned": "3913380930748",
+      "consensusIncome": "4424063000000000",
+      "bonusEthEarned": "7419469220796",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x764f443ab4072e067bf5c9b05045149f60679b20": {
+      "pubkey": "b31b736c769d80aac32b06958e4412d9621005d50812f19d5580f7e8b53b0730465b56369c6563bfd7a8aff6f4d2ccb8",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "147624018706029194550",
+      "missingAttestationSlots": [],
+      "ethEarned": "3922096701195",
+      "consensusIncome": "4475674000000000",
+      "bonusEthEarned": "7506024549225",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x78347be5b48af16753d857794bace46236422551": {
+      "pubkey": "b16a9e01db30b27062ae3ca9fd23e494ef3fa69b97fe54c08b2a3503a4f0ad596117dde45546ca4547a3d4a4d7941ed6",
+      "successfulAttestations": 448,
+      "missedAttestations": 2,
+      "attestationScore": "146967911956224620352",
+      "missingAttestationSlots": [
+        358698,
+        359192
+      ],
+      "ethEarned": "3904665160301",
+      "consensusIncome": "4461083000000000",
+      "bonusEthEarned": "7481554401444",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x787bd273cf55d1b401979994e340313fb4027ee2": {
+      "pubkey": "a9642a02f6521001f451133235375b6ba0de53bc9a64990f5e9a848c62ddc6924a24b14467e0155dffa18d1f1254336b",
+      "successfulAttestations": 449,
+      "missedAttestations": 1,
+      "attestationScore": "147295965331126907451",
+      "missingAttestationSlots": [
+        358694
+      ],
+      "ethEarned": "3913380930748",
+      "consensusIncome": "4444082000000000",
+      "bonusEthEarned": "7453042511758",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x78ae1826ffeea9dc7e605dc1cc294dacef98e7aa": {
+      "pubkey": "8a1ba8177c4d7164ab999fc22b22e4b4c126c14224b587bb63f0ebbbfa8e66043237dbdf748f23aeced213e43dbe14fb",
+      "successfulAttestations": 449,
+      "missedAttestations": 1,
+      "attestationScore": "147295965331126907451",
+      "missingAttestationSlots": [
+        359187
+      ],
+      "ethEarned": "3913380930748",
+      "consensusIncome": "4446521000000000",
+      "bonusEthEarned": "7457132888732",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x7a631e1d0ae80633ae3a000585cf74d157a51da9": {
+      "pubkey": "b3998a73299699515aa8b7bed4c55d5a2914e8c6ac26ee6bb45555ce7c179c0114a35ffbd9b044ad2bbbd28bbc5d173c",
+      "successfulAttestations": 449,
+      "missedAttestations": 1,
+      "attestationScore": "147295965331126907451",
+      "missingAttestationSlots": [
+        359188
+      ],
+      "ethEarned": "3913380930748",
+      "consensusIncome": "4438977000000000",
+      "bonusEthEarned": "7444481062617",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x7c98169d594d0f349b46bf38b1378eef6b4a6133": {
+      "pubkey": "a3235fbee70fc897403fe69b76973ae56ce17fc864bacd4e86ffb59d825ca987b784fc721f842ce8dbf927cf31f959f8",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "147624018706029194550",
+      "missingAttestationSlots": [],
+      "ethEarned": "3922096701195",
+      "consensusIncome": "4455843000000000",
+      "bonusEthEarned": "7472766547674",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x7d2de3179c2c64e15f478854fe1b58a6dc5de3ae": {
+      "pubkey": "a3cf26a03c99f68fea5662bdff9fcdfbd2c1a6354e210c41eecc3c5f71a5a5bff159b9d62ff99cbe62746bbf924c0ab5",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "159317331667052650650",
+      "missingAttestationSlots": [],
+      "ethEarned": "4232766364523",
+      "consensusIncome": "4466878000000000",
+      "bonusEthEarned": "12291410583777",
+      "effectiveCommission": "138718019754230077"
+    },
+    "0x8127f9aa2fc4f88380fe0d7ae647578f8c520e38": {
+      "pubkey": "a63742e41f82b4a598d4dc64d16dccfe1a689b5d536ae6b0d12f189344a4f0e6eb30f68b1cf52f584ca9c489bbb7002a",
+      "successfulAttestations": 449,
+      "missedAttestations": 1,
+      "attestationScore": "147295965331126907451",
+      "missingAttestationSlots": [
+        358698
+      ],
+      "ethEarned": "3913380930748",
+      "consensusIncome": "4439968000000000",
+      "bonusEthEarned": "7446143040305",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x81794f134e297efc5d16b1beb6ababbfc4e43510": {
+      "pubkey": "9014083b6c48b532eb808e289aaf8266bb51dab65dfeee5cf2b817ef9ab1e084de00d97cc236edf393fe5467c59480f5",
+      "successfulAttestations": 449,
+      "missedAttestations": 1,
+      "attestationScore": "147295965331126907451",
+      "missingAttestationSlots": [
+        358695
+      ],
+      "ethEarned": "3913380930748",
+      "consensusIncome": "4439150000000000",
+      "bonusEthEarned": "7444771195957",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x8257624e455884af96f5e0b9522da3864fb49b39": {
+      "pubkey": "81da82cc268d9503f7ee0dbdf59269ed0225fb32b257f1936f935558a4327a984cdd827f5b2c7b45d446cc8bcd8f0ef4",
+      "successfulAttestations": 449,
+      "missedAttestations": 1,
+      "attestationScore": "147295965331126907451",
+      "missingAttestationSlots": [
+        359186
+      ],
+      "ethEarned": "3913380930748",
+      "consensusIncome": "4474622000000000",
+      "bonusEthEarned": "7504260270186",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x8487575de6e8611dd3b6433ea1cfcbd61e08a6f9": {
+      "pubkey": "854d1bfd9de37ca23f853253dc90359da017f665d31a3d2d4e4667d19bfa350bd259a6b65912cb013dc879ae9ccfda03",
+      "successfulAttestations": 449,
+      "missedAttestations": 1,
+      "attestationScore": "147295965331126907451",
+      "missingAttestationSlots": [
+        358699
+      ],
+      "ethEarned": "3913380930748",
+      "consensusIncome": "4459543000000000",
+      "bonusEthEarned": "7478971711596",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x84f2e8d32b373cc02c08eeff61c0c26d745b1b44": {
+      "pubkey": "b8387fabf0dd1e696c66f46903fad1cc3a014e5c370af55e77a445bd6da9eeaa0aff89fe99d0ac8e708a1cf53a3ec60f",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "147624018706029194550",
+      "missingAttestationSlots": [],
+      "ethEarned": "3922096701195",
+      "consensusIncome": "4460166000000000",
+      "bonusEthEarned": "7480016527035",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x851157a74838df788298e72406816176009056f4": {
+      "pubkey": "9a00ad5d6cab467610d7aa7bccb7531c10caf38819394a9fe91a3da2db589c61b0d5233e7aa1f97f40f8d00b0492c310",
+      "successfulAttestations": 430,
+      "missedAttestations": 20,
+      "attestationScore": "152650000000000000000",
+      "missingAttestationSlots": [
+        362620,
+        362643,
+        362675,
+        362688,
+        362740,
+        362770,
+        362786,
+        362846,
+        362860,
+        362894,
+        362937,
+        362973,
+        362980,
+        363027,
+        363056,
+        363098,
+        363126,
+        363153,
+        363173,
+        363220
+      ],
+      "ethEarned": "4055627713466",
+      "consensusIncome": "2513642000000000",
+      "bonusEthEarned": "7016680945897",
+      "effectiveCommission": "140000000000000000"
+    },
+    "0x8545102093fa68378f8c823a9f1d78e287a29155": {
+      "pubkey": "91b4e88cb2be846872cdc2f349864ae996587d723f98af442747353205ab5e8c2aa1a5dfd81d3205fa571ea0bd5b1ada",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "147624018706029194550",
+      "missingAttestationSlots": [],
+      "ethEarned": "3922096701195",
+      "consensusIncome": "4442223000000000",
+      "bonusEthEarned": "7449924836155",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x879637e6373870af5b1a4b06247268d1acfeb4fb": {
+      "pubkey": "82323cbd35392d39e13a9a5e1778a8d5b5a0f54334542735b658a6f24949b8adc7aefce22eb0ec83b502c6ef62ac258e",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "147624018706029194550",
+      "missingAttestationSlots": [],
+      "ethEarned": "3922096701195",
+      "consensusIncome": "4445277000000000",
+      "bonusEthEarned": "7455046611998",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x89481fac1723b16264038fd266da23d697c688f1": {
+      "pubkey": "ada5c8fefcad790cd5513b0adab27edc2bb7f6ed67c51ba4b656dbc6ec4c504a0a41a705d3ce9d1ae5e7f38465c070f2",
+      "successfulAttestations": 449,
+      "missedAttestations": 1,
+      "attestationScore": "147295965331126907451",
+      "missingAttestationSlots": [
+        358695
+      ],
+      "ethEarned": "3913380930748",
+      "consensusIncome": "4429335000000000",
+      "bonusEthEarned": "7428310740850",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x89705b91d435f189b92bd056b36b7495e642a44c": {
+      "pubkey": "aea2a0ed3d359d92f5a0efc9aeb7e82eb98c54050f51092cc1d0f3738a0a72ecca88d5d4fc1ececc59e35326a9364708",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "147624018706029194550",
+      "missingAttestationSlots": [],
+      "ethEarned": "3922096701195",
+      "consensusIncome": "4486101000000000",
+      "bonusEthEarned": "7523511371986",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x8b2682c5aeb9ccb7cceb64339d158a508ccbb7cf": {
+      "pubkey": "b9c51a79c40e31cc9b1f05e86073ce6512fd3b11f1525ad33e21adfb1bc4405f94d672b533f1087a809b759ebc63b495",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "147624018706029194550",
+      "missingAttestationSlots": [],
+      "ethEarned": "3922096701195",
+      "consensusIncome": "4469720000000000",
+      "bonusEthEarned": "7496039266524",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x8bb82cbf8960dfa88844c50170d128333d24a0d6": {
+      "pubkey": "b8535305c4c9920748c97ca7a5c8542a4e7a7a86a060a990622e0b263339e9366355aa692dad9a2a43b0c2a81ebbe58e",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "147624018706029194550",
+      "missingAttestationSlots": [],
+      "ethEarned": "3922096701195",
+      "consensusIncome": "49237073000000000",
+      "bonusEthEarned": "82574083516809",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x8c2092134e9e494b001f85177a4c73541838ddcd": {
+      "pubkey": "a7a6426fcd002bb9934eda7a8daae237c453e759f95e3ae4a7c56191762cad2510db4abe6d02c0c8f99521418a55cce3",
+      "successfulAttestations": 449,
+      "missedAttestations": 1,
+      "attestationScore": "147295965331126907451",
+      "missingAttestationSlots": [
+        359186
+      ],
+      "ethEarned": "3913380930748",
+      "consensusIncome": "4447391000000000",
+      "bonusEthEarned": "7458591940790",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x8c21963af81629857cbccb39f87a45ab2d63fef7": {
+      "pubkey": "885d9f158bd56c8d364e641c60563adff6ef4a61f47499c1aa4e6edb068bf99749d677f703d1851222efbccd9ab5c342",
+      "successfulAttestations": 449,
+      "missedAttestations": 1,
+      "attestationScore": "147295965331126907451",
+      "missingAttestationSlots": [
+        359186
+      ],
+      "ethEarned": "3913380930748",
+      "consensusIncome": "4462396000000000",
+      "bonusEthEarned": "7483756396101",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x8c6e719b8f7745d46807bd60f0cffed7a8f2e724": {
+      "pubkey": "a330675df36747dacd6c6fca4372005305efbb45129d27087cab011806e394c2fd9aa9b30dfe4b8e77d73438de74ee74",
+      "successfulAttestations": 448,
+      "missedAttestations": 2,
+      "attestationScore": "146967911956224620352",
+      "missingAttestationSlots": [
+        358699,
+        359187
+      ],
+      "ethEarned": "3904665160301",
+      "consensusIncome": "4411745000000000",
+      "bonusEthEarned": "7398811056149",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x8d0a72511e1151f308dd44d9c2fa9fa5353984d5": {
+      "pubkey": "91d0eebb3ab6044e87a3b3a434b1602810caf4b228375c3026176982e13edd6e7c3518e04d3987abd6e83c36a043a291",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "146250000000000000000",
+      "missingAttestationSlots": [],
+      "ethEarned": "3885591569567",
+      "consensusIncome": "4466181000000000",
+      "bonusEthEarned": "6926153614650",
+      "effectiveCommission": "100000000000000000"
+    },
+    "0x8dcf1112cfd9badaf5b9f68770374c4b05734888": {
+      "pubkey": "8eb45971dbf8de6ad0dfc0bc0db9719f8a3cd69d1aec0df70e619838cc90638a3bb9fee2aa2b90d7a5c680a524d5e634",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "147624018706029194550",
+      "missingAttestationSlots": [],
+      "ethEarned": "3922096701195",
+      "consensusIncome": "4467433000000000",
+      "bonusEthEarned": "7492203804392",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x8eedf520052d105fae9e1992320eeb0afac0d514": {
+      "pubkey": "a188d3806fb646e0e45258f4c01c09ab958c3e379251f2d215e200168bd1b06fbb6b98a696ebf9cef07c7ad46d597036",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "147624018706029194550",
+      "missingAttestationSlots": [],
+      "ethEarned": "3922096701195",
+      "consensusIncome": "4491000000000000",
+      "bonusEthEarned": "7531727344433",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x8ef345649cb9425b8573e587136986c2c6d688f3": {
+      "pubkey": "ac02eaa8bc6bee6a87f9ea7d116c08b2ac314abfa5c4755f8ff565fb595b153ba4e79f0ad670685e59dad846092b907d",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "147624018706029194550",
+      "missingAttestationSlots": [],
+      "ethEarned": "3922096701195",
+      "consensusIncome": "4468568000000000",
+      "bonusEthEarned": "7494107280352",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x91a99e6e6fd18e94d707cde290c240ea43c5a10e": {
+      "pubkey": "84aa6946ea8949abe7760d1bc154d60bfa242c9975f7266263612c0568a9ae507306ed5d0bc5aa91814358f91c613f54",
+      "successfulAttestations": 449,
+      "missedAttestations": 1,
+      "attestationScore": "147295965331126907451",
+      "missingAttestationSlots": [
+        359189
+      ],
+      "ethEarned": "3913380930748",
+      "consensusIncome": "4458751000000000",
+      "bonusEthEarned": "7477643471102",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x92218447dee3fcace632f85932c1a446835fcaac": {
+      "pubkey": "b72dbf39167feeacf1c487c30cb16088a2ff5e689bc37f2f5b120df4482326807c9bd21d612ecdf98154771d7801a65a",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "147624018706029194550",
+      "missingAttestationSlots": [],
+      "ethEarned": "3922096701195",
+      "consensusIncome": "4473234000000000",
+      "bonusEthEarned": "7501932495179",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x92b94dface6d883a0f54d1e0bd0bdff4dd2e1740": {
+      "pubkey": "b0a63f666ea1d848975ecddf951996d5cb4688816235c8754016e9daa9aaca9fe075fdaddd6cb803b1e386ea045aa608",
+      "successfulAttestations": 449,
+      "missedAttestations": 1,
+      "attestationScore": "147295965331126907451",
+      "missingAttestationSlots": [
+        359184
+      ],
+      "ethEarned": "3913380930748",
+      "consensusIncome": "4448326000000000",
+      "bonusEthEarned": "7460160002484",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x9399684247817a0a10d1cb692f611e15decc5297": {
+      "pubkey": "b7a41826de2b0a334c372fed0709b1b6491b9965b4a61a2bb6046884fa745961c01b9d5763d07a8ae0e919dc0dc63041",
+      "successfulAttestations": 449,
+      "missedAttestations": 1,
+      "attestationScore": "147295965331126907451",
+      "missingAttestationSlots": [
+        358691
+      ],
+      "ethEarned": "3913380930748",
+      "consensusIncome": "4457090000000000",
+      "bonusEthEarned": "7474857855623",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x93e57f195f659e8bccba34962743909f3d3ee664": {
+      "pubkey": "af844c97ef90cb6ef32e4335a90b85b4e171648f45c4a4e91901051a2d67ea482322d82a882cdbbf9c29851835c1cb9d",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "159750000000000000000",
+      "missingAttestationSlots": [],
+      "ethEarned": "4244261560604",
+      "consensusIncome": "4474731000000000",
+      "bonusEthEarned": "12490943318784",
+      "effectiveCommission": "140000000000000000"
+    },
+    "0x94b5c844aca59cb211a04be073d7c13da4a642ed": {
+      "pubkey": "a62256cb7300b699f57c6b47459970c3a53699907427659c21325d9899648f3b9478b9617c0aa973a9f2d1612fdf167a",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "146250000000000000000",
+      "missingAttestationSlots": [],
+      "ethEarned": "3885591569567",
+      "consensusIncome": "4468134000000000",
+      "bonusEthEarned": "6929182327103",
+      "effectiveCommission": "100000000000000000"
+    },
+    "0x95d362b008ac48b116ee192ff515d43547776bfe": {
+      "pubkey": "b194b87de4917b4f950211704e668d9b664ffe6f5183dcc83e25a96562db6cf8d8b05ed585b5b40714cd83086acafb5b",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "147624018706029194550",
+      "missingAttestationSlots": [],
+      "ethEarned": "3922096701195",
+      "consensusIncome": "4470667000000000",
+      "bonusEthEarned": "7497627453074",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x967dd2e0c12f93e996be7ccdfd39796045224e2b": {
+      "pubkey": "ad66c454481502f2c82bf5863e4bd620627276929e50016c7d90b7c0229365af822c0fba5407f4094d9c4b758686881d",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "146250000000000000000",
+      "missingAttestationSlots": [],
+      "ethEarned": "3885591569567",
+      "consensusIncome": "4473721000000000",
+      "bonusEthEarned": "6937846646853",
+      "effectiveCommission": "100000000000000000"
+    },
+    "0x96e7e3aa3160e1efdc03898218cdda28a16ee12d": {
+      "pubkey": "883c745c0305cca84275b985ef5c92fe9bab18686ab291c3a070245e77b2fdef2d58ee374695dfb310d6e39de1088bf2",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "147624018706029194550",
+      "missingAttestationSlots": [],
+      "ethEarned": "3922096701195",
+      "consensusIncome": "4439748000000000",
+      "bonusEthEarned": "7445774084612",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x972ccd0b7be89e3c5b2cc94c06e7def958f9a66a": {
+      "pubkey": "a4c4fdf8b0236e282db1f895dcce5afcd69959e06d4b0c1c5e4f193c9542cb6c63411615c5bf70fba1fa3540792c711c",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "147624018706029194550",
+      "missingAttestationSlots": [],
+      "ethEarned": "3922096701195",
+      "consensusIncome": "2368668000000000",
+      "bonusEthEarned": "3972425193828",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x974078b2f49126581b817cea453f4ad86cebc2c6": {
+      "pubkey": "a57f19cf4b4f46ae1a4839a9fd522068038a76bc7a0dbb46023f73df1c3db991d273cc5435aa683202e913cd03184178",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "147624018706029194550",
+      "missingAttestationSlots": [],
+      "ethEarned": "3922096701195",
+      "consensusIncome": "4481107000000000",
+      "bonusEthEarned": "7515136077763",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x9925908475ab8114d86a7770afbdfbc6a9030e0f": {
+      "pubkey": "b935379f06463701e88d358c902c1a94f0dbfe225696b6c66b8297d1d76830f5afe83e21115c10d9ed7777b0b967d073",
+      "successfulAttestations": 449,
+      "missedAttestations": 1,
+      "attestationScore": "147295965331126907451",
+      "missingAttestationSlots": [
+        359187
+      ],
+      "ethEarned": "3913380930748",
+      "consensusIncome": "4411615000000000",
+      "bonusEthEarned": "7398593036877",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x996722340e65eeb50163dccd41a9e3f5387e6d90": {
+      "pubkey": "8285f391dacd956357423d91374205301aaef41b5be44f97c3a169e8d78960083446ba3b4f605dbc2ed4aab988d4dc89",
+      "successfulAttestations": 448,
+      "missedAttestations": 2,
+      "attestationScore": "146967911956224620352",
+      "missingAttestationSlots": [
+        358696,
+        359184
+      ],
+      "ethEarned": "3904665160301",
+      "consensusIncome": "2346863000000000",
+      "bonusEthEarned": "3935856653471",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x9a3b070936f9998786bf3086f3ad74a03d01b9b9": {
+      "pubkey": "b592c8f6b1b586a13d6a92a479e3b5e0675b46b9a565055fae9236e80de995ab648fde2fc9ec31debf239898bdbb2a58",
+      "successfulAttestations": 449,
+      "missedAttestations": 1,
+      "attestationScore": "147295965331126907451",
+      "missingAttestationSlots": [
+        359188
+      ],
+      "ethEarned": "3913380930748",
+      "consensusIncome": "4463562000000000",
+      "bonusEthEarned": "7485711861272",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x9a70f3b397ea3f17cce4f4008b39b7215c65744e": {
+      "pubkey": "9233b8cc1643a6f18beecb39def55996b51cc725f02d47c02837baa84d450699306c7e705c7407bcba95377484b97383",
+      "successfulAttestations": 449,
+      "missedAttestations": 1,
+      "attestationScore": "147295965331126907451",
+      "missingAttestationSlots": [
+        359188
+      ],
+      "ethEarned": "3913380930748",
+      "consensusIncome": "4458261000000000",
+      "bonusEthEarned": "7476821706150",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x9b158e131cc229684e938bcf4e6db5adbefe0fff": {
+      "pubkey": "88980f5e3483aae12758f3988bfff6747531b29a2105de5c0f93277e8beb536efb450343f3f94a3cb4b93f6e80c4e7a2",
+      "successfulAttestations": 449,
+      "missedAttestations": 1,
+      "attestationScore": "145925000000000000000",
+      "missingAttestationSlots": [
+        363533
+      ],
+      "ethEarned": "3876956921635",
+      "consensusIncome": "4453653000000000",
+      "bonusEthEarned": "6906725191914",
+      "effectiveCommission": "100000000000000000"
+    },
+    "0x9b45e1b353050464e8b9bae14e85a513a594a220": {
+      "pubkey": "85b9e39bb03a72429ae0ed17012c8113f3801df96c667b0c8b4aeb0347da2bb41ecebb0de43d07828bb24d654e3474d8",
+      "successfulAttestations": 449,
+      "missedAttestations": 1,
+      "attestationScore": "147295965331126907451",
+      "missingAttestationSlots": [
+        359190
+      ],
+      "ethEarned": "3913380930748",
+      "consensusIncome": "4453556000000000",
+      "bonusEthEarned": "7468931085541",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x9b687ffa89e49744f037dd40e0a0a2fd8d9baa2f": {
+      "pubkey": "997da95d07d3a1b8663248296cc16bcd6ff07d1dab2393475fbb8a2929384fe33094b73af8f0bd1c561b1e5bab09fc75",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "147624018706029194550",
+      "missingAttestationSlots": [],
+      "ethEarned": "3922096701195",
+      "consensusIncome": "4469035000000000",
+      "bonusEthEarned": "7494890472663",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x9d3f4efd1669060a6d0b1cfa544e0a6fb34f9075": {
+      "pubkey": "a46f53ee43e21d733871af717bb44cd3a120fa1c24770d9df7a8763283711f53d566f2a32fffd8ee0ab25de584c8024b",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "147624018706029194550",
+      "missingAttestationSlots": [],
+      "ethEarned": "3922096701195",
+      "consensusIncome": "4470089000000000",
+      "bonusEthEarned": "7496658105845",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0x9ee8fcf7d9345fb2ff6510405527db2940c10f04": {
+      "pubkey": "b83985b0a925fe48f42a570aa223a14252cb8dedee9a81198fd9684e95f4ea5c0a21362a607ffa7cef320cfd3c363a00",
+      "successfulAttestations": 449,
+      "missedAttestations": 1,
+      "attestationScore": "147295965331126907451",
+      "missingAttestationSlots": [
+        358692
+      ],
+      "ethEarned": "3913380930748",
+      "consensusIncome": "4457964000000000",
+      "bonusEthEarned": "7476323615965",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0xa0ad1f464c7fe55aacd386ae9aaef34fac50f9b5": {
+      "pubkey": "956f72b5ac7a56aef84f6218da300dc66a890e61c420870c6dd34ef88c3d6ce33268cd9d66a649ce0378e0cccfb64013",
+      "successfulAttestations": 449,
+      "missedAttestations": 1,
+      "attestationScore": "147295965331126907451",
+      "missingAttestationSlots": [
+        359188
+      ],
+      "ethEarned": "3913380930748",
+      "consensusIncome": "4459686000000000",
+      "bonusEthEarned": "7479211532796",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0xa109ba8263126159e3d585c44690988b1985d5e1": {
+      "pubkey": "99fe2ec90680dcabe1fb9ea6d690d9f7c42ff358e25c35bda7e495bbaf2e1a69889c298e973887d4cbdb90b739034ebd",
+      "successfulAttestations": 449,
+      "missedAttestations": 1,
+      "attestationScore": "147295965331126907451",
+      "missingAttestationSlots": [
+        359186
+      ],
+      "ethEarned": "3913380930748",
+      "consensusIncome": "4442043000000000",
+      "bonusEthEarned": "7449622963315",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0xa2a657f8bb8b979fdf0317df018418ec6287c9f5": {
+      "pubkey": "8ae6d3b8a6efaec25f416ef2206214a18eeada6bfa596abc845a14b5150aac72517b4e94e498c8578d7b13f6c7830ad0",
+      "successfulAttestations": 449,
+      "missedAttestations": 1,
+      "attestationScore": "145925000000000000000",
+      "missingAttestationSlots": [
+        366277
+      ],
+      "ethEarned": "3876956921635",
+      "consensusIncome": "4466010000000000",
+      "bonusEthEarned": "6925888427846",
+      "effectiveCommission": "100000000000000000"
+    },
+    "0xa381cb2b6d4bb6a2cf8c4f39ae0889171324a7cc": {
+      "pubkey": "8ca8b67a3b1474e387cce21f4c871539bae42fe111e267c6edb275a177431fd254b9fc9995b91f660fec9c6a041b7046",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "147624018706029194550",
+      "missingAttestationSlots": [],
+      "ethEarned": "3922096701195",
+      "consensusIncome": "4456427000000000",
+      "bonusEthEarned": "7473745957331",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0xa3a257dee08c57d9d082af4f70c48f524dc6885f": {
+      "pubkey": "b842bfc0bcd91ce7b04a9240c2d67684bf5dd775b39b7ccb01c2bcde4b539be48aa794cbbe44a07ad2341f3618940c1d",
+      "successfulAttestations": 449,
+      "missedAttestations": 1,
+      "attestationScore": "147295965331126907451",
+      "missingAttestationSlots": [
+        359189
+      ],
+      "ethEarned": "3913380930748",
+      "consensusIncome": "4456528000000000",
+      "bonusEthEarned": "7473915341535",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0xa3b4d8b100192272b4f4e47de9c749452f6e2b04": {
+      "pubkey": "a111ab791318b15b1aa99b0faf7d7c0f79cc087d2ddb654b155a773266d4d862ff359c17cc74fca1538bb4fc5f7fec39",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "147624018706029194550",
+      "missingAttestationSlots": [],
+      "ethEarned": "3922096701195",
+      "consensusIncome": "4491816000000000",
+      "bonusEthEarned": "7533095834639",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0xa3dc6d4b55ac03c9332a156ca50db008e39ce137": {
+      "pubkey": "86c58ba5aa18197348d6fe9e96e5df6cd7d63b55ba6514dc0f521d078a6b665924405a03293ce99cadd7118942f6835b",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "147624018706029194550",
+      "missingAttestationSlots": [],
+      "ethEarned": "3922096701195",
+      "consensusIncome": "4441415000000000",
+      "bonusEthEarned": "7448569762520",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0xa41309b578a1211d58e3c649a567e50513b7e7b3": {
+      "pubkey": "aa493d89b20b96cda62f9ea8d2b62a09b8437a5b5624e504f073d643f35d26067f96f441501a67fec2240b030416ce12",
+      "successfulAttestations": 448,
+      "missedAttestations": 2,
+      "attestationScore": "146967911956224620352",
+      "missingAttestationSlots": [
+        358691,
+        359184
+      ],
+      "ethEarned": "3904665160301",
+      "consensusIncome": "4434833000000000",
+      "bonusEthEarned": "7437531279024",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0xa5cbfc0e22fd2d5af6e1f82cc3cb2b87d32c569a": {
+      "pubkey": "b6683640be8cc92b6fb11bd0d5f9dd49afc123ef2fc576f0f58b8d73928d5f3e0de045991274ee3e28e1ecd2d92cc487",
+      "successfulAttestations": 449,
+      "missedAttestations": 1,
+      "attestationScore": "147295965331126907451",
+      "missingAttestationSlots": [
+        359187
+      ],
+      "ethEarned": "3913380930748",
+      "consensusIncome": "4459494000000000",
+      "bonusEthEarned": "7478889535101",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0xa5e09636345a3c8fea568dd99f05149cfecbc132": {
+      "pubkey": "ad9e8d0912b13751830085eac570927d6a6f6427044cefdd67102318ffef755936fcd704a1c61e1c664f504cabb16513",
+      "successfulAttestations": 449,
+      "missedAttestations": 1,
+      "attestationScore": "147295965331126907451",
+      "missingAttestationSlots": [
+        358693
+      ],
+      "ethEarned": "3913380930748",
+      "consensusIncome": "4447015000000000",
+      "bonusEthEarned": "7457961361970",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0xa62f2bcf55859a944a1da1a4e89f04a90bf11336": {
+      "pubkey": "b769ccc9e37feec4e542a0381c10f43c6a283e37ef52794e4d3bcf313565c221a0916630f7bdc806950ed849f9e31f99",
+      "successfulAttestations": 449,
+      "missedAttestations": 1,
+      "attestationScore": "147295965331126907451",
+      "missingAttestationSlots": [
+        358698
+      ],
+      "ethEarned": "3913380930748",
+      "consensusIncome": "4433833000000000",
+      "bonusEthEarned": "7435854207693",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0xa65292f7d4282a18f976a4829bb8ce1784333fb1": {
+      "pubkey": "93f4d3fda935f3482652356232bb9e38f17a7637203ad47201b2595fa999b531126b336fc2bc71e7153bf378ba3994a1",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "147624018706029194550",
+      "missingAttestationSlots": [],
+      "ethEarned": "3922096701195",
+      "consensusIncome": "2386027000000000",
+      "bonusEthEarned": "4001537475051",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0xa6f10389579e85b6d0a1a6e4e6acb0ddd1037081": {
+      "pubkey": "a78f3e35b10de21bbdc2171e4f65ad41874240025859eb1a820ec8f1e762bc17a66e3a92b7c92846c7c3013ecad0327c",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "147624018706029194550",
+      "missingAttestationSlots": [],
+      "ethEarned": "3922096701195",
+      "consensusIncome": "4488292000000000",
+      "bonusEthEarned": "7527185835271",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0xa749285e7782e666af74bb6d0a9664726996ba60": {
+      "pubkey": "b69fb5e740255793a571d68eaef108f2e7a5c3b50e2d439b7393f0066ba186cf4664bf430923423731ca3dc0ee1bf819",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "147624018706029194550",
+      "missingAttestationSlots": [],
+      "ethEarned": "3922096701195",
+      "consensusIncome": "4487437000000000",
+      "bonusEthEarned": "7525751939284",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0xa7f53b11ce0dd8955e65e0d9a71b7305d4d3c7a3": {
+      "pubkey": "9239b25d448abfbe00bf4a9e842f1963e368837e349f2ea43dfeba14a5d4f5961e55fdbd54db62bebc10f93c61ecd4ca",
+      "successfulAttestations": 449,
+      "missedAttestations": 1,
+      "attestationScore": "147295965331126907451",
+      "missingAttestationSlots": [
+        359184
+      ],
+      "ethEarned": "3913380930748",
+      "consensusIncome": "4448084000000000",
+      "bonusEthEarned": "7459754151222",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0xa80993962785f7ba368735cb05331224058706ef": {
+      "pubkey": "90827076031c1afc0e2774f4f2a77238a9e23c30ab8cadf036ec1fbc44979578084abbfac7924f36bbe78ed3d5d02479",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "147624018706029194550",
+      "missingAttestationSlots": [],
+      "ethEarned": "3922096701195",
+      "consensusIncome": "4456414000000000",
+      "bonusEthEarned": "7473724155403",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0xa8b30875cd5ff3d73ec8d3163ef52ed287733179": {
+      "pubkey": "a63e4d94ac293cee5bf8fdc98cc2bbac48839f99c3432fa8736bf737330835c3f7622050848bce196f35961b543fe530",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "147624018706029194550",
+      "missingAttestationSlots": [],
+      "ethEarned": "3922096701195",
+      "consensusIncome": "4476241000000000",
+      "bonusEthEarned": "7506975448669",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0xa8d8cd1792b294adb2196b1017d505e764b27c5c": {
+      "pubkey": "b2e310afd8bbba9b3be57fabcc0f06fda01cf89758967a3403df9da6e06648b255ec485be8e806e25418776916a5662d",
+      "successfulAttestations": 449,
+      "missedAttestations": 1,
+      "attestationScore": "147295965331126907451",
+      "missingAttestationSlots": [
+        358695
+      ],
+      "ethEarned": "3913380930748",
+      "consensusIncome": "4425466000000000",
+      "bonusEthEarned": "7421822151873",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0xa98dca5a0ee3c67908836e28dcdea6ee23e755da": {
+      "pubkey": "9483b7153631f43df74971bd48fa5f34b1811f23e721b950c93e0212cb8f032d9c22da3232d38bb2b2f536fc20bad511",
+      "successfulAttestations": 449,
+      "missedAttestations": 1,
+      "attestationScore": "147295965331126907451",
+      "missingAttestationSlots": [
+        358691
+      ],
+      "ethEarned": "3913380930748",
+      "consensusIncome": "4465098000000000",
+      "bonusEthEarned": "7488287842836",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0xa9f1bcf0a621ed690b4a9c22eb7ca6e28d771150": {
+      "pubkey": "ab9fa23e449beac6c59fa5c5ffe6e80fc3cdd7603bdae2b8fccd237982da339528145a87ebedf55b80b3f2afe800e21a",
+      "successfulAttestations": 449,
+      "missedAttestations": 1,
+      "attestationScore": "147295965331126907451",
+      "missingAttestationSlots": [
+        358697
+      ],
+      "ethEarned": "3913380930748",
+      "consensusIncome": "4439562000000000",
+      "bonusEthEarned": "7445462149345",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0xacad1ce51c7702219408c66511c7532eea809cc2": {
+      "pubkey": "b423e95b609f1af0b1f8c957f65829c0e571e650a2bfa2a5c5e845ccf947b1aef8877bca746b4f6136bebd9da8ee7634",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "147624018706029194550",
+      "missingAttestationSlots": [],
+      "ethEarned": "3922096701195",
+      "consensusIncome": "4425890000000000",
+      "bonusEthEarned": "7422533230117",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0xacb58b981a7901f527c511c270622f8198f56846": {
+      "pubkey": "892604ba94cf6f6235b900488fc0e8ee03134a307634027e00e16ba3a4c113f7f829c0295473e6a29844850f4f8e5d34",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "147624018706029194550",
+      "missingAttestationSlots": [],
+      "ethEarned": "3922096701195",
+      "consensusIncome": "4452802000000000",
+      "bonusEthEarned": "7467666573758",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0xacee1cf5cf6385a48d7c775f6b7358e558a19b55": {
+      "pubkey": "a3fbe859f5c5cff4a49effe8ec42f4c9587f58e837dbc5b40b29fbc98e4cb08562ce69668eeb6b63b2ba3c5ff6375f76",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "147624018706029194550",
+      "missingAttestationSlots": [],
+      "ethEarned": "3922096701195",
+      "consensusIncome": "4464035000000000",
+      "bonusEthEarned": "7486505116012",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0xae7372282422fa585b3b06a8c80ccc726e746662": {
+      "pubkey": "b508892187cce37fa36f82b936fa3067e7e4191899c6da224d6708d7ac2de9477083c265ae063bc5445b4ced9378de2d",
+      "successfulAttestations": 449,
+      "missedAttestations": 1,
+      "attestationScore": "147295965331126907451",
+      "missingAttestationSlots": [
+        359191
+      ],
+      "ethEarned": "3913380930748",
+      "consensusIncome": "4440860000000000",
+      "bonusEthEarned": "7447638987932",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0xaf1c8de9feafffdcc9e6bb32d848c1ac48beb932": {
+      "pubkey": "869bf28807acd046524654634c3d8d0526fc951cd641069833be1efdb4398e6a43a67cb0ae30ff399097fed2f7c9a322",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "147624018706029194550",
+      "missingAttestationSlots": [],
+      "ethEarned": "3922096701195",
+      "consensusIncome": "2381504000000000",
+      "bonusEthEarned": "3993952081424",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0xaf599a36fa1d3e14045762aae49dd6045b86eedf": {
+      "pubkey": "94dda2445095fe37c92b837c13ac8b221cc91138247a7b0e6877546b2906408b4aa4399ff26976b0ecbbe52f47dd84f0",
+      "successfulAttestations": 448,
+      "missedAttestations": 2,
+      "attestationScore": "146967911956224620352",
+      "missingAttestationSlots": [
+        358693,
+        359187
+      ],
+      "ethEarned": "3904665160301",
+      "consensusIncome": "4437212000000000",
+      "bonusEthEarned": "7441521031719",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0xafdd0647f2dc2c1fe0803fa84adcfd105ffc5e39": {
+      "pubkey": "b607ed0beada0414e0bc54c43579811e0ae85ed1b624ba56184630ae4da8932cb0ac44c91e5cdff4cc61153c3e65387f",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "147624018706029194550",
+      "missingAttestationSlots": [],
+      "ethEarned": "3922096701195",
+      "consensusIncome": "4453083000000000",
+      "bonusEthEarned": "7468137830802",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0xb0c6b73a81cc0817a81fbb776b19dc5d196538e5": {
+      "pubkey": "adf2265a3460497ef20d8b15fe8facdc19bfdb90e9d2c4437d350c81cdba11c49835cd075621116ebfcb066568b6b684",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "146250000000000000000",
+      "missingAttestationSlots": [],
+      "ethEarned": "3885591569567",
+      "consensusIncome": "4461926000000000",
+      "bonusEthEarned": "6919554960536",
+      "effectiveCommission": "100000000000000000"
+    },
+    "0xb1287d1bc2489570641b5d6b76b657be64ac85cb": {
+      "pubkey": "8dfbd968d836293746362e557d98cae6172219ab4d6a562123be7276cba5df12c8187c2746b51405e01e9b6e6ea22330",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "147624018706029194550",
+      "missingAttestationSlots": [],
+      "ethEarned": "3922096701195",
+      "consensusIncome": "4458566000000000",
+      "bonusEthEarned": "7477333212906",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0xb13b33eac3775fa554a5e2a9746c99c437c54949": {
+      "pubkey": "a5cdbf8cbecae6c5e38404c97b1e3a64fcc6806fb92f5eb650753bec482dec94682b185a0f334def51c4f390f12c79a0",
+      "successfulAttestations": 448,
+      "missedAttestations": 2,
+      "attestationScore": "146967911956224620352",
+      "missingAttestationSlots": [
+        358696,
+        359190
+      ],
+      "ethEarned": "3904665160301",
+      "consensusIncome": "4407062000000000",
+      "bonusEthEarned": "7390957331110",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0xb14778ab48698b1aa361b4dc38cad3973e6ab485": {
+      "pubkey": "ad5433dbc5020c827dfbf97e54acf09b7ae18e4a18a611a1e596b8fdc5a6ffa85f483291d81c6d9acfd5acd36bcda61a",
+      "successfulAttestations": 449,
+      "missedAttestations": 1,
+      "attestationScore": "147295965331126907451",
+      "missingAttestationSlots": [
+        359192
+      ],
+      "ethEarned": "3913380930748",
+      "consensusIncome": "4444175000000000",
+      "bonusEthEarned": "7453198479392",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0xb1a299c7aec2f087ac4f2f2aecef2c311d5f70be": {
+      "pubkey": "8b51584dcecc74be1d0606b2db8a0b0aea8b360522d4ace6e00ba61abd3fbee05b67c866d4cbb3bf428d3992e771f2f4",
+      "successfulAttestations": 448,
+      "missedAttestations": 2,
+      "attestationScore": "146967911956224620352",
+      "missingAttestationSlots": [
+        358695,
+        359185
+      ],
+      "ethEarned": "3904665160301",
+      "consensusIncome": "4452809000000000",
+      "bonusEthEarned": "7467678313257",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0xb37ef529e2f158c6d3e04e2ad4a1b78a055d886b": {
+      "pubkey": "a9f3698e045aa0ba7a927eb919ccc24e27adbf9f560d5e637dd33b36f98c7d45c6f249a616792d8740bd86035d52ab46",
+      "successfulAttestations": 449,
+      "missedAttestations": 1,
+      "attestationScore": "147295965331126907451",
+      "missingAttestationSlots": [
+        359185
+      ],
+      "ethEarned": "3913380930748",
+      "consensusIncome": "4449970000000000",
+      "bonusEthEarned": "7462917107751",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0xb3a31a2205e41c9e6acd623c9647f522a6c13cdf": {
+      "pubkey": "82ea65a4a74aac757db317237029d7337c0a1ac2804ba6f2968a71d2b8eb97c19408346ccb6bb3bb6452cab338580cdc",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "157914128512470245850",
+      "missingAttestationSlots": [],
+      "ethEarned": "4195485856161",
+      "consensusIncome": "4445673000000000",
+      "bonusEthEarned": "11659776899074",
+      "effectiveCommission": "134560380777689618"
+    },
+    "0xb439211249e512978cc19ef5e34aed4b1ef9993a": {
+      "pubkey": "b407abc6504d107f0292b3ec37525efba12b7ea6f2c55881f260d9bb8592ffcb79aa3f0d8aa45984733ed9d88009b926",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "151382154403767240900",
+      "missingAttestationSlots": [],
+      "ethEarned": "4021943404678",
+      "consensusIncome": "4477096000000000",
+      "bonusEthEarned": "9054663510206",
+      "effectiveCommission": "115206383418569603"
+    },
+    "0xb48d25b70c992df330ba3d05af8b98c7c2f69284": {
+      "pubkey": "a174c4cef7ff656e570d37a9b5fafcd25122c8a03c4fca9e04238c510163792f215705e28a8e3ac1a56ab7fb92a6b8b9",
+      "successfulAttestations": 449,
+      "missedAttestations": 1,
+      "attestationScore": "147295965331126907451",
+      "missingAttestationSlots": [
+        358699
+      ],
+      "ethEarned": "3913380930748",
+      "consensusIncome": "4467757000000000",
+      "bonusEthEarned": "7492747175503",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0xb6fb3d790b2d7efeb869ca9fdcfbb13badcd810e": {
+      "pubkey": "8d3ff87558bfcbffd3e1aec34e3cec1ad2cb26573b2fb3142989f18be4e324db5c0955dc8290092ea6d1deccb14c8377",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "147624018706029194550",
+      "missingAttestationSlots": [],
+      "ethEarned": "3922096701195",
+      "consensusIncome": "4465194000000000",
+      "bonusEthEarned": "7488448841683",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0xba843afeba0509989af90d3d6c62363d61808b8d": {
+      "pubkey": "954fa882b1f1d6d02d84d4fa64efc73b22fddf76e0402a9831831fc6188983e40f0bc705e7a63f43cc2d27863f89bbd3",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "147624018706029194550",
+      "missingAttestationSlots": [],
+      "ethEarned": "3922096701195",
+      "consensusIncome": "4450649000000000",
+      "bonusEthEarned": "7464055839184",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0xbb68a5418820598f99e4a071949248933a38b32c": {
+      "pubkey": "a2a2e8a8edaad3ef4e6b113efd1a8fd6eac64e765f6b9133774d6eab72e4a3a5ef85b00c64731311b9547e8928051263",
+      "successfulAttestations": 449,
+      "missedAttestations": 1,
+      "attestationScore": "147295965331126907451",
+      "missingAttestationSlots": [
+        359191
+      ],
+      "ethEarned": "3913380930748",
+      "consensusIncome": "48714091000000000",
+      "bonusEthEarned": "81697005398339",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0xbf7794883543b4aab02d817c9228ecaee94a920b": {
+      "pubkey": "a095ed786f0f4c1822d79666f926eab3517b98494d6829750ac10f1dba608cd9d1650355a9608a18bd3a5e04c4d5a591",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "147624018706029194550",
+      "missingAttestationSlots": [],
+      "ethEarned": "3922096701195",
+      "consensusIncome": "4469601000000000",
+      "bonusEthEarned": "7495839695036",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0xc23c29d0db64d6933dd6be813afd4caad77a4927": {
+      "pubkey": "863f74f8841524f70ae3ef9ca8eed11025783e0813a7b6bf2034e2b717659273d2982ad1bfe38f8e843a13bb356de8fd",
+      "successfulAttestations": 447,
+      "missedAttestations": 3,
+      "attestationScore": "149381129284646960115",
+      "missingAttestationSlots": [
+        359136,
+        359264,
+        360608
+      ],
+      "ethEarned": "3968779874194",
+      "consensusIncome": "2325169000000000",
+      "bonusEthEarned": "4489163853602",
+      "effectiveCommission": "112247962072026727"
+    },
+    "0xc2764b04fa9708bb9789ee4b119d4cc5a0def9c3": {
+      "pubkey": "b7d3d0dd8022d5c64864c0f8df969ce8f3c42752d48fba2d3428769289e49c0844b74cf10946a7b443757a99d1f73b51",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "147624018706029194550",
+      "missingAttestationSlots": [],
+      "ethEarned": "3922096701195",
+      "consensusIncome": "4468371000000000",
+      "bonusEthEarned": "7493776897300",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0xc2d4c10a4dda163fa1dc667a85eccb27eedbe5f9": {
+      "pubkey": "8b4e45ccd679aa00f39579637fc784e445f67b697d0e756b1470244f9e42262ce5cbf8fd9810e62004f04168af2c10b7",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "147624018706029194550",
+      "missingAttestationSlots": [],
+      "ethEarned": "3922096701195",
+      "consensusIncome": "4461480000000000",
+      "bonusEthEarned": "7482220198763",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0xc579872bb4ef95b4199253ba809804f194c2f057": {
+      "pubkey": "b8dcf64d7d728e82cee356fd13ed8c630d4b5a7630ae998d47b508671079f5f8de7cfc2272d34a7b0f72cf74cb2d9f83",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "147624018706029194550",
+      "missingAttestationSlots": [],
+      "ethEarned": "3922096701195",
+      "consensusIncome": "4474689000000000",
+      "bonusEthEarned": "7504372633965",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0xc605578452a2b2f0f9723ee34e9aede766efab8b": {
+      "pubkey": "9096730ff839c6171b64779ec266ea856e52e046c39144fc93429060b2d68ca31423d1afb8bb5802ef116cbb1793697a",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "147624018706029194550",
+      "missingAttestationSlots": [],
+      "ethEarned": "3922096701195",
+      "consensusIncome": "4462282000000000",
+      "bonusEthEarned": "7483565209970",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0xc6e5f5d584d60f7c27dc599cd0b40f5a51d3ecd0": {
+      "pubkey": "ad04fe8a8e6da62b3ad2a483ace55e4805c3d72cf490646f19075da22d56e783ea13cb06c4722dc96c633a6d6e8ff087",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "147624018706029194550",
+      "missingAttestationSlots": [],
+      "ethEarned": "3922096701195",
+      "consensusIncome": "4473439000000000",
+      "bonusEthEarned": "7502276294802",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0xc6fcc645455e2aca2de580ae5d03fa7cd937bee2": {
+      "pubkey": "a240d5a8334ab76fd7f108dbcd90f2d64e2767deae00ac4cccd97bc92955bcddfe16d40e7540765473c6e1ee3fb94c8b",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "147624018706029194550",
+      "missingAttestationSlots": [],
+      "ethEarned": "3922096701195",
+      "consensusIncome": "4474117000000000",
+      "bonusEthEarned": "7503413349164",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0xc7891ff942624af289228babe886af9eb0307189": {
+      "pubkey": "8e5da383c79d5875c5399f57291e8ed0a868b2fc0475b2fce157dc3f65bad94e74918609eeda630927a1c07bb1ee3963",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "147624018706029194550",
+      "missingAttestationSlots": [],
+      "ethEarned": "3922096701195",
+      "consensusIncome": "4509203000000000",
+      "bonusEthEarned": "7562255073859",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0xc7c68877f32c0d7ceabf078733862fdf942a4be1": {
+      "pubkey": "a21bfaa6cac71d65b5c178950f53d67e31c0d83eb697e2084af083acc15f0a56e90fc99de5e17daf5106a118e6a8c003",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "147624018706029194550",
+      "missingAttestationSlots": [],
+      "ethEarned": "3922096701195",
+      "consensusIncome": "4465233000000000",
+      "bonusEthEarned": "7488514247465",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0xc7fb07ea9b382e474c80af34c4aee27c56bd8d8b": {
+      "pubkey": "ac9d29db14e3ff9b1c8356106f28ddb7b9eb21ed04e2b69f88299a86c98720a08842098844598fbb02ff4f2b5b892da2",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "146250000000000000000",
+      "missingAttestationSlots": [],
+      "ethEarned": "3885591569567",
+      "consensusIncome": "4458882000000000",
+      "bonusEthEarned": "6914834325254",
+      "effectiveCommission": "100000000000000000"
+    },
+    "0xc8b79a08b1ca0c24cea4f20f5b28cd23a796d788": {
+      "pubkey": "8a8960d9e5540d2ae083f3707f585585885dfeae012aa640bd900ee85c1ee03701988fc8e5774944a52cb788f2b95959",
+      "successfulAttestations": 449,
+      "missedAttestations": 1,
+      "attestationScore": "147295965331126907451",
+      "missingAttestationSlots": [
+        359185
+      ],
+      "ethEarned": "3913380930748",
+      "consensusIncome": "4456534000000000",
+      "bonusEthEarned": "7473925403963",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0xc9d2e8f9f4b2fe35190810366216cad7a5169df8": {
+      "pubkey": "943be5dee7e0553c808f128cd1279ca866b4b2bbfa1638e52ec8e387e5e359f111ef03b8e370e0869889eedfaa4acc6c",
+      "successfulAttestations": 260,
+      "missedAttestations": 0,
+      "attestationScore": "92300000000000000000",
+      "missingAttestationSlots": [],
+      "ethEarned": "2452240012793",
+      "consensusIncome": "901936000000000",
+      "bonusEthEarned": "2517700271406",
+      "effectiveCommission": "140000000000000000"
+    },
+    "0xc9e035e8d3572f0cdaea20c3a1e51acce1bccab1": {
+      "pubkey": "96e0a200c42fbdac68c402e08a0ad42f6f62ff08f89bb3357711867a62802d068c197af660efb0dde83245b30497d907",
+      "successfulAttestations": 449,
+      "missedAttestations": 1,
+      "attestationScore": "147295965331126907451",
+      "missingAttestationSlots": [
+        358693
+      ],
+      "ethEarned": "3913380930748",
+      "consensusIncome": "4470400000000000",
+      "bonusEthEarned": "7497179675029",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0xca1b7dc96644599bc11bc1591c5820d576699c89": {
+      "pubkey": "8ba203a4c432b312a30f41cd8edc9e2882793a37d34baed6d14415213d44c8452ffef7f8141c8a15ee5962656f7ba6d3",
+      "successfulAttestations": 449,
+      "missedAttestations": 1,
+      "attestationScore": "147295965331126907451",
+      "missingAttestationSlots": [
+        359187
+      ],
+      "ethEarned": "3913380930748",
+      "consensusIncome": "4442503000000000",
+      "bonusEthEarned": "7450394416127",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0xca360f97d8e123f1739eab19272e6b6bd3e0bba7": {
+      "pubkey": "b6c5fa289f527fb6c67206fc44a46f4df278d87668eca64ddeb081024e49e99f899fd5da6703a58f9d038a5c7e8d739d",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "151382154403767240900",
+      "missingAttestationSlots": [],
+      "ethEarned": "4021943404678",
+      "consensusIncome": "4464530000000000",
+      "bonusEthEarned": "9029249513797",
+      "effectiveCommission": "115206383418569603"
+    },
+    "0xcaa54a62c78fa459a1ac7f269587a5f92be8c041": {
+      "pubkey": "a4110fff1d6e0dc1b6c84ee25c4c2e87e8d79a0707c48b67809fa090d16dc2f900eb3360645b0e782ad4701529f1f3a7",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "147624018706029194550",
+      "missingAttestationSlots": [],
+      "ethEarned": "3922096701195",
+      "consensusIncome": "4488938000000000",
+      "bonusEthEarned": "7528269223350",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0xcb9363649b416dc29f7a5100057d0f875913d2e6": {
+      "pubkey": "b67f5bbc422ffb55e0928f15bdcac9bf98300dd9eef0b229de364529428277bcf68e6dad7b22d2a11511254a5c3046c5",
+      "successfulAttestations": 449,
+      "missedAttestations": 1,
+      "attestationScore": "147295965331126907451",
+      "missingAttestationSlots": [
+        359185
+      ],
+      "ethEarned": "3913380930748",
+      "consensusIncome": "4438700000000000",
+      "bonusEthEarned": "7444016513858",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0xcbd69a3207cf776e196b566ba3b8b67289e9c802": {
+      "pubkey": "99fdec2ac5c5846c476cf569eeb116033956ad185b9564f7bb86d6ddc0978c5ce2b04786170e6dbf0c9496059b2d5d04",
+      "successfulAttestations": 445,
+      "missedAttestations": 5,
+      "attestationScore": "148712757341538920025",
+      "missingAttestationSlots": [
+        357280,
+        362496,
+        363296,
+        367456,
+        369184
+      ],
+      "ethEarned": "3951022469835",
+      "consensusIncome": "2289373000000000",
+      "bonusEthEarned": "4420053131198",
+      "effectiveCommission": "112247962072026727"
+    },
+    "0xccce0b12fbc37e559c7ad3ff315a12e82bd7884f": {
+      "pubkey": "9474c473caa28f5164ddf9ae8f81a3dec4648940573b7483cd6e9dcd0715f2fa894fb23e79e6bf89dd75160a742d75ab",
+      "successfulAttestations": 449,
+      "missedAttestations": 1,
+      "attestationScore": "147295965331126907451",
+      "missingAttestationSlots": [
+        359186
+      ],
+      "ethEarned": "3913380930748",
+      "consensusIncome": "4459900000000000",
+      "bonusEthEarned": "7479570426061",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0xcd35a2c787c1859b41409ec8deea59230782cf5e": {
+      "pubkey": "afc1e21a157dbde8ec930f61b46f9d46cd9b005e1302e0c28c33121d301e3ab8834681bbdfc894f3aba6b2dc2d1bfce2",
+      "successfulAttestations": 449,
+      "missedAttestations": 1,
+      "attestationScore": "147295965331126907451",
+      "missingAttestationSlots": [
+        358696
+      ],
+      "ethEarned": "3913380930748",
+      "consensusIncome": "4432812000000000",
+      "bonusEthEarned": "7434141917865",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0xcd4ac848e0497f1494ec64be86264cfa9376b580": {
+      "pubkey": "8a64dbff8528ba534e34f8172df09596b4a6841ed2f5e173fbb3f788562b6f5ecb660b1cb68958e91a71892d5ab5a304",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "147624018706029194550",
+      "missingAttestationSlots": [],
+      "ethEarned": "3922096701195",
+      "consensusIncome": "4469220000000000",
+      "bonusEthEarned": "7495200730859",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0xcf029d26ef86a3719c009396ed855513c1050ecb": {
+      "pubkey": "91cc7d0872e588adf8005503a35d012abdabb0b29d8f8075ef06547c0a46d839286ebefe57438e8a22422ab6636cde9f",
+      "successfulAttestations": 449,
+      "missedAttestations": 1,
+      "attestationScore": "145925000000000000000",
+      "missingAttestationSlots": [
+        362909
+      ],
+      "ethEarned": "3876956921635",
+      "consensusIncome": "849500000000000",
+      "bonusEthEarned": "1317404622796",
+      "effectiveCommission": "100000000000000000"
+    },
+    "0xcfc0da5ec8ca4c1d6582e52af8f1f0d0b6556e11": {
+      "pubkey": "8e7d2d9b3f30743f72d0fcd175786070731bd8dedc4257587a636b6c7f4f2b843d731ef072debc95ab682bbd7f7655be",
+      "successfulAttestations": 448,
+      "missedAttestations": 2,
+      "attestationScore": "146967911956224620352",
+      "missingAttestationSlots": [
+        358698,
+        359189
+      ],
+      "ethEarned": "3904665160301",
+      "consensusIncome": "4423916000000000",
+      "bonusEthEarned": "7419222691311",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0xd007523a771ef68c3ac55e06c62bd184b3e65999": {
+      "pubkey": "a615d0ee465f9e86cf706955a8d75636a9d6df550e804743ec5d59989852e6d25d6b638c8fd9fd78e15136ddfa56af17",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "147624018706029194550",
+      "missingAttestationSlots": [],
+      "ethEarned": "3922096701195",
+      "consensusIncome": "4467763000000000",
+      "bonusEthEarned": "7492757237931",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0xd04898360ef782a315d033991054a82636350298": {
+      "pubkey": "ae77946634da18d95f2710cc7c86725e8aebffdc8c234c81421bbed0832f9e3949c6cecf78c0ad909b1a92319dfbfd44",
+      "successfulAttestations": 449,
+      "missedAttestations": 1,
+      "attestationScore": "145925000000000000000",
+      "missingAttestationSlots": [
+        360906
+      ],
+      "ethEarned": "3876956921635",
+      "consensusIncome": "2372631000000000",
+      "bonusEthEarned": "3679476218469",
+      "effectiveCommission": "100000000000000000"
+    },
+    "0xd1414c3f8f653fbaa1f9c8f3598ee3e2ba9ab20b": {
+      "pubkey": "b824f466957aba84711ad058c7d6b8c26628522ec18a1cc1ef090009be3fe42a5f1b9484919a0a8f617e49b66b872f92",
+      "successfulAttestations": 449,
+      "missedAttestations": 1,
+      "attestationScore": "147295965331126907451",
+      "missingAttestationSlots": [
+        359184
+      ],
+      "ethEarned": "3913380930748",
+      "consensusIncome": "4472311000000000",
+      "bonusEthEarned": "7500384558341",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0xd19a1448cb8371ab60b25a8d234bb7689cb59a71": {
+      "pubkey": "a3245526b8bbdee91fab9967b54337b5b22ef20e30f9c0c7922572b9c199b029b67529bf0fb84908c0d41cf05ceff924",
+      "successfulAttestations": 449,
+      "missedAttestations": 1,
+      "attestationScore": "147295965331126907451",
+      "missingAttestationSlots": [
+        359185
+      ],
+      "ethEarned": "3913380930748",
+      "consensusIncome": "4474728000000000",
+      "bonusEthEarned": "7504438039747",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0xd233b9064a9f2f349b3310e0da62c9427ccd074b": {
+      "pubkey": "a82a95ec9c71b544e6ea48f43cf52e7875a172cc325d165f5f24f9612cd81c8fcef1a031243f1c1e2f68b3bd18e54c44",
+      "successfulAttestations": 449,
+      "missedAttestations": 1,
+      "attestationScore": "147295965331126907451",
+      "missingAttestationSlots": [
+        359188
+      ],
+      "ethEarned": "3913380930748",
+      "consensusIncome": "49989046000000000",
+      "bonusEthEarned": "83835195876278",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0xd43e7142ecd2cd8bd2aebf90ad4ae66a0d39455c": {
+      "pubkey": "ac3209d671290d580ef669a51f8d01abe5dcb570b454c68176d98e0ccdee96113ffd8c5f915b24fc864f5e557c1b7ef7",
+      "successfulAttestations": 448,
+      "missedAttestations": 2,
+      "attestationScore": "146967911956224620352",
+      "missingAttestationSlots": [
+        358692,
+        359188
+      ],
+      "ethEarned": "3904665160301",
+      "consensusIncome": "4437734000000000",
+      "bonusEthEarned": "7442396462953",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0xd51ddbfc4c1e32b0b7a018476a13dcfedb4ea20b": {
+      "pubkey": "8664cb85751ac087aa6a9fdb53c9068cf39ee9e213205c604aed14a91f0bdeab5a7d65b10775689689440aa95092ad4e",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "147624018706029194550",
+      "missingAttestationSlots": [],
+      "ethEarned": "3922096701195",
+      "consensusIncome": "4475511000000000",
+      "bonusEthEarned": "7505751186598",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0xd6884dfc23d05b5bb69f70c9b47813a917cddafc": {
+      "pubkey": "884c36c4b9e80deee9fc5ef4ca9d248e55238903c7a66a797e78ec1a33bbe91e4d475ca786520d383e5191c980c93183",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "152778143609640333000",
+      "missingAttestationSlots": [],
+      "ethEarned": "4059032251786",
+      "consensusIncome": "4482331000000000",
+      "bonusEthEarned": "9640290920134",
+      "effectiveCommission": "119342647732267654"
+    },
+    "0xd6f3a3f6c8e4a38b1cd4440b724907e2873827ad": {
+      "pubkey": "8582f1cd6e2d9bb866a99276a3b1b9443e9d74a29cb06f74b7041ffeebf571414f44581a4d6c5217f84a11bebdffae1c",
+      "successfulAttestations": 449,
+      "missedAttestations": 1,
+      "attestationScore": "147295965331126907451",
+      "missingAttestationSlots": [
+        358693
+      ],
+      "ethEarned": "3913380930748",
+      "consensusIncome": "4433379000000000",
+      "bonusEthEarned": "7435092817309",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0xd81a3d20276262197388b4a547b98828c92276ad": {
+      "pubkey": "8358933f05021e4b1a7570b9214af2ae5b39c588d8a751a4632fca98ea820144e67c020964aeef301f08c8c2d8e43b46",
+      "successfulAttestations": 449,
+      "missedAttestations": 1,
+      "attestationScore": "147295965331126907451",
+      "missingAttestationSlots": [
+        359186
+      ],
+      "ethEarned": "3913380930748",
+      "consensusIncome": "4429515000000000",
+      "bonusEthEarned": "7428612613689",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0xd81f7bb643602ebb30857aefbbb406ca49920420": {
+      "pubkey": "a7cab27cf10642f5cd3ea757ba40c39e21ddde28f3c90a988275834ceaa332b8ccdf8e96de81c39445ac0a5b0cbb5f6c",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "147624018706029194550",
+      "missingAttestationSlots": [],
+      "ethEarned": "3922096701195",
+      "consensusIncome": "4472470000000000",
+      "bonusEthEarned": "7500651212683",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0xd946f22c796980bd866fade9d24496cc1ffba64c": {
+      "pubkey": "add0567eb4dd1bfaf091b3c591e82a00b84d58bcdd6505d83c48729b84189ce87f00d2ffd84147bce08bb136478c4199",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "147624018706029194550",
+      "missingAttestationSlots": [],
+      "ethEarned": "3922096701195",
+      "consensusIncome": "4457683000000000",
+      "bonusEthEarned": "7475852358921",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0xdb204f5c5fa460086d2aaa6fb3712be08579d1f2": {
+      "pubkey": "83748421d4e94874ae053d6213e79962a37dc141caaa84e771f3a61c647aa2c68d0f9b554a03fdb30cbbfebf5214f88e",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "147624018706029194550",
+      "missingAttestationSlots": [],
+      "ethEarned": "3922096701195",
+      "consensusIncome": "4478640000000000",
+      "bonusEthEarned": "7510998742791",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0xdb5034467fcca9054d7cc2ef1c97f0f20b9c4623": {
+      "pubkey": "b69ca5615ab5b0b53a8cc6b9aa8805255138111923acc53caca681723f8146f4b5f5552a5bfec63b3b89f2e379c82a47",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "147624018706029194550",
+      "missingAttestationSlots": [],
+      "ethEarned": "3922096701195",
+      "consensusIncome": "4492135000000000",
+      "bonusEthEarned": "7533630820393",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0xdb54977e3a9206bb5693e2e1d18d08cefea1f527": {
+      "pubkey": "8bdba065c08f6bacabc1102cca891ad4f31b7963d41c240a285adbe62a1b03fae57df34d0c206b7b5f5125d86994f540",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "147624018706029194550",
+      "missingAttestationSlots": [],
+      "ethEarned": "3922096701195",
+      "consensusIncome": "4466900000000000",
+      "bonusEthEarned": "7491309925373",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0xdc2f51a4fc7bd6451e2d3b8e2eae3ded162aa59a": {
+      "pubkey": "b99aab6f5df4dea4043578a44533e9567e402b8f2e84171b4ca2ce18f89834e0e0b9cf78903dcb0d24084d9c3625ff34",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "147624018706029194550",
+      "missingAttestationSlots": [],
+      "ethEarned": "3922096701195",
+      "consensusIncome": "4468761000000000",
+      "bonusEthEarned": "7494430955119",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0xdcac9d87cdb7098a87f930509f98b938c5a2c4d3": {
+      "pubkey": "8af76c490e0c5b8fbd526185013da94bce690d54d64869a774cc6c508dd18ead2b0f1f277214a5acabf31fe55a09f64c",
+      "successfulAttestations": 449,
+      "missedAttestations": 1,
+      "attestationScore": "147295965331126907451",
+      "missingAttestationSlots": [
+        359186
+      ],
+      "ethEarned": "3913380930748",
+      "consensusIncome": "4456723000000000",
+      "bonusEthEarned": "7474242370444",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0xdd7dbd6cc2d6d34b336a7fa3136abc521ad50459": {
+      "pubkey": "8eb051791d0d27d4dd0615043b296c8f1a495225a665b0c458a0917db82449fa87d9c785b0e9c74e7af6c29f1de74f9a",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "147624018706029194550",
+      "missingAttestationSlots": [],
+      "ethEarned": "3922096701195",
+      "consensusIncome": "4460116000000000",
+      "bonusEthEarned": "7479932673468",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0xddcfa6ce59dab6465a69d5962bd296ab83c1fec1": {
+      "pubkey": "89135fc334bc2f6530ac3e0c63c42a6c967625ce526aa1664530fbbbebb99d8bfe830f478103904310b1417ed3dba409",
+      "successfulAttestations": 449,
+      "missedAttestations": 1,
+      "attestationScore": "147295965331126907451",
+      "missingAttestationSlots": [
+        358699
+      ],
+      "ethEarned": "3913380930748",
+      "consensusIncome": "4446502000000000",
+      "bonusEthEarned": "7457101024377",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0xdfceceb851d9fe1ce2f385f20e15f8157bd5ec5d": {
+      "pubkey": "b46a8ba2988a8300d042fa3eca68d0093a0decd11932ed76d76971493a547e835089c1306b5d64c29b0c46ef37134fe8",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "152778143609640333000",
+      "missingAttestationSlots": [],
+      "ethEarned": "4059032251786",
+      "consensusIncome": "4477292000000000",
+      "bonusEthEarned": "9629453383605",
+      "effectiveCommission": "119342647732267654"
+    },
+    "0xe084397d6f7f446886f3a930fd6d55f59d7dae23": {
+      "pubkey": "b8b1a752e13b92698c8857cc34cf5010e299cc80e2f8f428c2373ad0d7f376cef01c794bc47a524ad25e9d9011036097",
+      "successfulAttestations": 448,
+      "missedAttestations": 2,
+      "attestationScore": "146967911956224620352",
+      "missingAttestationSlots": [
+        358696,
+        359185
+      ],
+      "ethEarned": "3904665160301",
+      "consensusIncome": "4413894000000000",
+      "bonusEthEarned": "7402415082438",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0xe323fe3c3bc09d5db9c62ce1bf0ba7fbacce0574": {
+      "pubkey": "b605d608a125b47a18b8cb0facc3c916381668801e7e1f1002933bec094939e37ddc9b53cc4ba771a8e666f5ab135719",
+      "successfulAttestations": 449,
+      "missedAttestations": 1,
+      "attestationScore": "147295965331126907451",
+      "missingAttestationSlots": [
+        359187
+      ],
+      "ethEarned": "3913380930748",
+      "consensusIncome": "4439360000000000",
+      "bonusEthEarned": "7445123380936",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0xe347b27d9ef79addef47649cd464e91eb9cae87c": {
+      "pubkey": "b7fe08c405b87f36b9e9a31cbbb6f22533d3a55a2ec0f937ebb475433f640fa79dd978e1d01421193b3e7414d5cee463",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "147624018706029194550",
+      "missingAttestationSlots": [],
+      "ethEarned": "3922096701195",
+      "consensusIncome": "4447962000000000",
+      "bonusEthEarned": "7459549548519",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0xe3c63517491bdcec0d880ad29d3b755af56dcf19": {
+      "pubkey": "930ce56b880012a3eef0c871d964a440e87f7b3c42871f261d2d70ef091693ba817f10778488c8ca7650fcc137ea5c07",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "147624018706029194550",
+      "missingAttestationSlots": [],
+      "ethEarned": "3922096701195",
+      "consensusIncome": "4450453000000000",
+      "bonusEthEarned": "7463727133203",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0xe43e445656b8d1a90e5dcb7f79108fb067734368": {
+      "pubkey": "9325e74d27e1707bd9ac11067ae3aa448d9043f31ad70e9aaee61ce38eff9977c272824325154a04e1f4ae891295cf9c",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "152778143609640333000",
+      "missingAttestationSlots": [],
+      "ethEarned": "4059032251786",
+      "consensusIncome": "4469176000000000",
+      "bonusEthEarned": "9611998045945",
+      "effectiveCommission": "119342647732267654"
+    },
+    "0xe64284941bfc799544f9cfa863dffcf7b2b51b6e": {
+      "pubkey": "86c5cdc8b05575794b871daaa84e63de1fc1c8e2b4ad5079ee7e25580574e59537a1bea216261830c0f5e094e8e7bfe1",
+      "successfulAttestations": 449,
+      "missedAttestations": 1,
+      "attestationScore": "147295965331126907451",
+      "missingAttestationSlots": [
+        358691
+      ],
+      "ethEarned": "3913380930748",
+      "consensusIncome": "4463003000000000",
+      "bonusEthEarned": "7484774378399",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0xe645d313e7b08093cdbcf6c592f8e3a0dfea633f": {
+      "pubkey": "b5f4b01bec11e3a8214f827a99587b0ca79d6a55c28c13054057c3f286a562657b348de691bb88d6550d0c9b746b09f8",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "147624018706029194550",
+      "missingAttestationSlots": [],
+      "ethEarned": "3922096701195",
+      "consensusIncome": "4478509000000000",
+      "bonusEthEarned": "7510779046446",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0xe69e4be72273134455bfe2948adaa0bc57129bfd": {
+      "pubkey": "865a1c9ef3464cf9db8b19048dc87b3d8514963358d2f0a340a1e183bb4054bf44c9463c67cb3637cb487e431c1163f1",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "147624018706029194550",
+      "missingAttestationSlots": [],
+      "ethEarned": "3922096701195",
+      "consensusIncome": "4483231000000000",
+      "bonusEthEarned": "7518698177268",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0xe7e17a067ebb95b8ca4d5d3203b3dc6da9249f22": {
+      "pubkey": "8bdbb0265e6c78978c265987a61d2f95d66fa4d60b3fab0acff1fd62ed20e055eb9c65c6538290aff5f7774f383b1445",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "147624018706029194550",
+      "missingAttestationSlots": [],
+      "ethEarned": "3922096701195",
+      "consensusIncome": "4435759000000000",
+      "bonusEthEarned": "7439084247076",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0xe94559acbabaa522ec7ad4a4b91bc72e79a89df3": {
+      "pubkey": "afe919033370e0b96baf1e7cac4c27b6ad4c199c3a05b53e1e27f89562580f278f1266c6ae2368a9212d32108f01692d",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "147624018706029194550",
+      "missingAttestationSlots": [],
+      "ethEarned": "3922096701195",
+      "consensusIncome": "4484392000000000",
+      "bonusEthEarned": "7520645257083",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0xe958c921d664ebaf71d0cd72e4cb8d706fea86af": {
+      "pubkey": "b271f86504bf90ee74773b1e34480432d9adb26a5134765137ff8f435caa5386f014ce6e2dc377814cf7a7c27e610e94",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "147624018706029194550",
+      "missingAttestationSlots": [],
+      "ethEarned": "3922096701195",
+      "consensusIncome": "4458507000000000",
+      "bonusEthEarned": "7477234265698",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0xe995b659b3b13a3a55f09e800de5052bb05fca60": {
+      "pubkey": "932e426c15e576c9c24cd3d3130d39f912c18cf6055a7aae2bda4d01d548868fe546d23a1e174eb00bec0b862c29dea2",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "147624018706029194550",
+      "missingAttestationSlots": [],
+      "ethEarned": "3922096701195",
+      "consensusIncome": "4468191000000000",
+      "bonusEthEarned": "7493475024460",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0xec97d2829c97917102d28fff324c2294dd92e003": {
+      "pubkey": "84ea85000950b6388bc25123250868f91bae7a91135412b7cc76a719eaaf22395af4affc7dc20bace43bf5178fca56eb",
+      "successfulAttestations": 222,
+      "missedAttestations": 228,
+      "attestationScore": "72150000000000000000",
+      "missingAttestationSlots": [
+        356363,
+        356395,
+        356427,
+        356463,
+        356501,
+        356524,
+        356562,
+        356585,
+        356621,
+        356647,
+        356697,
+        356711,
+        356752,
+        356779,
+        356809,
+        356839,
+        356866,
+        356919,
+        356945,
+        356981,
+        357022,
+        357043,
+        357059,
+        357102,
+        357148,
+        357159,
+        357198,
+        357238,
+        357275,
+        357289,
+        357322,
+        357345,
+        357377,
+        357426,
+        357458,
+        357477,
+        357517,
+        357564,
+        357599,
+        357610,
+        357647,
+        357692,
+        357714,
+        357748,
+        357762,
+        357800,
+        357848,
+        357879,
+        357911,
+        357932,
+        357982,
+        357996,
+        358025,
+        358057,
+        358108,
+        358119,
+        358153,
+        358176,
+        358211,
+        358271,
+        358282,
+        358309,
+        358353,
+        358398,
+        358428,
+        358458,
+        358466,
+        358516,
+        358553,
+        358571,
+        358616,
+        358633,
+        358676,
+        358715,
+        358730,
+        358782,
+        358798,
+        358845,
+        358878,
+        358888,
+        358930,
+        358962,
+        358991,
+        359029,
+        359055,
+        359080,
+        359105,
+        359165,
+        359168,
+        359216,
+        359253,
+        359270,
+        359314,
+        359354,
+        359369,
+        359407,
+        359437,
+        359460,
+        359511,
+        359545,
+        359557,
+        359595,
+        359636,
+        359672,
+        359683,
+        359732,
+        359765,
+        359781,
+        359819,
+        359869,
+        359878,
+        359921,
+        359952,
+        359999,
+        360015,
+        360035,
+        360093,
+        360097,
+        360157,
+        360180,
+        360192,
+        360226,
+        360261,
+        360312,
+        360342,
+        360368,
+        360413,
+        360424,
+        360464,
+        360495,
+        360517,
+        360551,
+        360595,
+        360638,
+        360662,
+        360674,
+        360722,
+        360758,
+        360790,
+        360810,
+        360863,
+        360895,
+        360927,
+        360941,
+        360982,
+        361008,
+        361038,
+        361076,
+        361090,
+        361126,
+        361177,
+        361203,
+        361232,
+        361248,
+        361305,
+        361333,
+        361358,
+        361378,
+        361431,
+        361456,
+        361473,
+        361509,
+        361541,
+        361592,
+        361620,
+        361650,
+        361667,
+        361700,
+        361744,
+        361775,
+        361804,
+        361853,
+        361873,
+        361899,
+        361936,
+        361961,
+        362010,
+        362035,
+        362049,
+        362099,
+        362134,
+        362159,
+        362192,
+        362235,
+        362268,
+        362299,
+        362318,
+        362367,
+        362374,
+        362431,
+        362444,
+        362479,
+        362513,
+        362539,
+        362584,
+        362604,
+        362648,
+        362685,
+        362710,
+        362735,
+        362754,
+        362808,
+        362827,
+        362879,
+        362887,
+        362937,
+        362972,
+        363001,
+        363031,
+        363069,
+        363083,
+        363132,
+        363147,
+        363192,
+        363201,
+        363248,
+        363284,
+        363316,
+        363346,
+        363386,
+        363401,
+        363432,
+        363475,
+        363489,
+        363521,
+        363573,
+        363601,
+        363623
+      ],
+      "ethEarned": "1916891840986",
+      "consensusIncome": "0",
+      "bonusEthEarned": "0",
+      "effectiveCommission": "100000000000000000"
+    },
+    "0xece82eaa74cc5df715640a1c9f4afceec119b414": {
+      "pubkey": "87c15e22a31e25322f0793a69d28e848151f45b7aa4908d40ae9cf585160ac534a48284e6a9a881c79064c342d799e4d",
+      "successfulAttestations": 448,
+      "missedAttestations": 2,
+      "attestationScore": "146967911956224620352",
+      "missingAttestationSlots": [
+        358691,
+        359186
+      ],
+      "ethEarned": "3904665160301",
+      "consensusIncome": "4431190000000000",
+      "bonusEthEarned": "7431421708167",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0xed9994c46d49fee9c641fe59d2d13c060c8c07fb": {
+      "pubkey": "96d667e481a14c3bdb15b5110d82f4adc0575bb9ff68d6fbc870b541a98680e54dccdb7c3ab2e03009d912bcbc64c0a8",
+      "successfulAttestations": 448,
+      "missedAttestations": 2,
+      "attestationScore": "146967911956224620352",
+      "missingAttestationSlots": [
+        358696,
+        359191
+      ],
+      "ethEarned": "3904665160301",
+      "consensusIncome": "4427705000000000",
+      "bonusEthEarned": "7425577114581",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0xee04ba468302f622e536377999f4e0876ccbef65": {
+      "pubkey": "8cfc8cd00b6463e865cb7ddd608ae01223671393be25b7a02bf5747704effe5758b6185c625d02a4cc715dc1aa974041",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "146250000000000000000",
+      "missingAttestationSlots": [],
+      "ethEarned": "3885591569567",
+      "consensusIncome": "4463972000000000",
+      "bonusEthEarned": "6922727897391",
+      "effectiveCommission": "100000000000000000"
+    },
+    "0xeef9fb545da93414b0a82114006ab59500165f2e": {
+      "pubkey": "acee10c367be1c7f2f08e334fe47f4c6289fbc1308bd4b62aa8d13c376e8e0df32fd2ff62e37793fe5732d3845dc63c6",
+      "successfulAttestations": 449,
+      "missedAttestations": 1,
+      "attestationScore": "147295965331126907451",
+      "missingAttestationSlots": [
+        358693
+      ],
+      "ethEarned": "3913380930748",
+      "consensusIncome": "4436349000000000",
+      "bonusEthEarned": "7440073719161",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0xef27d15c28164db52ae7af174c35ea2d1ee944a3": {
+      "pubkey": "917714c7f27296ddf3a4acfbf3c5e05e2b92d193efe3db6d7b0b653280a684b6c747108a9f1b729db939c438c1a22ef3",
+      "successfulAttestations": 449,
+      "missedAttestations": 1,
+      "attestationScore": "145925000000000000000",
+      "missingAttestationSlots": [
+        360902
+      ],
+      "ethEarned": "3876956921635",
+      "consensusIncome": "2359509000000000",
+      "bonusEthEarned": "3659126620517",
+      "effectiveCommission": "100000000000000000"
+    },
+    "0xefcd1dbb41be8f199b38a1d87fe870cc4d551995": {
+      "pubkey": "a1cc4689fe38a72bbb7e9fcb86ff24f888c55cf4db26f35feb6a71c71d0ea27b3c714e66cbd0f3e597ba2dbdca2f501f",
+      "successfulAttestations": 449,
+      "missedAttestations": 1,
+      "attestationScore": "147295965331126907451",
+      "missingAttestationSlots": [
+        358692
+      ],
+      "ethEarned": "3913380930748",
+      "consensusIncome": "4453160000000000",
+      "bonusEthEarned": "7468266965294",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0xf03416c5cbfd8fe53761729be0a5283e6ff57203": {
+      "pubkey": "94342b275c8600ec1e4170734a1a46361c4d9e4e9f61eca2cb090dae529b6e135ccd388d4d0ddff9bff52de9c9802465",
+      "successfulAttestations": 449,
+      "missedAttestations": 1,
+      "attestationScore": "147295965331126907451",
+      "missingAttestationSlots": [
+        359189
+      ],
+      "ethEarned": "3913380930748",
+      "consensusIncome": "4446675000000000",
+      "bonusEthEarned": "7457391157717",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0xf119d62eacbc39bc5aa4b7b5773e410ee287eccc": {
+      "pubkey": "a71a9c5278da3396604ded15a8c2d14fd74c391533872ab5a281ff0da55e2c8323026adaa2ec9495ac56390209f5b4e7",
+      "successfulAttestations": 449,
+      "missedAttestations": 1,
+      "attestationScore": "147295965331126907451",
+      "missingAttestationSlots": [
+        359190
+      ],
+      "ethEarned": "3913380930748",
+      "consensusIncome": "4455329000000000",
+      "bonusEthEarned": "7471904533010",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0xf295222b81172bd6b608d5dabceaf83ee89f0a7e": {
+      "pubkey": "891aaf7cc221677528a5556df16f9a8847cb022c70f5860f73a15bf233972cdd518f7a7bce45999c0d6109f44ece3219",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "147624018706029194550",
+      "missingAttestationSlots": [],
+      "ethEarned": "3922096701195",
+      "consensusIncome": "4458599000000000",
+      "bonusEthEarned": "7477388556260",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0xf4aff71dbf3252afba727892916a3fbc17a95314": {
+      "pubkey": "8f2a2b973d1165a6f22b828b79b5b7666ca70bb7d829eb43a6947cf5860a676d1b366e6e81726a570ddd517c1b764df2",
+      "successfulAttestations": 449,
+      "missedAttestations": 1,
+      "attestationScore": "145925000000000000000",
+      "missingAttestationSlots": [
+        363533
+      ],
+      "ethEarned": "3876956921635",
+      "consensusIncome": "4434360000000000",
+      "bonusEthEarned": "6876805606996",
+      "effectiveCommission": "100000000000000000"
+    },
+    "0xf56e08aec1725c1fd4c8bc90a831025c0ad8adc7": {
+      "pubkey": "a2a0bfc9d0e3a9affabf6cfc32dc9a9ca17d890fa48cc8b36e91f557fc28dc2ea4db3d3861d609d817f9f09712e1a1d0",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "147624018706029194550",
+      "missingAttestationSlots": [],
+      "ethEarned": "3922096701195",
+      "consensusIncome": "4472487000000000",
+      "bonusEthEarned": "7500679722895",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0xf65135c7d563f1a26c1efb396e84c2838644b180": {
+      "pubkey": "b962cb976ff637b4819f16faaa568344a715fcbd6c533c9fbb81164b7b8713e34274ecdeed91197ea2d272c642cfd696",
+      "successfulAttestations": 449,
+      "missedAttestations": 1,
+      "attestationScore": "147295965331126907451",
+      "missingAttestationSlots": [
+        358693
+      ],
+      "ethEarned": "3913380930748",
+      "consensusIncome": "4458818000000000",
+      "bonusEthEarned": "7477755834881",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0xf65df89b1c071fbcf45f8e9f504dac5f2d20c467": {
+      "pubkey": "aa83fb119fb31dd52a8bb4ca36f448aaa4cf8471fbfb07fcb96aff786c040173944d0dcc1654004080ae505f37482611",
+      "successfulAttestations": 449,
+      "missedAttestations": 1,
+      "attestationScore": "147295965331126907451",
+      "missingAttestationSlots": [
+        358693
+      ],
+      "ethEarned": "3913380930748",
+      "consensusIncome": "4408148000000000",
+      "bonusEthEarned": "7392778630574",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0xf80cd8533261815e4e78090133ca4736a65a474f": {
+      "pubkey": "9468651aff77291318cfcea30e6a9233bf57d1eb606a6de3d2459ee32868525dabb93bfd058c7a8301d6a2ee0f686261",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "147624018706029194550",
+      "missingAttestationSlots": [],
+      "ethEarned": "3922096701195",
+      "consensusIncome": "4453916000000000",
+      "bonusEthEarned": "7469534831220",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0xf8312922a9f3577cb5783d714d142a8d776dd713": {
+      "pubkey": "a50cc42065b0f65b83016e4fbe268eece41bc6972a76101887ae56139a4898e7dcab2f385385b6d0b4aec8588d4e2a34",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "147624018706029194550",
+      "missingAttestationSlots": [],
+      "ethEarned": "3922096701195",
+      "consensusIncome": "4482561000000000",
+      "bonusEthEarned": "7517574539477",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0xf8386a651455b5a15b23bc7bbcfe7565f52ce092": {
+      "pubkey": "b8b590b84c5278010fbf79a65e966d2065ba8d083d8d2285ce48f5301763c0f6679d85d461681741d5a2ef9543f2d802",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "152778143609640333000",
+      "missingAttestationSlots": [],
+      "ethEarned": "4059032251786",
+      "consensusIncome": "4486540000000000",
+      "bonusEthEarned": "9649343349435",
+      "effectiveCommission": "119342647732267654"
+    },
+    "0xf924942f1810c872c5682bbb6c5f651ef0e88a18": {
+      "pubkey": "b0ccefacfb5a16a2238441a96446a5a04f1d6417e4efb3147e9563a4e6ae4a078481ffa1d179543f29656286c153d67c",
+      "successfulAttestations": 449,
+      "missedAttestations": 1,
+      "attestationScore": "147295965331126907451",
+      "missingAttestationSlots": [
+        358693
+      ],
+      "ethEarned": "3913380930748",
+      "consensusIncome": "4430847000000000",
+      "bonusEthEarned": "7430846472701",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0xfbc8f98dd9f28827db1078eb0ba6d41f02638fcc": {
+      "pubkey": "871b1bbfeacde6b93937493b0354ba96378b009b5c2a8ab5332c2ec2b0cfbfbea97e516ab31920f9d3ff3922fd9283ac",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "146250000000000000000",
+      "missingAttestationSlots": [],
+      "ethEarned": "3885591569567",
+      "consensusIncome": "4421991000000000",
+      "bonusEthEarned": "6857623761464",
+      "effectiveCommission": "100000000000000000"
+    },
+    "0xfbe08227e864cac353f90648b218fb36c1d818d8": {
+      "pubkey": "8500b15e36af941485d13af78d76a32ca08df8b51691e346095b1caa79351c894ba5ecda008d9d510a39b7baf2cec7da",
+      "successfulAttestations": 449,
+      "missedAttestations": 1,
+      "attestationScore": "147295965331126907451",
+      "missingAttestationSlots": [
+        358696
+      ],
+      "ethEarned": "3913380930748",
+      "consensusIncome": "4437923000000000",
+      "bonusEthEarned": "7442713429434",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0xfbe4ec33d1cbff011da9b86cde3e423991400bfe": {
+      "pubkey": "a8d9866fee114d7c6591eef6f1f3a94322c2f08b5fa73683e0ba51083c0e7ffc4772249ac3d4b446c2072feec1bebffe",
+      "successfulAttestations": 449,
+      "missedAttestations": 1,
+      "attestationScore": "147295965331126907451",
+      "missingAttestationSlots": [
+        359187
+      ],
+      "ethEarned": "3913380930748",
+      "consensusIncome": "4455632000000000",
+      "bonusEthEarned": "7472412685623",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0xfc3c5e9c993c3cb08266052635cdc68534001070": {
+      "pubkey": "b0f4fb65cd396cc258811eff8d2d8c03432f9a32892f5cbe10bedda4d8e74b2a63bc06b50912cd602ebce0579fc269ff",
+      "successfulAttestations": 449,
+      "missedAttestations": 1,
+      "attestationScore": "147295965331126907451",
+      "missingAttestationSlots": [
+        358699
+      ],
+      "ethEarned": "3913380930748",
+      "consensusIncome": "4467202000000000",
+      "bonusEthEarned": "7491816400915",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0xfd48046d81b13e135dfe425d2f4958f0c6c69441": {
+      "pubkey": "a0a13fee1445412124b14897e7d91bfd699deb159ad395ed3fa0159d66af73fa3fc859da0b94de245c8f15f53ffd477d",
+      "successfulAttestations": 449,
+      "missedAttestations": 1,
+      "attestationScore": "147295965331126907451",
+      "missingAttestationSlots": [
+        358691
+      ],
+      "ethEarned": "3913380930748",
+      "consensusIncome": "4463211000000000",
+      "bonusEthEarned": "7485123209235",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0xfdc73b706a81e4c02a64175464aac4fef03b09a6": {
+      "pubkey": "b516823f1f8e6414a7a607c1ca4021f94ad14d0b057ee8f3f9adfbb89cb3ad4d404a53690ecca9bec54bc21d81279779",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "147624018706029194550",
+      "missingAttestationSlots": [],
+      "ethEarned": "3922096701195",
+      "consensusIncome": "4456170000000000",
+      "bonusEthEarned": "7473314949999",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0xfe49e5da1ba1729584edb123e89a2d148a006768": {
+      "pubkey": "b183dc7084eac7c2a4bb31ff51215982396f04c0718b9c4226e3a60c78c5fb8d81d16ae3473688b36fc90f01cce5caed",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "147624018706029194550",
+      "missingAttestationSlots": [],
+      "ethEarned": "3922096701195",
+      "consensusIncome": "4474499000000000",
+      "bonusEthEarned": "7504053990412",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0xfec7c3eb13c74a8505bfc16355730a24bf7f4155": {
+      "pubkey": "a38558056c845f4bd06baf0586f1b02bb38d7dda4939aecd18a2b9ea30f1c1beeedbfe3397acc513376be3643e226894",
+      "successfulAttestations": 449,
+      "missedAttestations": 1,
+      "attestationScore": "147295965331126907451",
+      "missingAttestationSlots": [
+        359192
+      ],
+      "ethEarned": "3913380930748",
+      "consensusIncome": "4478570000000000",
+      "bonusEthEarned": "7510881347798",
+      "effectiveCommission": "104071166536382799"
+    },
+    "0xfee660b2c0ef16373f6aa03078196637dbf33745": {
+      "pubkey": "b6588cd1c41a2ec2d6bf61a2a63d830434bf78c5ffc43a075497cb6f2337370db3059b63566346c26e4b1c5346f0dd63",
+      "successfulAttestations": 450,
+      "missedAttestations": 0,
+      "attestationScore": "146250000000000000000",
+      "missingAttestationSlots": [],
+      "ethEarned": "3885591569567",
+      "consensusIncome": "2093053000000000",
+      "bonusEthEarned": "3245906648567",
+      "effectiveCommission": "100000000000000000"
+    }
+  },
+  "bonusScalar": "41354667382270846"
+}
