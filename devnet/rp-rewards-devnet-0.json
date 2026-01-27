@@ -1,31 +1,42 @@
 {
   "rewardsFileVersion": 3,
   "rulesetVersion": 10,
-  "index": 0,
   "network": "0",
+  "index": 0,
   "startTime": "0001-01-01T00:00:00Z",
   "endTime": "0001-01-01T00:00:00Z",
   "consensusEndBlock": 0,
   "executionEndBlock": 0,
-  "intervalsPassed": 1,
-  "merkleRoot": "0xf36261364ad2ccfe3a282a32060606c9279e64572eb96f4866451d56c6378634",
+  "intervalsPassed": 3,
+  "merkleRoot": "0xf184be5e223b4a614be59c8f4950c4393c8550d6986f1b2ad85d8720c39fa6fb",
   "totalRewards": {
-    "protocolDaoRpl": "1082812998619350000000",
-    "totalCollateralRpl": "0",
+    "totalProtocolDaoEth": "null",
+    "protocolDaoRpl": "60156277701075000000",
+    "totalCollateralRpl": "1684375775630100000000",
     "totalOracleDaoRpl": "661719054711825000000",
     "totalSmoothingPoolEth": "0",
     "poolStakerSmoothingPoolEth": "0",
     "nodeOperatorSmoothingPoolEth": "0",
-    "totalNodeWeight": "0"
+    "totalNodeWeight": "121224362096891000000"
   },
   "networkRewards": {
     "0": {
-      "collateralRpl": "0",
+      "collateralRpl": "1684375775630100000000",
       "oracleDaoRpl": "661719054711825000000",
       "smoothingPoolEth": "0"
     }
   },
   "nodeRewards": {
+    "0x03600953f9184f6da395ac8d7aa94574117cbf3e": {
+      "rewardNetwork": 0,
+      "collateralRpl": "1684375775630100000000",
+      "oracleDaoRpl": "0",
+      "smoothingPoolEth": "0",
+      "merkleProof": [
+        "0x4d6adb667f36cf26d60586998f8d94fbffdf2bb291dc1f04664a787eab2a3954",
+        "0x3d840df807736c561c15d2cd93f3ed2df2730662b894fad34df14e892a577d3f"
+      ]
+    },
     "0x9d5e78c8c8c30793f142dcc68e759b69196f6886": {
       "rewardNetwork": 0,
       "collateralRpl": "0",
@@ -33,7 +44,7 @@
       "smoothingPoolEth": "0",
       "merkleProof": [
         "0x003418d6e7aad26531c5fb97ef848716f775c124713f7c8660acfea5b588e3aa",
-        "0x7a5fd6a00d7e55e946c142aafeee34e4389089838d15c5f1c1920fac995334a1"
+        "0x88cbdec9989ed7dce536eafacbe63f774c28849be537d4cca2d85f789030b494"
       ]
     },
     "0xa3819ae703fe88a5e6a917d0af2c88a453bdfa44": {
@@ -43,7 +54,7 @@
       "smoothingPoolEth": "0",
       "merkleProof": [
         "0x13b64b05d44ddeb05814c9e24fefd4b6a7850e3c0d2c04dad46b6d710337edf8",
-        "0x7a5fd6a00d7e55e946c142aafeee34e4389089838d15c5f1c1920fac995334a1"
+        "0x88cbdec9989ed7dce536eafacbe63f774c28849be537d4cca2d85f789030b494"
       ]
     },
     "0xfcb7dc1baee1651137f9c0ea6f2e650359ade290": {
@@ -52,7 +63,7 @@
       "oracleDaoRpl": "220573018237275000000",
       "smoothingPoolEth": "0",
       "merkleProof": [
-        "0x0000000000000000000000000000000000000000000000000000000000000000",
+        "0x678cea363a784d7d8872f046ddfe81073ab760bc6da3766092f76930033d28fe",
         "0x3d840df807736c561c15d2cd93f3ed2df2730662b894fad34df14e892a577d3f"
       ]
     }
