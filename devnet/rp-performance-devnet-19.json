@@ -1,0 +1,649 @@
+{
+  "rewardsFileVersion": 4,
+  "rulesetVersion": 11,
+  "index": 19,
+  "network": "devnet",
+  "startTime": "2026-01-29T03:44:24Z",
+  "endTime": "2026-01-31T03:44:12Z",
+  "consensusStartBlock": 2287072,
+  "consensusEndBlock": 2301471,
+  "executionStartBlock": 2125954,
+  "executionEndBlock": 2139259,
+  "minipoolPerformance": {
+    "0x79a48db759522c96197dfbf78e63e4a8b6317cef": {
+      "pubkey": "b44dbd3d9103b2e3d692bd012dcb0a8fc6fcf69d65b6e982d525de9d1e4d21feb8f4b66eb629d731d2062d1c871d3ddd",
+      "successfulAttestations": 445,
+      "missedAttestations": 5,
+      "attestationScore": "151731557131645504750",
+      "missingAttestationSlots": [
+        2294172,
+        2296826,
+        2297557,
+        2298671,
+        2300997
+      ],
+      "ethEarned": "16040972315429274",
+      "consensusIncome": "3253973000000000",
+      "bonusEthEarned": "173989257228835",
+      "effectiveCommission": "121293055076091400"
+    }
+  },
+  "megapoolPerformance": {
+    "0x9657e38319f94c429caf8a16c9f44add7d07e52e": {
+      "validatorPerformance": {
+        "822d76f4e6e2eee9cbd1efc92153ae4e485fabe1d6369a94fdac3d2638210b45d6dc2531d1b1f11c9fd50b3e90b9a897": {
+          "successfulAttestations": 0,
+          "missedAttestations": 185,
+          "attestationScore": "0",
+          "missingAttestationSlots": [
+            2295563,
+            2295590,
+            2295632,
+            2295662,
+            2295700,
+            2295738,
+            2295767,
+            2295796,
+            2295826,
+            2295841,
+            2295879,
+            2295912,
+            2295943,
+            2295972,
+            2296002,
+            2296046,
+            2296076,
+            2296121,
+            2296128,
+            2296160,
+            2296207,
+            2296240,
+            2296280,
+            2296288,
+            2296320,
+            2296381,
+            2296403,
+            2296420,
+            2296450,
+            2296509,
+            2296541,
+            2296572,
+            2296582,
+            2296615,
+            2296647,
+            2296676,
+            2296728,
+            2296764,
+            2296770,
+            2296828,
+            2296844,
+            2296867,
+            2296918,
+            2296945,
+            2296983,
+            2296993,
+            2297038,
+            2297068,
+            2297089,
+            2297147,
+            2297153,
+            2297197,
+            2297246,
+            2297264,
+            2297280,
+            2297319,
+            2297370,
+            2297394,
+            2297433,
+            2297459,
+            2297478,
+            2297516,
+            2297542,
+            2297595,
+            2297611,
+            2297651,
+            2297674,
+            2297698,
+            2297744,
+            2297781,
+            2297798,
+            2297844,
+            2297877,
+            2297891,
+            2297940,
+            2297958,
+            2298012,
+            2298038,
+            2298074,
+            2298111,
+            2298124,
+            2298158,
+            2298185,
+            2298234,
+            2298256,
+            2298292,
+            2298310,
+            2298351,
+            2298394,
+            2298428,
+            2298450,
+            2298475,
+            2298496,
+            2298549,
+            2298586,
+            2298605,
+            2298624,
+            2298659,
+            2298713,
+            2298727,
+            2298760,
+            2298794,
+            2298834,
+            2298871,
+            2298883,
+            2298939,
+            2298953,
+            2299003,
+            2299023,
+            2299066,
+            2299093,
+            2299122,
+            2299165,
+            2299182,
+            2299201,
+            2299248,
+            2299272,
+            2299300,
+            2299354,
+            2299384,
+            2299399,
+            2299450,
+            2299482,
+            2299502,
+            2299529,
+            2299579,
+            2299606,
+            2299640,
+            2299670,
+            2299691,
+            2299734,
+            2299756,
+            2299801,
+            2299824,
+            2299865,
+            2299901,
+            2299927,
+            2299942,
+            2299988,
+            2300005,
+            2300036,
+            2300086,
+            2300116,
+            2300138,
+            2300167,
+            2300199,
+            2300254,
+            2300287,
+            2300309,
+            2300336,
+            2300371,
+            2300401,
+            2300445,
+            2300449,
+            2300511,
+            2300526,
+            2300557,
+            2300604,
+            2300633,
+            2300661,
+            2300675,
+            2300709,
+            2300739,
+            2300768,
+            2300813,
+            2300842,
+            2300893,
+            2300898,
+            2300952,
+            2300967,
+            2301002,
+            2301026,
+            2301081,
+            2301108,
+            2301123,
+            2301172,
+            2301200,
+            2301234,
+            2301264,
+            2301298,
+            2301329,
+            2301354,
+            2301402,
+            2301416,
+            2301467
+          ],
+          "ethEarned": "0"
+        },
+        "83672f72c64f257fc8be288fe99194d8277c624b68ada70524194804ec58972451be5f8fc51c0b2ae4fe8fc11f2ad7e3": {
+          "successfulAttestations": 237,
+          "missedAttestations": 10,
+          "attestationScore": "24255468749999999763",
+          "missingAttestationSlots": [
+            2293571,
+            2293748,
+            2293780,
+            2293811,
+            2294153,
+            2294954,
+            2295246,
+            2295295,
+            2297436,
+            2300471
+          ],
+          "ethEarned": "2564274104027909"
+        },
+        "860949e0e8ca47c2b65cb8b1845d34cef02ac57ddd85c92066cb4e0a287cc2fac892514a6ae1c4d9011b47c00a9bbd57": {
+          "successfulAttestations": 236,
+          "missedAttestations": 11,
+          "attestationScore": "24153124999999999764",
+          "missingAttestationSlots": [
+            2293583,
+            2293782,
+            2293821,
+            2294150,
+            2294937,
+            2294970,
+            2295262,
+            2295289,
+            2296809,
+            2300906,
+            2301012
+          ],
+          "ethEarned": "2553454382069986"
+        },
+        "87193d4fccda93164784022ec4e03176b0c873233fd9333f18c37dceeea60adce97e6407f57a0cabb6cb8f285b318d69": {
+          "successfulAttestations": 182,
+          "missedAttestations": 3,
+          "attestationScore": "18626562499999999818",
+          "missingAttestationSlots": [
+            2296824,
+            2298658,
+            2300926
+          ],
+          "ethEarned": "1969189396342108"
+        },
+        "89825547ccacdce99caf3a01299039b779ec60da4b576b0de782590a8261b1c797d05deb29ec33c3cf2150a0789d3ef3": {
+          "successfulAttestations": 238,
+          "missedAttestations": 9,
+          "attestationScore": "24357812499999999762",
+          "missingAttestationSlots": [
+            2293595,
+            2293788,
+            2293792,
+            2294165,
+            2294941,
+            2294954,
+            2295242,
+            2295265,
+            2300750
+          ],
+          "ethEarned": "2575093825985833"
+        },
+        "8abe60dede6decb880d60964787725e3359e5f2238b92292fe2825cebd08cffdf6aa3b6b716d717632065b962fb8245e": {
+          "successfulAttestations": 226,
+          "missedAttestations": 5,
+          "attestationScore": "23129687499999999774",
+          "missingAttestationSlots": [
+            2294156,
+            2294964,
+            2295288,
+            2298670,
+            2299263
+          ],
+          "ethEarned": "2445257162490749"
+        },
+        "8b914a8b943bc4623271c4356ffe9f2f6cf26545e0d89679a101fab6e6aefdac1619090b12e92a616704de791444c02a": {
+          "successfulAttestations": 238,
+          "missedAttestations": 10,
+          "attestationScore": "24357812499999999762",
+          "missingAttestationSlots": [
+            2293563,
+            2293581,
+            2293787,
+            2293804,
+            2294171,
+            2294929,
+            2294959,
+            2295258,
+            2295275,
+            2300926
+          ],
+          "ethEarned": "2575093825985833"
+        },
+        "8ce2c2b2cbf755d3135dacd4a562914e1a873c3a6986cd4f857ad329bd5b0ae4fa54dc656cfbac57d2a688026cee0951": {
+          "successfulAttestations": 239,
+          "missedAttestations": 8,
+          "attestationScore": "24460156249999999761",
+          "missingAttestationSlots": [
+            2293598,
+            2293794,
+            2294159,
+            2294942,
+            2294971,
+            2295248,
+            2295275,
+            2300472
+          ],
+          "ethEarned": "2585913547943757"
+        },
+        "8e922b7fb0b944acb96ba0d3e547f128bb55e99ab714fe2ef65d9df6834a616be8a2f5b6f7b2fc7f76fbab1174ced982": {
+          "successfulAttestations": 187,
+          "missedAttestations": 3,
+          "attestationScore": "19138281249999999813",
+          "missingAttestationSlots": [
+            2298671,
+            2299962,
+            2300766
+          ],
+          "ethEarned": "2023288006131726"
+        },
+        "8f6559c34f3cfbe7ca871c810b8ddfb7ddebb3721dca417226ccb706c99041c4fc8e52860798908b258ed8468de19bca": {
+          "successfulAttestations": 237,
+          "missedAttestations": 10,
+          "attestationScore": "24255468749999999763",
+          "missingAttestationSlots": [
+            2293569,
+            2293770,
+            2293820,
+            2294170,
+            2294942,
+            2294973,
+            2295258,
+            2295289,
+            2296580,
+            2300906
+          ],
+          "ethEarned": "2564274104027909"
+        },
+        "90ea584b2175933f85faa97941cb2dea8697ce834a70e27f39d8d5eab98839687a729d921d09eda085fbcf6f81b90496": {
+          "successfulAttestations": 225,
+          "missedAttestations": 6,
+          "attestationScore": "23027343749999999775",
+          "missingAttestationSlots": [
+            2294163,
+            2294928,
+            2294954,
+            2295244,
+            2295288,
+            2295801
+          ],
+          "ethEarned": "2434437440532825"
+        },
+        "91c28e6724bca08972a8ecd577ff2515f36d8a7d8f4ca94c9e11d63d2afb6b092609a4b91d669a0201d226e114f7c713": {
+          "successfulAttestations": 238,
+          "missedAttestations": 9,
+          "attestationScore": "24357812499999999762",
+          "missingAttestationSlots": [
+            2293579,
+            2293746,
+            2293797,
+            2294151,
+            2294972,
+            2295281,
+            2297557,
+            2298412,
+            2300765
+          ],
+          "ethEarned": "2575093825985833"
+        },
+        "93150f35342d3202a8bf78acd0818f1e6ef1316e9e8e7475a32669b1c33d42a5eaac3659bc7771b7cd52f75abe317993": {
+          "successfulAttestations": 238,
+          "missedAttestations": 9,
+          "attestationScore": "24357812499999999762",
+          "missingAttestationSlots": [
+            2293599,
+            2293769,
+            2293823,
+            2294146,
+            2294960,
+            2295243,
+            2295278,
+            2295778,
+            2300907
+          ],
+          "ethEarned": "2575093825985833"
+        },
+        "98f7d2c56e171c4ba41dfac74b9b950b62924c0ea0de9bdc4fc0a384d7391381e1f1bb5ee54c8070f6b4d2adfc7cc232": {
+          "successfulAttestations": 187,
+          "missedAttestations": 3,
+          "attestationScore": "19138281249999999813",
+          "missingAttestationSlots": [
+            2295801,
+            2299265,
+            2300906
+          ],
+          "ethEarned": "2023288006131726"
+        },
+        "a167f19bcc7af16c3055e6535d388340cc899e54a48f06f0ea492b63177fd5933809b981666b7635ae1bedecef21464d": {
+          "successfulAttestations": 240,
+          "missedAttestations": 7,
+          "attestationScore": "24562499999999999760",
+          "missingAttestationSlots": [
+            2293588,
+            2293792,
+            2294154,
+            2294957,
+            2295242,
+            2295272,
+            2301000
+          ],
+          "ethEarned": "2596733269901680"
+        },
+        "a54dfbb8c48f3a6116a95a0ddfcf63d6e8aa2dc48224a42f3a2cd2a74a4b86dc8e26c453320ff3b9288397085a25ed40": {
+          "successfulAttestations": 237,
+          "missedAttestations": 10,
+          "attestationScore": "24255468749999999763",
+          "missingAttestationSlots": [
+            2293573,
+            2293787,
+            2293818,
+            2294165,
+            2294969,
+            2295245,
+            2295292,
+            2296579,
+            2300452,
+            2300906
+          ],
+          "ethEarned": "2564274104027909"
+        },
+        "a99dcbe0d4fa297f40c0fb1edcfb5f7a0e5bd99559f7bb1d41079aabdbd89a4ca8179ba701a156a3814674c3bf3e3a08": {
+          "successfulAttestations": 238,
+          "missedAttestations": 10,
+          "attestationScore": "24357812499999999762",
+          "missingAttestationSlots": [
+            2293566,
+            2293594,
+            2293769,
+            2293805,
+            2294168,
+            2294218,
+            2294946,
+            2295255,
+            2295264,
+            2300907
+          ],
+          "ethEarned": "2575093825985833"
+        },
+        "adcc9056385f757f39429e7823560bdd269b82e80bc541b02125c2703f41d1d97927036fe53c4461306e67d90617076c": {
+          "successfulAttestations": 239,
+          "missedAttestations": 8,
+          "attestationScore": "24460156249999999761",
+          "missingAttestationSlots": [
+            2293571,
+            2293787,
+            2293819,
+            2294038,
+            2294171,
+            2294957,
+            2295255,
+            2295265
+          ],
+          "ethEarned": "2585913547943757"
+        },
+        "b97c2dd2d1adfd7ba637b92aedec110973bf36e65590de56e49557a35f5e52f3beb14d0e34990e5e846288dfe22eea0c": {
+          "successfulAttestations": 238,
+          "missedAttestations": 9,
+          "attestationScore": "24357812499999999762",
+          "missingAttestationSlots": [
+            2293580,
+            2293771,
+            2293821,
+            2294155,
+            2294928,
+            2294969,
+            2295276,
+            2295779,
+            2297560
+          ],
+          "ethEarned": "2575093825985833"
+        }
+      }
+    },
+    "0xa85dde75b60d970bce8a808b9768437ce09b88b8": {
+      "voterShare": "38534542543475350"
+    },
+    "0xc745d5c3488699d83836c9e75d4b01feb7543ab3": {
+      "validatorPerformance": {
+        "8007b615909fb5e3b4bd9835848177eb41ccff2df04a33627def2cdb5ffb6057b8eaea9b5b33a37bbd42f5319cc6dfaf": {
+          "successfulAttestations": 446,
+          "missedAttestations": 4,
+          "attestationScore": "75262500000000000000",
+          "missingAttestationSlots": [
+            2294149,
+            2296598,
+            2300908,
+            2301000
+          ],
+          "ethEarned": "7956707897240723"
+        },
+        "80a889787c07318f210e67e9c4f2cdd8fd650e705fe141831093fa545d5592f62a9b54667b63ef3f136fcf284eb6b61e": {
+          "successfulAttestations": 447,
+          "missedAttestations": 3,
+          "attestationScore": "75431250000000000000",
+          "missingAttestationSlots": [
+            2293446,
+            2293748,
+            2294173
+          ],
+          "ethEarned": "7974548049476688"
+        },
+        "8e8c5d80ea10c1b434817425224502d70152726a684ec5f0b5e5747a05a4edb5fe4ba478aa1bac771d4406a0ed908420": {
+          "successfulAttestations": 445,
+          "missedAttestations": 5,
+          "attestationScore": "75093750000000000000",
+          "missingAttestationSlots": [
+            2294147,
+            2298412,
+            2298657,
+            2299963,
+            2300262
+          ],
+          "ethEarned": "7938867745004757"
+        },
+        "98aeb914909e9924f2266f6c02d681bb8776143050474402f3370fe56f0f9652e0b0480882cb693302b793bdba6703e0": {
+          "successfulAttestations": 447,
+          "missedAttestations": 3,
+          "attestationScore": "75431250000000000000",
+          "missingAttestationSlots": [
+            2294167,
+            2296809,
+            2299369
+          ],
+          "ethEarned": "7974548049476688"
+        },
+        "a6fb1bdbd9f50c1aaa6f56706b29c3db168bcf1269395e593ddd59d06e7ecfe503c36f331101770b2f4f176a589fb280": {
+          "successfulAttestations": 447,
+          "missedAttestations": 3,
+          "attestationScore": "75431250000000000000",
+          "missingAttestationSlots": [
+            2287524,
+            2294166,
+            2296823
+          ],
+          "ethEarned": "7974548049476688"
+        },
+        "adf038b664962e37e6f5d20a0015db695c8cb76b361bc2e3f98096b958c7350b28efb936c530a5706d410d345cf0e845": {
+          "successfulAttestations": 445,
+          "missedAttestations": 5,
+          "attestationScore": "75093750000000000000",
+          "missingAttestationSlots": [
+            2289649,
+            2293445,
+            2294175,
+            2295779,
+            2299963
+          ],
+          "ethEarned": "7938867745004757"
+        },
+        "b053a4ba718f7157fe03c3ea7163c97bb836d0760f0da38d13aeadd80e5cc6251a82efedc7cce52ca98a49469a76c46b": {
+          "successfulAttestations": 447,
+          "missedAttestations": 3,
+          "attestationScore": "75431250000000000000",
+          "missingAttestationSlots": [
+            2293453,
+            2294170,
+            2297560
+          ],
+          "ethEarned": "7974548049476688"
+        },
+        "b2f39b10ae8378983fa0f71f6ec85b4e04c56048286e9ba4cd1bec92a4951d8316464b1c3f6c6ed1e20cfe910b1b4cf5": {
+          "successfulAttestations": 449,
+          "missedAttestations": 1,
+          "attestationScore": "75768750000000000000",
+          "missingAttestationSlots": [
+            2294160
+          ],
+          "ethEarned": "8010228353948620"
+        },
+        "b2f943fc48ca1b1d1470a351da46ef68d1b5a7c13914006fa8820a37d794434bcf958a8de3123870d3da606d6b943f10": {
+          "successfulAttestations": 448,
+          "missedAttestations": 2,
+          "attestationScore": "75600000000000000000",
+          "missingAttestationSlots": [
+            2294170,
+            2301014
+          ],
+          "ethEarned": "7992388201712654"
+        },
+        "b3fa9dcc1be6228bb87564974ec273f0945459e05200fd21147fff666a6a4cd9e28921ecfefc1873b9a2fee20968b25b": {
+          "successfulAttestations": 448,
+          "missedAttestations": 2,
+          "attestationScore": "75600000000000000000",
+          "missingAttestationSlots": [
+            2294166,
+            2299962
+          ],
+          "ethEarned": "7992388201712654"
+        },
+        "b8dac74e31d5a7d012d2c283c9c83585e06922d41bda9652131bfc559bedfde78ff17d302a32a82c0e3f1ab66d7d4825": {
+          "successfulAttestations": 445,
+          "missedAttestations": 5,
+          "attestationScore": "75093750000000000000",
+          "missingAttestationSlots": [
+            2294169,
+            2297437,
+            2298659,
+            2300750,
+            2300997
+          ],
+          "ethEarned": "7938867745004757"
+        }
+      }
+    },
+    "0xf24c70772544b8ae60af28ddd34f13cc9c428ee7": {
+      "voterShare": "17491344188894135"
+    }
+  },
+  "bonusScalar": "1000000000000000000"
+}
